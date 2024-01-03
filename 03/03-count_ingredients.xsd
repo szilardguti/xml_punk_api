@@ -1,0 +1,48 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    <xs:complexType name="elementWithCount">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="count" type="xs:nonNegativeInteger" use="required"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    <xs:complexType name="ingredients">
+        <xs:sequence>
+            <xs:element name="hops" type="hops"/>
+            <xs:element name="yeasts" type="yeasts"/>
+            <xs:element name="malts" type="malts"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    
+    <xs:attribute name="all" type="xs:integer"/>
+    
+    
+    <xs:complexType name="hops">
+        <xs:sequence>
+            <xs:element name="hop" type="elementWithCount" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute ref="all" use="required"></xs:attribute>
+    </xs:complexType>
+    
+    <xs:complexType name="yeasts">
+        <xs:sequence>
+            <xs:element name="yeast" type="elementWithCount" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute ref="all" use="required"></xs:attribute>
+    </xs:complexType>
+    
+    <xs:complexType name="malts">
+        <xs:sequence>
+            <xs:element name="malt" type="elementWithCount" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute ref="all" use="required"></xs:attribute>
+    </xs:complexType>
+    
+    
+    <xs:element name="ingredients" type="ingredients"/>
+        
+</xs:schema>
+
