@@ -15,7 +15,7 @@
             <xs:element name="description" type="xs:string"/>
             <xs:element name="contributedBy" type="xs:string"/>
             <xs:element name="attenuationLevel" type="xs:decimal" default="0"/>
-            <xs:element name="phLevel" type="xs:decimal" default="0"/>
+            <xs:element name="phLevel" type="ph" default="0"/>
             <xs:element name="method" type="method"/>
             <xs:element name="targetOg" type="xs:decimal" default="0"/>
             <xs:element name="targetFg" type="xs:decimal" default="0"/>
@@ -109,7 +109,19 @@
             <xs:element name="amount" type="numberWithUnit"/>
         </xs:sequence>
     </xs:complexType>
+    
+    <xs:simpleType name="ph">
+        <xs:restriction base="xs:decimal">
+            <xs:minInclusive value="0"/>
+            <xs:maxInclusive value="14"/>
+        </xs:restriction>
+    </xs:simpleType>
 
-    <xs:element name="beers" type="beers"/>
+    <xs:element name="beers" type="beers">
+        <xs:key name="beerIdKey">
+            <xs:selector xpath="beer"></xs:selector>
+            <xs:field xpath="@id"></xs:field>
+        </xs:key>
+    </xs:element>
 
 </xs:schema>
