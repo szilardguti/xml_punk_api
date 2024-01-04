@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:complexType name="beers">
+        <xs:sequence>
+            <xs:element name="beer" type="beer" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="beer">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="tagline" type="xs:string"/>
+            <xs:element name="firstBrewed" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="contributedBy" type="xs:string"/>
+            <xs:element name="attenuationLevel" type="xs:decimal" default="0"/>
+            <xs:element name="phLevel" type="xs:decimal" default="0"/>
+            <xs:element name="method" type="method"/>
+            <xs:element name="targetOg" type="xs:decimal" default="0"/>
+            <xs:element name="targetFg" type="xs:decimal" default="0"/>
+            <xs:element name="imageUrl" type="xs:anyURI"/>
+            <xs:element name="boilVolume" type="numberWithUnit"/>
+            <xs:element name="volume" type="numberWithUnit"/>
+            <xs:element name="ebc" type="xs:decimal" default="0"/>
+            <xs:element name="srm" type="xs:decimal" default="0"/>
+            <xs:element name="abv" type="xs:decimal" default="0"/>
+            <xs:element name="ibu" type="xs:decimal" default="0"/>
+            <xs:element name="foodPairings" type="foodPairings"/>
+            <xs:element name="ingredients" type="ingredients"/>
+            <xs:element name="brewersTips" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="numberWithUnit">
+        <xs:simpleContent>
+            <xs:extension base="xs:decimal">
+                <xs:attribute name="unit" type="xs:string" use="required"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <xs:complexType name="method">
+        <xs:sequence>
+            <xs:element name="mashTemperatures" type="mashTemperatures"/>
+            <xs:element name="fermentation" type="fermentation"/>
+            <xs:element name="twist" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="mashTemperatures">
+        <xs:sequence>
+            <xs:element name="mashTemperature" type="mashTemperature" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="mashTemperature">
+        <xs:sequence>
+            <xs:element name="duration" type="xs:integer" default="0"/>
+            <xs:element name="value" type="numberWithUnit" default="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="fermentation">
+        <xs:sequence>
+            <xs:element name="value" type="numberWithUnit" default="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="foodPairings">
+        <xs:sequence>
+            <xs:element name="food" type="xs:string" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ingredients">
+        <xs:sequence>
+            <xs:element name="hops" type="hops"/>
+            <xs:element name="yeast" type="xs:string"/>
+            <xs:element name="malts" type="malts"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="hops">
+        <xs:sequence>
+            <xs:element name="hop" type="hop" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="hop">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="add" type="xs:string"/>
+            <xs:element name="amount" type="numberWithUnit"/>
+            <xs:element name="attribute" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="malts">
+        <xs:sequence>
+            <xs:element name="malt" type="malt" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="malt">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="amount" type="numberWithUnit"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="beers" type="beers"/>
+
+</xs:schema>
