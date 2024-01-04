@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:simpleType name="yearValue">
+        <xs:restriction base="xs:gYear"/>
+    </xs:simpleType>
+
+
+    <xs:complexType name="year">
+        <xs:simpleContent>
+            <xs:extension base="xs:nonNegativeInteger">
+                <xs:attribute name="value" type="yearValue" use="required"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <xs:complexType name="years">
+        <xs:sequence>
+            <xs:element name="year" type="year" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="all" type="xs:nonNegativeInteger" use="required"/>
+    </xs:complexType>
+
+    <xs:element name="years" type="years">
+        <xs:key name="uniqueYearValue">
+            <xs:selector xpath="year"/>
+            <xs:field xpath="@value"/>
+        </xs:key>
+    </xs:element>
+</xs:schema>
