@@ -1,3 +1,4 @@
+(: A Punk API-n keresztül elérhető összes adat kinyerése lapozással :)
 xquery version '3.1';
 
 import module namespace deik-utility = "http://www.inf.unideb.hu/xquery/utility"
@@ -23,7 +24,6 @@ declare function local:get-beers($page as xs:integer) {
         $emptyArray := [ ]
     return 
         if (array:size($data) > 0) then
-            (: ($data, local:get-beers($page + 1)) :)
             array:join( ($data, local:get-beers($page + 1)) )
         else 
             $emptyArray
