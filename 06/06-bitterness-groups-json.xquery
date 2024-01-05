@@ -11,10 +11,10 @@ declare option output:indent "yes";
 
 declare function local:transformBeer($beer as map(*)) as map(*)
 {
-    let $ibu := $beer?ibu,
-        $name := $beer?name,
-        $id := $beer?id,
-        $desc := $beer?description
+    let $ibu := $beer("ibu"),
+        $name := $beer("name"),
+        $id := $beer("id"),
+        $desc := $beer("description")
     return
         map
         {
