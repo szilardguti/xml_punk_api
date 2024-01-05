@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:complexType name="beer">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="id" type="xs:positiveInteger" use="required"></xs:attribute>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <xs:complexType name="beers">
+        <xs:sequence>
+            <xs:element name="beer" type="beer" minOccurs="2" maxOccurs="unbounded"></xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="food">
+        <xs:choice>
+            <xs:element name="beers" type="beers"/>
+            <xs:element name="beer" type="beer"/>
+        </xs:choice>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="foodPairings">
+        <xs:sequence>
+            <xs:element name="food" type="food" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="foodPairings" type="foodPairings">
+        <xs:key name="foodNameKey">
+            <xs:selector xpath="food"></xs:selector>
+            <xs:field xpath="@name"></xs:field>
+        </xs:key>
+    </xs:element>
+
+</xs:schema>

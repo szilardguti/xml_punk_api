@@ -1,0 +1,2881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodPairings>
+    <food name="Blackened cajun beef">
+        <beers>
+            <beer id="27">Dog B</beer>
+            <beer id="34">Bourbon Baby</beer>
+            <beer id="138">Dog A</beer>
+            <beer id="202">Dog C</beer>
+        </beers>
+    </food>
+    <food name="Lemon drizzle cake">
+        <beers>
+            <beer id="81">India Session Lager - Prototype Challenge</beer>
+            <beer id="171">Challenger</beer>
+            <beer id="324">Fools Gold Dortmunder Lager</beer>
+        </beers>
+    </food>
+    <food name="French onion soup">
+        <beers>
+            <beer id="53">Baby Dogma</beer>
+            <beer id="85">Santa Paws</beer>
+            <beer id="86">Original Dogma (Née Speedball)</beer>
+        </beers>
+    </food>
+    <food name="Carrot cake">
+        <beers>
+            <beer id="71">Pale - Russian Doll</beer>
+            <beer id="297">East Of Vermont</beer>
+            <beer id="316">SOS! (May Day!)</beer>
+        </beers>
+    </food>
+    <food name="Lemon tart">
+        <beers>
+            <beer id="117">Hop Rocker</beer>
+            <beer id="182">All Day Long - Prototype Challenge</beer>
+            <beer id="311">Sonic Boom</beer>
+        </beers>
+    </food>
+    <food name="Peach cobbler">
+        <beers>
+            <beer id="154">No Label</beer>
+            <beer id="176">Old World India Pale Ale</beer>
+            <beer id="318">Neverland</beer>
+        </beers>
+    </food>
+    <food name="Key lime pie">
+        <beers>
+            <beer id="8">Fake Lager</beer>
+            <beer id="131">Motueka</beer>
+        </beers>
+    </food>
+    <food name="Grapefruit and blood orange tart">
+        <beers>
+            <beer id="54">Albino Squid Assasin</beer>
+            <beer id="217">Barrel Aged Albino Squid Assassin</beer>
+        </beers>
+    </food>
+    <food name="Pecan pie">
+        <beers>
+            <beer id="79">Hops Kill Nazis</beer>
+            <beer id="306">AB:25</beer>
+        </beers>
+    </food>
+    <food name="Flourless chocolate cheesecake">
+        <beers>
+            <beer id="27">Dog B</beer>
+            <beer id="202">Dog C</beer>
+        </beers>
+    </food>
+    <food name="Key Lime Pie">
+        <beers>
+            <beer id="37">Zephyr</beer>
+            <beer id="274">Prototype Black Rye IPA</beer>
+        </beers>
+    </food>
+    <food name="Stilton and Walnut Welsh Rarebit.">
+        <beers>
+            <beer id="278">AB:23</beer>
+            <beer id="281">Homicidal Puppet Help Desk</beer>
+        </beers>
+    </food>
+    <food name="Pure vanilla bean ice cream">
+        <beers>
+            <beer id="129">Hinterland</beer>
+            <beer id="216">Barrel Aged Hinterland</beer>
+        </beers>
+    </food>
+    <food name="Fried halibut with sweet potato fritters">
+        <beers>
+            <beer id="54">Albino Squid Assasin</beer>
+            <beer id="217">Barrel Aged Albino Squid Assassin</beer>
+        </beers>
+    </food>
+    <food name="Rocket and mozzarella salad with a cracked pepper dressing">
+        <beers>
+            <beer id="54">Albino Squid Assasin</beer>
+            <beer id="217">Barrel Aged Albino Squid Assassin</beer>
+        </beers>
+    </food>
+    <food name="Braised pheasant">
+        <beers>
+            <beer id="53">Baby Dogma</beer>
+            <beer id="85">Santa Paws</beer>
+        </beers>
+    </food>
+    <food name="Spicy Thai peanut satay">
+        <beers>
+            <beer id="83">Comet</beer>
+            <beer id="311">Sonic Boom</beer>
+        </beers>
+    </food>
+    <food name="Chocolate cake">
+        <beers>
+            <beer id="16">Libertine Porter</beer>
+            <beer id="313">Mallow Mafia</beer>
+        </beers>
+    </food>
+    <food name="Mexican ceviche">
+        <beers>
+            <beer id="100">Elvis Juice V2.0 - Prototype Challenge</beer>
+            <beer id="163">This. Is. Lager</beer>
+        </beers>
+    </food>
+    <food name="Venison with warm spices (cardamom) and sweet potato">
+        <beers>
+            <beer id="129">Hinterland</beer>
+            <beer id="216">Barrel Aged Hinterland</beer>
+        </beers>
+    </food>
+    <food name="Spicy carne asada with a pico de gallo sauce">
+        <beers>
+            <beer id="106">Punk IPA 2010 - Current</beer>
+            <beer id="192">Punk IPA 2007 - 2010</beer>
+        </beers>
+    </food>
+    <food name="Simnel Cake">
+        <beers>
+            <beer id="278">AB:23</beer>
+            <beer id="281">Homicidal Puppet Help Desk</beer>
+        </beers>
+    </food>
+    <food name="Fish Tacos">
+        <beers>
+            <beer id="243">Gin Blitz</beer>
+            <beer id="263">Small Batch: Mandarina Lager</beer>
+        </beers>
+    </food>
+    <food name="Pineapple upside down cake">
+        <beers>
+            <beer id="39">Kohatu - IPA Is Dead</beer>
+            <beer id="232">Ace Of Equinox</beer>
+        </beers>
+    </food>
+    <food name="Phall Curry">
+        <beers>
+            <beer id="168">Jack Hammer</beer>
+            <beer id="249">Hop Shot</beer>
+        </beers>
+    </food>
+    <food name="Almond biscotti">
+        <beers>
+            <beer id="64">Sub Hop</beer>
+            <beer id="323">Interstate Vienna Lager.</beer>
+        </beers>
+    </food>
+    <food name="Apple crumble">
+        <beers>
+            <beer id="91">Dead Pony Club</beer>
+            <beer id="166">Vagabond Pale ALe - Prototype Challenge</beer>
+        </beers>
+    </food>
+    <food name="Sashimi">
+        <beers>
+            <beer id="33">Sorachi Ace</beer>
+            <beer id="95">Peroxide Punk</beer>
+        </beers>
+    </food>
+    <food name="Cheesecake with a passion fruit swirl sauce">
+        <beers>
+            <beer id="106">Punk IPA 2010 - Current</beer>
+            <beer id="192">Punk IPA 2007 - 2010</beer>
+        </beers>
+    </food>
+    <food name="Crème brûlée">
+        <beers>
+            <beer id="218">Monk Hammer</beer>
+            <beer id="320">King of Eights</beer>
+        </beers>
+    </food>
+    <food name="Spicy lamb tikka masala">
+        <beers>
+            <beer id="87">Alpha Pop</beer>
+            <beer id="107">HBC 366 - IPA Is Dead</beer>
+        </beers>
+    </food>
+    <food name="Gouda cheese">
+        <beers>
+            <beer id="70">Sunmaid Stout</beer>
+            <beer id="295">Choco Libre</beer>
+        </beers>
+    </food>
+    <food name="Mulled cheddar buffalo burger">
+        <beers>
+            <beer id="129">Hinterland</beer>
+            <beer id="216">Barrel Aged Hinterland</beer>
+        </beers>
+    </food>
+    <food name="Shredded chicken tacos with a mango chilli lime salsa">
+        <beers>
+            <beer id="106">Punk IPA 2010 - Current</beer>
+            <beer id="192">Punk IPA 2007 - 2010</beer>
+        </beers>
+    </food>
+    <food name="Coffee cake">
+        <beers>
+            <beer id="96">Lumberjack Stout</beer>
+            <beer id="141">Cap Dog (w/ Cap Brewery)</beer>
+        </beers>
+    </food>
+    <food name="Caramel sauce and hot fudge">
+        <beers>
+            <beer id="53">Baby Dogma</beer>
+            <beer id="85">Santa Paws</beer>
+        </beers>
+    </food>
+    <food name="Raspberry coffee cheesecake">
+        <beers>
+            <beer id="69">AB:16</beer>
+            <beer id="181">Vic Secret</beer>
+        </beers>
+    </food>
+    <food name="Thai green curry">
+        <beers>
+            <beer id="39">Kohatu - IPA Is Dead</beer>
+            <beer id="121">Punk Monk</beer>
+        </beers>
+    </food>
+    <food name="Gorgonzola and rye nut bread with smoked honey ham">
+        <beers>
+            <beer id="69">AB:16</beer>
+            <beer id="181">Vic Secret</beer>
+        </beers>
+    </food>
+    <food name="Pan-Fried Lemon Sole">
+        <beers>
+            <beer id="260">New England IPA</beer>
+            <beer id="268">Hazy Jane</beer>
+        </beers>
+    </food>
+    <food name="Lobster Salad">
+        <beers>
+            <beer id="262">Small Batch: Vermont IPA V2.0</beer>
+            <beer id="264">Small Batch: East Coast Crush</beer>
+        </beers>
+    </food>
+    <food name="Roasted duck">
+        <beers>
+            <beer id="69">AB:16</beer>
+            <beer id="181">Vic Secret</beer>
+        </beers>
+    </food>
+    <food name="Cherry Chocolate Cake With Chocolate Whipped Mousse">
+        <beers>
+            <beer id="278">AB:23</beer>
+            <beer id="281">Homicidal Puppet Help Desk</beer>
+        </beers>
+    </food>
+    <food name="Chickpea and Apricot Tagine">
+        <beers>
+            <beer id="256">Small Batch: Vermont IPA</beer>
+            <beer id="264">Small Batch: East Coast Crush</beer>
+        </beers>
+    </food>
+    <food name="Cranachan">
+        <beers>
+            <beer id="57">Prototype 27</beer>
+            <beer id="149">AB:03</beer>
+        </beers>
+    </food>
+    <food name="Goat's Cheese Bruschetta">
+        <beers>
+            <beer id="260">New England IPA</beer>
+            <beer id="268">Hazy Jane</beer>
+        </beers>
+    </food>
+    <food name="Chocolate cheesecake">
+        <beers>
+            <beer id="155">Old World Russian Imperial Stout</beer>
+            <beer id="222">Dog E</beer>
+        </beers>
+    </food>
+    <food name="Pad Thai">
+        <beers>
+            <beer id="74">Eurotrash</beer>
+            <beer id="153">Hoppy Saison - B-Sides</beer>
+        </beers>
+    </food>
+    <food name="Blue cheese">
+        <beers>
+            <beer id="27">Dog B</beer>
+            <beer id="202">Dog C</beer>
+        </beers>
+    </food>
+    <food name="Chicken Korma">
+        <beers>
+            <beer id="256">Small Batch: Vermont IPA</beer>
+            <beer id="262">Small Batch: Vermont IPA V2.0</beer>
+        </beers>
+    </food>
+    <food name="Poached pear">
+        <beer id="68">Hype</beer>
+    </food>
+    <food name="Cheesecake">
+        <beer id="164">Ella - IPA Is Dead</beer>
+    </food>
+    <food name="Spicy kung po chicken">
+        <beer id="59">Mandarina Bavaria - IPA Is Dead</beer>
+    </food>
+    <food name="Grilled fish salad">
+        <beer id="74">Eurotrash</beer>
+    </food>
+    <food name="Trifle or chocolate cake">
+        <beer id="195">Hello My Name Is Holy Moose</beer>
+    </food>
+    <food name="Fried teriyaki chicken">
+        <beer id="140">Pioneer - IPA Is Dead</beer>
+    </food>
+    <food name="Thai fishcakes">
+        <beer id="186">Jasmine IPA</beer>
+    </food>
+    <food name="Spicy chicken skewers">
+        <beer id="18">Russian Doll – India Pale Ale</beer>
+    </food>
+    <food name="Fårikål (mutton stew) with a spicy twist">
+        <beer id="19">Hello My Name Is Mette-Marit</beer>
+    </food>
+    <food name="Blackberry pie with vanilla ice cream">
+        <beer id="105">Hello My Name Is Beastie</beer>
+    </food>
+    <food name="Salted caramels">
+        <beer id="293">I Wanna Be Your Dog</beer>
+    </food>
+    <food name="Very mature Cheddar">
+        <beer id="184">Atlantic IPA Ale</beer>
+    </food>
+    <food name="Salt beef bagel with mustard &amp; pickles">
+        <beer id="228">Prototype Helles</beer>
+    </food>
+    <food name="Toffee caramel cheesecake">
+        <beer id="317">Al Adjore!</beer>
+    </food>
+    <food name="Rosemary and thyme marinated venison">
+        <beer id="48">Goldings - IPA Is Dead</beer>
+    </food>
+    <food name="Arrabiata pasta">
+        <beer id="29">10 Heads High</beer>
+    </food>
+    <food name="Peking duck">
+        <beer id="289">Hello My Name Is Lieke</beer>
+    </food>
+    <food name="Pancakes">
+        <beer id="272">Small Batch: Spelt &amp; Honey Saison</beer>
+    </food>
+    <food name="Aubergine and chickpea tagine">
+        <beer id="226">Chili Hammer</beer>
+    </food>
+    <food name="Lapin aux pruneaux (braised rabbit with prunes)">
+        <beer id="70">Sunmaid Stout</beer>
+    </food>
+    <food name="Sharp cheddar with mango chutney">
+        <beer id="89">Citra</beer>
+    </food>
+    <food name="Banoffee pie">
+        <beer id="49">AB:14</beer>
+    </food>
+    <food name="Coq Au Vin">
+        <beer id="270">Blonde Export Stout</beer>
+    </food>
+    <food name="Chicken Khua Kling (dry Thai curry)">
+        <beer id="171">Challenger</beer>
+    </food>
+    <food name="Spicy fish tacos with mango chilli">
+        <beer id="197">Moshi Moshi 15</beer>
+    </food>
+    <food name="Char-grilled Lamb Cutlets">
+        <beer id="258">Paradox Rye</beer>
+    </food>
+    <food name="Steamed mussels">
+        <beer id="316">SOS! (May Day!)</beer>
+    </food>
+    <food name="Herring rollmops">
+        <beer id="125">Juniper Wheat Beer</beer>
+    </food>
+    <food name="Whole baked reblochon">
+        <beer id="137">Sink The Bismarck!</beer>
+    </food>
+    <food name="Chunky chicken and vegetable spiced stew">
+        <beer id="98">Pumpkin King</beer>
+    </food>
+    <food name="Moroccan chicken tangine">
+        <beer id="132">5am Saint</beer>
+    </food>
+    <food name="Paneer skewers with cardamom">
+        <beer id="291">Hello My Name Is Sofia</beer>
+    </food>
+    <food name="Baked curry chickpea snacks">
+        <beer id="215">Brixton Porter</beer>
+    </food>
+    <food name="Chilli covered burger (Sloppy Joe)">
+        <beer id="65">Bracken's Porter</beer>
+    </food>
+    <food name="Walnut and goat's cheese salad with pomegranate dressing">
+        <beer id="299">Raspberry Popsicle Parade</beer>
+    </food>
+    <food name="Creamy eggs benedict">
+        <beer id="88">Bavarian Weizen</beer>
+    </food>
+    <food name="Citrus Salad">
+        <beer id="265">Pump Action Poet</beer>
+    </food>
+    <food name="Angelfood cake">
+        <beer id="74">Eurotrash</beer>
+    </food>
+    <food name="Lobster thermidor">
+        <beer id="185">Tactical Nuclear Penguin</beer>
+    </food>
+    <food name="Rhubarb fool with shortbread">
+        <beer id="223">Prototype Pils 2.0</beer>
+    </food>
+    <food name="Pistachio layer cake">
+        <beer id="233">Ace Of Citra</beer>
+    </food>
+    <food name="Steak Pie and Winter Vegetables">
+        <beer id="244">AB:21</beer>
+    </food>
+    <food name="Roast venison with a chocolate sauce">
+        <beer id="308">Very Big Moose</beer>
+    </food>
+    <food name="Apple gingerbread pancakes">
+        <beer id="130">Spiced Cherry Sour - B-Sides</beer>
+    </food>
+    <food name="Seared steak with a peppercorn sauce">
+        <beer id="155">Old World Russian Imperial Stout</beer>
+    </food>
+    <food name="Lemon custard tart">
+        <beer id="300">Indie Pale Ale</beer>
+    </food>
+    <food name="Strawberry tart">
+        <beer id="183">Nuns With Guns</beer>
+    </food>
+    <food name="Guacamole And Chips">
+        <beer id="274">Prototype Black Rye IPA</beer>
+    </food>
+    <food name="Honey glazed ham with spicy roasted carrots">
+        <beer id="176">Old World India Pale Ale</beer>
+    </food>
+    <food name="Pecan Pie">
+        <beer id="242">Crew Brew</beer>
+    </food>
+    <food name="Lamb cutlets with cucumber raita">
+        <beer id="151">Rhubarb Saison - B-Sides</beer>
+    </food>
+    <food name="Black Pudding Croquettes">
+        <beer id="261">Small Batch: Nitro Breakfast Stout</beer>
+    </food>
+    <food name="Jalapeño chilli and chicken quesadillas">
+        <beer id="160">Restorative Beverage For Invalids And Convalescents</beer>
+    </food>
+    <food name="Chicken and Apricot Tagine">
+        <beer id="262">Small Batch: Vermont IPA V2.0</beer>
+    </food>
+    <food name="Apple crumble and custard">
+        <beer id="198">AB:01</beer>
+    </food>
+    <food name="Dark Chocolate Truffles">
+        <beer id="267">AB:22</beer>
+    </food>
+    <food name="Grapefruit souffle">
+        <beer id="100">Elvis Juice V2.0 - Prototype Challenge</beer>
+    </food>
+    <food name="Chickpea curry">
+        <beer id="303">Hazy Jane Rye Barrel Aged</beer>
+    </food>
+    <food name="Roast beef">
+        <beer id="76">#Mashtag 2013</beer>
+    </food>
+    <food name="Beef shin stew">
+        <beer id="126">Jet Black Heart</beer>
+    </food>
+    <food name="Rich crème brûlée">
+        <beer id="200">Double IPA - Russian Doll</beer>
+    </food>
+    <food name="PB&amp;J sandwich">
+        <beer id="309">Paradox Islay 2018</beer>
+    </food>
+    <food name="Beignet">
+        <beer id="231">Ace Of Chinook</beer>
+    </food>
+    <food name="Spicy green chilli and lemongrass chicken thai curry">
+        <beer id="127">Galaxy</beer>
+    </food>
+    <food name="Candied bacon French toast">
+        <beer id="210">Dead Metaphor</beer>
+    </food>
+    <food name="Honey glazed ham with pineapple">
+        <beer id="105">Hello My Name Is Beastie</beer>
+    </food>
+    <food name="Lemon baked monkfish">
+        <beer id="154">No Label</beer>
+    </food>
+    <food name="Lemon sherbet cookies">
+        <beer id="180">Doodlebug</beer>
+    </food>
+    <food name="Thick cut salami pieces on tiger bread">
+        <beer id="194">Hardkogt IPA</beer>
+    </food>
+    <food name="Butternut squash bisque">
+        <beer id="296">Off-Duty Alien</beer>
+    </food>
+    <food name="Caraway Roast Pork">
+        <beer id="254">Small Batch: Kellerbier</beer>
+    </food>
+    <food name="Pan seared venison with fruit salad side">
+        <beer id="101">Riptide</beer>
+    </food>
+    <food name="Creamy gorgonzola and satsuma salad">
+        <beer id="61">Magic Stone Dog (w/Magic Rock &amp; Stone Brewing Co.)</beer>
+    </food>
+    <food name="Clootie Dumpling">
+        <beer id="253">Small Batch: 90 Shilling</beer>
+    </food>
+    <food name="Italian style goat's cheese pizza">
+        <beer id="302">Hazy Jane Bourbon Barrel Aged</beer>
+    </food>
+    <food name="Chilled beetroot soup">
+        <beer id="115">Melon And Cucumber IPA - B-Sides</beer>
+    </food>
+    <food name="Soy-Glazed Chicken Thighs">
+        <beer id="241">Hello My Name Is Ingrid 2016</beer>
+    </food>
+    <food name="Blue cheese beef burger">
+        <beer id="16">Libertine Porter</beer>
+    </food>
+    <food name="Kirsch chocolate truffles">
+        <beer id="66">Tokyo Rising Sun - Lowland</beer>
+    </food>
+    <food name="Ginger and orange zest cookies">
+        <beer id="127">Galaxy</beer>
+    </food>
+    <food name="Corn dogs">
+        <beer id="238">Kingpin</beer>
+    </food>
+    <food name="Black forest gateau">
+        <beer id="287">Hello My Name Is Marianne</beer>
+    </food>
+    <food name="Grilled fish tacos">
+        <beer id="152">Deaf Mermaid - B-Sides</beer>
+    </food>
+    <food name="Spicy fish tacos">
+        <beer id="187">Lichtenstein Pale Ale</beer>
+    </food>
+    <food name="Game Terrine with Pickles">
+        <beer id="243">Gin Blitz</beer>
+    </food>
+    <food name="Jalapeño poppers with blue cheese dip">
+        <beer id="172">Single Hop Enigma IPA - B-Sides</beer>
+    </food>
+    <food name="Spicy Bean Burrito">
+        <beer id="246">Casino Rye Ale</beer>
+    </food>
+    <food name="Moules frites">
+        <beer id="121">Punk Monk</beer>
+    </food>
+    <food name="Habenero and mango pulled pork tacos">
+        <beer id="124">Chaos Theory</beer>
+    </food>
+    <food name="Black forrest gateaux">
+        <beer id="143">Lizard Bride - Prototype Challenge</beer>
+    </food>
+    <food name="Grilled pineapple">
+        <beer id="114">U-Boat (w/ Victory Brewing)</beer>
+    </food>
+    <food name="Penne with tomato and smoked cheese">
+        <beer id="204">Cascade, Centennial &amp; Willamette IPA - B-Sides</beer>
+    </food>
+    <food name="Blueberry and almond tart">
+        <beer id="102">Peach Therapy</beer>
+    </food>
+    <food name="Ancho pulled beef chilli">
+        <beer id="227">Brewdog Vs Beavertown</beer>
+    </food>
+    <food name="Rosemary and thyme grilled chicken">
+        <beer id="207">International Arms Race (w/ Flying Dog)</beer>
+    </food>
+    <food name="Smoked salmon tostada">
+        <beer id="229">Rye Hammer</beer>
+    </food>
+    <food name="Spicy jalapeño &amp; seared steak fajitas">
+        <beer id="28">HBC 369</beer>
+    </food>
+    <food name="Roast chicken">
+        <beer id="322">Jet Trash</beer>
+    </food>
+    <food name="Chocolate and toffee fondant">
+        <beer id="140">Pioneer - IPA Is Dead</beer>
+    </food>
+    <food name="Mississippi style pork ribs">
+        <beer id="209">Stereo Wolf Stout - Prototype Challenge</beer>
+    </food>
+    <food name="Glazed ham with crackling coating">
+        <beer id="47">AB:15</beer>
+    </food>
+    <food name="Calves' liver with onion relish">
+        <beer id="120">AB:10</beer>
+    </food>
+    <food name="Earl Grey ice cream with a lavender sauce">
+        <beer id="207">International Arms Race (w/ Flying Dog)</beer>
+    </food>
+    <food name="Maple bacon chocolate cupcakes">
+        <beer id="196">Catherine's Pony (w/ Beavertown)</beer>
+    </food>
+    <food name="Warm blackberry pie">
+        <beer id="10">Bramling X</beer>
+    </food>
+    <food name="Tom yum soup">
+        <beer id="51">TM10</beer>
+    </food>
+    <food name="Matcha green tea cake">
+        <beer id="75">Never Mind The Anabolics</beer>
+    </food>
+    <food name="Pancakes with smokey bacon">
+        <beer id="307">Kamikaze Knitting Club</beer>
+    </food>
+    <food name="Tomato and rosemary palmiers">
+        <beer id="81">India Session Lager - Prototype Challenge</beer>
+    </food>
+    <food name="Dark fruit cake">
+        <beer id="144">Tokyo*</beer>
+    </food>
+    <food name="Pan fried Foie Gras">
+        <beer id="185">Tactical Nuclear Penguin</beer>
+    </food>
+    <food name="Grilled chicken quesadilla">
+        <beer id="1">Buzz</beer>
+    </food>
+    <food name="Pulled pork">
+        <beer id="34">Bourbon Baby</beer>
+    </food>
+    <food name="Seriously sharp hard Cheddar">
+        <beer id="309">Paradox Islay 2018</beer>
+    </food>
+    <food name="Thai red curry">
+        <beer id="305">Native Son</beer>
+    </food>
+    <food name="Roasted pumpkin and mozzarella">
+        <beer id="143">Lizard Bride - Prototype Challenge</beer>
+    </food>
+    <food name="Toffee marshmallow pie">
+        <beer id="32">AB:05</beer>
+    </food>
+    <food name="Baked honey glazed ham with dark fruit sauce">
+        <beer id="144">Tokyo*</beer>
+    </food>
+    <food name="Balsamic-glazed salmon">
+        <beer id="286">Hello My Name Is Aune</beer>
+    </food>
+    <food name="Hazelnut truffles">
+        <beer id="293">I Wanna Be Your Dog</beer>
+    </food>
+    <food name="Butternut squash and sage soup">
+        <beer id="82">Hopped-Up Brown Ale - Prototype Challenge</beer>
+    </food>
+    <food name="Beef pho soup">
+        <beer id="104">India Pale Weizen (w/ Weihenstephan)</beer>
+    </food>
+    <food name="Miso ramen">
+        <beer id="3">Berliner Weisse With Yuzu - B-Sides</beer>
+    </food>
+    <food name="Strong blue cheese and oatcakes">
+        <beer id="155">Old World Russian Imperial Stout</beer>
+    </food>
+    <food name="Pork chops with spicy orange marmalade">
+        <beer id="200">Double IPA - Russian Doll</beer>
+    </food>
+    <food name="Chunky mild spice beef stew">
+        <beer id="209">Stereo Wolf Stout - Prototype Challenge</beer>
+    </food>
+    <food name="Black Pudding Burger">
+        <beer id="273">Prototype Double IPA</beer>
+    </food>
+    <food name="Pork burrito with a habanero and mango chilli salsa">
+        <beer id="168">Jack Hammer</beer>
+    </food>
+    <food name="Sticky Toffee Pudding And Salted Caramel Ice Cream">
+        <beer id="273">Prototype Double IPA</beer>
+    </food>
+    <food name="Grilled halloumi salad with orange and pomegranate vinaigrette">
+        <beer id="146">Nelson Sauvin</beer>
+    </food>
+    <food name="Mandarin Cake">
+        <beer id="277">Prototype Blonde Ale</beer>
+    </food>
+    <food name="Artichoke hearts and chicken melt">
+        <beer id="112">Vote Sepp</beer>
+    </food>
+    <food name="Orange sesame chicken">
+        <beer id="201">Waimea - IPA Is Dead</beer>
+    </food>
+    <food name="Bacon and maple syrup cupcakes">
+        <beer id="212">Hop Fiction - Prototype Challenge</beer>
+    </food>
+    <food name="Beef Stroganoff">
+        <beer id="40">Hello My Name is Vladimir</beer>
+    </food>
+    <food name="Apple pie">
+        <beer id="321">Jinx Pale Ale</beer>
+    </food>
+    <food name="Poached apple tart">
+        <beer id="108">American Ale</beer>
+    </food>
+    <food name="Hazelnut brittle">
+        <beer id="76">#Mashtag 2013</beer>
+    </food>
+    <food name="Clootie dumpling">
+        <beer id="9">AB:07</beer>
+    </food>
+    <food name="Rib eye steak with a compound butter">
+        <beer id="161">Tokyo Rising Sun - Highland</beer>
+    </food>
+    <food name="Habanero Pulled Pork">
+        <beer id="261">Small Batch: Nitro Breakfast Stout</beer>
+    </food>
+    <food name="Poached pear and blue cheese crumble">
+        <beer id="194">Hardkogt IPA</beer>
+    </food>
+    <food name="Thai sweet potato and carrot soup">
+        <beer id="297">East Of Vermont</beer>
+    </food>
+    <food name="Choc Chip Cookies,">
+        <beer id="261">Small Batch: Nitro Breakfast Stout</beer>
+    </food>
+    <food name="Chicago style hot links">
+        <beer id="57">Prototype 27</beer>
+    </food>
+    <food name="Banana walnut loaf with chocolate chips">
+        <beer id="45">The Physics</beer>
+    </food>
+    <food name="Parmesan and Rocket Pizza">
+        <beer id="251">Small Batch: Sorachi Ace Session</beer>
+    </food>
+    <food name="Salted caramel crème brûlée">
+        <beer id="137">Sink The Bismarck!</beer>
+    </food>
+    <food name="Vinegar doused fish and chips">
+        <beer id="10">Bramling X</beer>
+    </food>
+    <food name="Grilled salmon with a light lemon sauce">
+        <beer id="193">Blitz Berliner Weisse</beer>
+    </food>
+    <food name="Spicy Chilli Prawns">
+        <beer id="265">Pump Action Poet</beer>
+    </food>
+    <food name="Parmesan truffles">
+        <beer id="199">Alice Porter</beer>
+    </food>
+    <food name="Light and fluffy tangerine sponge cake">
+        <beer id="310">Clockwork Tangerine</beer>
+    </food>
+    <food name="Vanilla panna cotta with pomegranate">
+        <beer id="302">Hazy Jane Bourbon Barrel Aged</beer>
+    </food>
+    <food name="Classic Cheddar Ploughmans">
+        <beer id="242">Crew Brew</beer>
+    </food>
+    <food name="Baked Peaches With Citrus Fruit">
+        <beer id="268">Hazy Jane</beer>
+    </food>
+    <food name="Peach Melba">
+        <beer id="243">Gin Blitz</beer>
+    </food>
+    <food name="Soft pretzel with mustard">
+        <beer id="269">Small Batch: Imperial Pale Weizen</beer>
+    </food>
+    <food name="S'mores">
+        <beer id="120">AB:10</beer>
+    </food>
+    <food name="Tonkotsu Ramen">
+        <beer id="208">Sunshine On Rye - B-Sides</beer>
+    </food>
+    <food name="Jerk spiced goat">
+        <beer id="208">Sunshine On Rye - B-Sides</beer>
+    </food>
+    <food name="Apple upside-down cake">
+        <beer id="32">AB:05</beer>
+    </food>
+    <food name="Pineapple Upside Down Cake">
+        <beer id="248">Twin Atlantic</beer>
+    </food>
+    <food name="Chilli lime and coriander marinated king prawn cocktail">
+        <beer id="173">Chinook - IPA Is Dead</beer>
+    </food>
+    <food name="Korean style chicken wings">
+        <beer id="11">Misspent Youth</beer>
+    </food>
+    <food name="Profiteroles with Chantilly Cream">
+        <beer id="247">Self Assembly Pope</beer>
+    </food>
+    <food name="Steak and Kidney Pie">
+        <beer id="259">Tropic Thunder</beer>
+    </food>
+    <food name="Pheasant paté">
+        <beer id="150">AB:13</beer>
+    </food>
+    <food name="Peaches and cream">
+        <beer id="297">East Of Vermont</beer>
+    </food>
+    <food name="Sweet filled dumplings">
+        <beer id="4">Pilsen Lager</beer>
+    </food>
+    <food name="Carrot and coriander rich cake">
+        <beer id="134">Mr.Miyagi's Wasabi Stout</beer>
+    </food>
+    <food name="Salmon Fishcakes with Rocket Salad">
+        <beer id="250">Small Batch: Rye IPA</beer>
+    </food>
+    <food name="Coconut Cake">
+        <beer id="251">Small Batch: Sorachi Ace Session</beer>
+    </food>
+    <food name="Sushi maki">
+        <beer id="290">Hello My Name Is Niamh</beer>
+    </food>
+    <food name="Steak tartare">
+        <beer id="84">Baby Saison - B-Sides</beer>
+    </food>
+    <food name="Lightly curried spiced chickpea dip">
+        <beer id="180">Doodlebug</beer>
+    </food>
+    <food name="Coconut Macaroons">
+        <beer id="247">Self Assembly Pope</beer>
+    </food>
+    <food name="Earthy mushroom pasta">
+        <beer id="31">Nanny State</beer>
+    </food>
+    <food name="Fresh seared tuna and rocket salad">
+        <beer id="174">Konnichiwa Kitsune</beer>
+    </food>
+    <food name="Vegetable egg scramble">
+        <beer id="13">Movember</beer>
+    </food>
+    <food name="Summer salad with pickled veg">
+        <beer id="102">Peach Therapy</beer>
+    </food>
+    <food name="Sharp cheddar cheese and onion/ raisin chutney">
+        <beer id="14">Alpha Dog</beer>
+    </food>
+    <food name="Barbeque and Mustard Beef on Rye Bread">
+        <beer id="279">Slot Machine</beer>
+    </food>
+    <food name="Seared scallops">
+        <beer id="101">Riptide</beer>
+    </food>
+    <food name="Baked Tilapia With Lemon and Cream Sauce">
+        <beer id="282">Pina Colada Sidewalk</beer>
+    </food>
+    <food name="Spicy orange chicken marmalade served with potato bread">
+        <beer id="99">Hello My Name Is Päivi</beer>
+    </food>
+    <food name="Coriander &amp; Chilli Crab Cakes">
+        <beer id="255">Small Batch: Tripel</beer>
+    </food>
+    <food name="Cherry frangipane tart">
+        <beer id="284">Hello My Name Is Helga</beer>
+    </food>
+    <food name="Baked Goat's Cheese">
+        <beer id="250">Small Batch: Rye IPA</beer>
+    </food>
+    <food name="Caramelised onion and lightly seared steak">
+        <beer id="139">Born To Die</beer>
+    </food>
+    <food name="Chipotle chicken burrito">
+        <beer id="223">Prototype Pils 2.0</beer>
+    </food>
+    <food name="Chocolate chunky cookies">
+        <beer id="209">Stereo Wolf Stout - Prototype Challenge</beer>
+    </food>
+    <food name="Chocolate pecan praline cake">
+        <beer id="103">Clown King</beer>
+    </food>
+    <food name="Stilton and walnut salad">
+        <beer id="317">Al Adjore!</beer>
+    </food>
+    <food name="Buttermilk waffles">
+        <beer id="239">#Mashtag 2016</beer>
+    </food>
+    <food name="Seared lemon and herb salmon">
+        <beer id="64">Sub Hop</beer>
+    </food>
+    <food name="Mutton stew">
+        <beer id="66">Tokyo Rising Sun - Lowland</beer>
+    </food>
+    <food name="Aged cheddar with honey and raspberry chutney">
+        <beer id="92">AB:09</beer>
+    </food>
+    <food name="Raspberry Parfait">
+        <beer id="271">Small Batch: Cranachan Cream Ale</beer>
+    </food>
+    <food name="Smoked chorizo and strong cheese board">
+        <beer id="211">Black Dog</beer>
+    </food>
+    <food name="Strawberry and rhubarb pie">
+        <beer id="5">Avery Brown Dredge</beer>
+    </food>
+    <food name="Strong cheddar fondue">
+        <beer id="200">Double IPA - Russian Doll</beer>
+    </food>
+    <food name="Sugar-poached kumquat rice pudding">
+        <beer id="46">Anarchist Alchemist</beer>
+    </food>
+    <food name="Rhubarb tart">
+        <beer id="147">Hello My Name Is Little Ingrid</beer>
+    </food>
+    <food name="Spiced and blackened cajun chicken">
+        <beer id="44">Dog Wired (w/8 Wired)</beer>
+    </food>
+    <food name="Chicken schnitzel">
+        <beer id="125">Juniper Wheat Beer</beer>
+    </food>
+    <food name="Honey Mustard Chicken">
+        <beer id="272">Small Batch: Spelt &amp; Honey Saison</beer>
+    </food>
+    <food name="Venison stroganoff">
+        <beer id="175">San Diego Scotch Ale (w/Ballast Point)</beer>
+    </food>
+    <food name="Mexican spiced cheddar cheese">
+        <beer id="122">Dog Fight (w/ Flying Dog)</beer>
+    </food>
+    <food name="Rich espresso tiramisu">
+        <beer id="56">Black Eyed King Imp</beer>
+    </food>
+    <food name="Goat's cheese">
+        <beer id="152">Deaf Mermaid - B-Sides</beer>
+    </food>
+    <food name="Roast turkey with a honey and herb marinade and roasted vegetables">
+        <beer id="45">The Physics</beer>
+    </food>
+    <food name="Loaded Hamburger and Spicy Fries">
+        <beer id="245">Beatnik</beer>
+    </food>
+    <food name="Dark Chocolate and Coffee Torte">
+        <beer id="257">Semi Skimmed Occultist</beer>
+    </food>
+    <food name="Chinese chicken salad">
+        <beer id="166">Vagabond Pale ALe - Prototype Challenge</beer>
+    </food>
+    <food name="Stilton">
+        <beer id="36">Shipwrecker Circus (w/ Oskar Blues)</beer>
+    </food>
+    <food name="Strawberry and basil salad with feta">
+        <beer id="154">No Label</beer>
+    </food>
+    <food name="Rum Fried Banana">
+        <beer id="269">Small Batch: Imperial Pale Weizen</beer>
+    </food>
+    <food name="Spicy jalapeño and seared steak fajitas">
+        <beer id="318">Neverland</beer>
+    </food>
+    <food name="Coffee carrot cake">
+        <beer id="198">AB:01</beer>
+    </food>
+    <food name="Passionfruit meringue pie">
+        <beer id="220">Ace Of Simcoe</beer>
+    </food>
+    <food name="Lavender chocolate chip cookies">
+        <beer id="48">Goldings - IPA Is Dead</beer>
+    </food>
+    <food name="Roast pheasant with savoy cabbage">
+        <beer id="110">Truffle and Chocolate Stout - B-Sides</beer>
+    </food>
+    <food name="Spicy shredded pork roll with hot dipping sauce">
+        <beer id="8">Fake Lager</beer>
+    </food>
+    <food name="Beef mahaca on corn tortillas">
+        <beer id="80">AB:04</beer>
+    </food>
+    <food name="Grilled king prawns with a chilli lime sauce">
+        <beer id="167">Libertine Black Ale</beer>
+    </food>
+    <food name="Oak chip smoked salmon">
+        <beer id="191">Interstellar</beer>
+    </food>
+    <food name="Smokey chipotle beef brisket tostada">
+        <beer id="30">Dana - IPA Is Dead</beer>
+    </food>
+    <food name="Mac and cheese fries">
+        <beer id="35">Berliner Weisse With Raspberries And Rhubarb - B-Sides</beer>
+    </food>
+    <food name="Sirloin steak with fresh salad">
+        <beer id="148">AB:02</beer>
+    </food>
+    <food name="French fries dressed in good oil and salt">
+        <beer id="221">Blitz Series</beer>
+    </food>
+    <food name="Oatmeal and cranberry cookies">
+        <beer id="26">Skull Candy</beer>
+    </food>
+    <food name="Game Terrine">
+        <beer id="253">Small Batch: 90 Shilling</beer>
+    </food>
+    <food name="Flourless chocolate chilli cake">
+        <beer id="138">Dog A</beer>
+    </food>
+    <food name="Scotch broth with sourdough bread">
+        <beer id="9">AB:07</beer>
+    </food>
+    <food name="Chicken jalfrezi">
+        <beer id="140">Pioneer - IPA Is Dead</beer>
+    </food>
+    <food name="Feta And Tomato Salad With Balsamic Dressing">
+        <beer id="271">Small Batch: Cranachan Cream Ale</beer>
+    </food>
+    <food name="Scottish tablet">
+        <beer id="191">Interstellar</beer>
+    </food>
+    <food name="Cheddar cheese melt on crisp rye toast">
+        <beer id="132">5am Saint</beer>
+    </food>
+    <food name="Scones with cloudberry jam">
+        <beer id="147">Hello My Name Is Little Ingrid</beer>
+    </food>
+    <food name="Charred apricot salad">
+        <beer id="137">Sink The Bismarck!</beer>
+    </food>
+    <food name="Roast beef with spicy jus">
+        <beer id="38">Belgian Trappist</beer>
+    </food>
+    <food name="Scotch bonnet beef chilli">
+        <beer id="203">Bitch Please (w/ 3 Floyds)</beer>
+    </food>
+    <food name="Spicy wings with blue cheese dip">
+        <beer id="42">Hardcore IPA</beer>
+    </food>
+    <food name="Strong gorgonzola endive salad">
+        <beer id="148">AB:02</beer>
+    </food>
+    <food name="Salted caramel ice cream and peanuts">
+        <beer id="204">Cascade, Centennial &amp; Willamette IPA - B-Sides</beer>
+    </food>
+    <food name="Strawberry ice cream sundae">
+        <beer id="238">Kingpin</beer>
+    </food>
+    <food name="Fruity bread pudding">
+        <beer id="107">HBC 366 - IPA Is Dead</beer>
+    </food>
+    <food name="Blueberry pie">
+        <beer id="28">HBC 369</beer>
+    </food>
+    <food name="Cave-aged cheddar">
+        <beer id="138">Dog A</beer>
+    </food>
+    <food name="Orange zest tart">
+        <beer id="94">Everday Anarchy</beer>
+    </food>
+    <food name="Spicy chilli king prawns">
+        <beer id="94">Everday Anarchy</beer>
+    </food>
+    <food name="Chorizo cooked in red wine">
+        <beer id="161">Tokyo Rising Sun - Highland</beer>
+    </food>
+    <food name="Classic American cheeseburger">
+        <beer id="205">Shareholder Black IPA 2011</beer>
+    </food>
+    <food name="Ginger and chocolate biscuits">
+        <beer id="312">Dog G</beer>
+    </food>
+    <food name="Pesto pasta">
+        <beer id="325">Zipcode</beer>
+    </food>
+    <food name="Pork meatballs">
+        <beer id="288">Hello My Name Is Agnetha</beer>
+    </food>
+    <food name="Roast beef with a herb and malt crust">
+        <beer id="309">Paradox Islay 2018</beer>
+    </food>
+    <food name="Honey and almond sponge cake">
+        <beer id="186">Jasmine IPA</beer>
+    </food>
+    <food name="Okra fries">
+        <beer id="93">Mango Gose - B-Sides</beer>
+    </food>
+    <food name="T-bone steak with fried onions">
+        <beer id="172">Single Hop Enigma IPA - B-Sides</beer>
+    </food>
+    <food name="Charcuterie platter (featuring Italian salami)">
+        <beer id="90">#Mashtag 2015</beer>
+    </food>
+    <food name="Grilled vegetable and chicken teriyaki skewers">
+        <beer id="65">Bracken's Porter</beer>
+    </food>
+    <food name="Chocolate pistachio cakes">
+        <beer id="41">AB:17</beer>
+    </food>
+    <food name="Dundee Fruit Cake">
+        <beer id="246">Casino Rye Ale</beer>
+    </food>
+    <food name="Spicy chicken tikka masala">
+        <beer id="1">Buzz</beer>
+    </food>
+    <food name="Lamb and root vegetable stew">
+        <beer id="157">Edge</beer>
+    </food>
+    <food name="Havarti cheese">
+        <beer id="135">Growler</beer>
+    </food>
+    <food name="Coconut vanilla prawns">
+        <beer id="302">Hazy Jane Bourbon Barrel Aged</beer>
+    </food>
+    <food name="The biggest darkest chocolate cake you can find">
+        <beer id="308">Very Big Moose</beer>
+    </food>
+    <food name="Pigeon pea dal">
+        <beer id="151">Rhubarb Saison - B-Sides</beer>
+    </food>
+    <food name="Pulled barbecue brisket">
+        <beer id="139">Born To Die</beer>
+    </food>
+    <food name="Sticky spicy barbecue ribs">
+        <beer id="191">Interstellar</beer>
+    </food>
+    <food name="Lemon pound cake with a ice sugar glaze">
+        <beer id="18">Russian Doll – India Pale Ale</beer>
+    </food>
+    <food name="Chocolate cake drizzled with orange">
+        <beer id="178">Simcoe</beer>
+    </food>
+    <food name="Beef, oyster and ale pie">
+        <beer id="63">Sunk Punk</beer>
+    </food>
+    <food name="Summer berry cheesecake">
+        <beer id="179">How To Disappear Completely</beer>
+    </food>
+    <food name="Dark chocolate and chilli flourless cake">
+        <beer id="189">AB:11</beer>
+    </food>
+    <food name="Habanero pulled pork">
+        <beer id="295">Choco Libre</beer>
+    </food>
+    <food name="Lemon and thyme panna cotta">
+        <beer id="95">Peroxide Punk</beer>
+    </food>
+    <food name="Chicken Katsu">
+        <beer id="236">Science IPA</beer>
+    </food>
+    <food name="Venison &amp; cranberry pie">
+        <beer id="50">Lost Dog (w/Lost Abbey)</beer>
+    </food>
+    <food name="Chargrilled steak">
+        <beer id="114">U-Boat (w/ Victory Brewing)</beer>
+    </food>
+    <food name="Chocolate fondue with fruit">
+        <beer id="201">Waimea - IPA Is Dead</beer>
+    </food>
+    <food name="Strawberry cheescake">
+        <beer id="77">Hobo Pop</beer>
+    </food>
+    <food name="Baked brown butter lobster">
+        <beer id="198">AB:01</beer>
+    </food>
+    <food name="Panna cotta with a grapefruit tuile">
+        <beer id="83">Comet</beer>
+    </food>
+    <food name="Spicy paella">
+        <beer id="88">Bavarian Weizen</beer>
+    </food>
+    <food name="Pan seared venison fillet with juniper sauce">
+        <beer id="24">The End Of History</beer>
+    </food>
+    <food name="Poached sole fillet with capers">
+        <beer id="25">Bad Pixie</beer>
+    </food>
+    <food name="Blackened Cajun chicken">
+        <beer id="62">AB:08</beer>
+    </food>
+    <food name="Caramelised onion venison burger">
+        <beer id="49">AB:14</beer>
+    </food>
+    <food name="Jamaican jerk chicken">
+        <beer id="111">Vagabond Pilsner</beer>
+    </food>
+    <food name="Roasted wood pigeon with black pudding">
+        <beer id="24">The End Of History</beer>
+    </food>
+    <food name="Roasted garlic and chilli infused camembert cheese">
+        <beer id="11">Misspent Youth</beer>
+    </food>
+    <food name="Glazed short ribs">
+        <beer id="16">Libertine Porter</beer>
+    </food>
+    <food name="Mint chocloate ice cream">
+        <beer id="12">Arcade Nation</beer>
+    </food>
+    <food name="Triple chocolate chip cookies">
+        <beer id="230">Black Hammer</beer>
+    </food>
+    <food name="Spicy chicken empanadas">
+        <beer id="58">Coffee Imperial Stout</beer>
+    </food>
+    <food name="Crab linguine">
+        <beer id="64">Sub Hop</beer>
+    </food>
+    <food name="Rosemary and lemon roast chicken">
+        <beer id="26">Skull Candy</beer>
+    </food>
+    <food name="Beef in port stew">
+        <beer id="284">Hello My Name Is Helga</beer>
+    </food>
+    <food name="Caramel and banana meringue pie">
+        <beer id="20">Rabiator</beer>
+    </food>
+    <food name="Fresh pico de gallo with corn tortilla">
+        <beer id="71">Pale - Russian Doll</beer>
+    </food>
+    <food name="Cauliflower pakora with mango chutney">
+        <beer id="204">Cascade, Centennial &amp; Willamette IPA - B-Sides</beer>
+    </food>
+    <food name="Affogato with ice cream">
+        <beer id="313">Mallow Mafia</beer>
+    </food>
+    <food name="Greek piroshki pies">
+        <beer id="145">Sorachi Bitter - B-Sides</beer>
+    </food>
+    <food name="Pork sausages">
+        <beer id="323">Interstate Vienna Lager.</beer>
+    </food>
+    <food name="Steak pasty">
+        <beer id="206">Black Jacques</beer>
+    </food>
+    <food name="Millionaire's shortbread">
+        <beer id="34">Bourbon Baby</beer>
+    </food>
+    <food name="Rich beef stew with winter vegetables and a dash of honey">
+        <beer id="92">AB:09</beer>
+    </food>
+    <food name="Chocolate orange brownies">
+        <beer id="17">AB:06</beer>
+    </food>
+    <food name="Vanilla Panna Cotta">
+        <beer id="235">Mango And Chili Barley Wine</beer>
+    </food>
+    <food name="Chocolate torte with a dark fruit compote">
+        <beer id="150">AB:13</beer>
+    </food>
+    <food name="Cinnamon poached pears">
+        <beer id="148">AB:02</beer>
+    </food>
+    <food name="Montery Jack Cheese">
+        <beer id="277">Prototype Blonde Ale</beer>
+    </food>
+    <food name="Cured ham and strong mulled cheddar board">
+        <beer id="190">Hello My Name is Sonja (w/ Evil Twin)</beer>
+    </food>
+    <food name="Beer roasted chicken">
+        <beer id="178">Simcoe</beer>
+    </food>
+    <food name="Soy and honey glazed mackerel">
+        <beer id="142">Orange Blossom - B-Sides</beer>
+    </food>
+    <food name="Spicy cajun fried chicken">
+        <beer id="119">Zeitgeist</beer>
+    </food>
+    <food name="Truffle oil filet mignon">
+        <beer id="159">Black Tokyo Horizon (w/Nøgne Ø &amp; Mikkeller)</beer>
+    </food>
+    <food name="Prawn toast with sweet chilli sauce">
+        <beer id="182">All Day Long - Prototype Challenge</beer>
+    </food>
+    <food name="Smoked venison sausage">
+        <beer id="184">Atlantic IPA Ale</beer>
+    </food>
+    <food name="Vanilla &amp; raspberry panna cotta">
+        <beer id="224">AB:20</beer>
+    </food>
+    <food name="Grilled rib-eye steak">
+        <beer id="215">Brixton Porter</beer>
+    </food>
+    <food name="Caramel toffee cake">
+        <beer id="1">Buzz</beer>
+    </food>
+    <food name="Orange polenta cake">
+        <beer id="292">Hello My Name Is Maria</beer>
+    </food>
+    <food name="Mulled cheddar">
+        <beer id="29">10 Heads High</beer>
+    </food>
+    <food name="Gingerbread Man">
+        <beer id="271">Small Batch: Cranachan Cream Ale</beer>
+    </food>
+    <food name="Lemon squares">
+        <beer id="135">Growler</beer>
+    </food>
+    <food name="Barbecue-griddled Poussin">
+        <beer id="253">Small Batch: 90 Shilling</beer>
+    </food>
+    <food name="Greek salad">
+        <beer id="152">Deaf Mermaid - B-Sides</beer>
+    </food>
+    <food name="Dark Chocolate Fondant">
+        <beer id="36">Shipwrecker Circus (w/ Oskar Blues)</beer>
+    </food>
+    <food name="Fettucine alfredo">
+        <beer id="184">Atlantic IPA Ale</beer>
+    </food>
+    <food name="Jerk chicken">
+        <beer id="91">Dead Pony Club</beer>
+    </food>
+    <food name="Vanilla milkshake">
+        <beer id="226">Chili Hammer</beer>
+    </food>
+    <food name="Salmon with mango salsa">
+        <beer id="314">Manic Mango</beer>
+    </food>
+    <food name="Halibut with a mango and tomato salad">
+        <beer id="12">Arcade Nation</beer>
+    </food>
+    <food name="Butternut squash soup with toasted almonds">
+        <beer id="118">Bounty Hunter - Shareholder Brew</beer>
+    </food>
+    <food name="S’mores with smoked marshmallows">
+        <beer id="283">AB:24</beer>
+    </food>
+    <food name="Candied almond and blue cheese rocket salad">
+        <beer id="79">Hops Kill Nazis</beer>
+    </food>
+    <food name="Pancakes with maple syrup">
+        <beer id="122">Dog Fight (w/ Flying Dog)</beer>
+    </food>
+    <food name="Bratwurst and Mustard">
+        <beer id="254">Small Batch: Kellerbier</beer>
+    </food>
+    <food name="Green mango salad">
+        <beer id="234">Neon Overlord</beer>
+    </food>
+    <food name="Warm goats cheese salad">
+        <beer id="157">Edge</beer>
+    </food>
+    <food name="Ossobuco">
+        <beer id="225">Paradox Islay 2.0</beer>
+    </food>
+    <food name="Beer braised Brussels sprouts">
+        <beer id="218">Monk Hammer</beer>
+    </food>
+    <food name="Blue cheese burger">
+        <beer id="167">Libertine Black Ale</beer>
+    </food>
+    <food name="Shortbread cookies">
+        <beer id="6">Electric India</beer>
+    </food>
+    <food name="Chilli and dark chocolate tart">
+        <beer id="80">AB:04</beer>
+    </food>
+    <food name="Aged Stilton">
+        <beer id="103">Clown King</beer>
+    </food>
+    <food name="Stilton tart">
+        <beer id="165">Barley Wine - Russian Doll</beer>
+    </food>
+    <food name="Spicy pork sausages with red potato mash">
+        <beer id="179">How To Disappear Completely</beer>
+    </food>
+    <food name="Barbecue corn and steak fajita seasoned wrap">
+        <beer id="67">Hunter Foundation Pale Ale</beer>
+    </food>
+    <food name="Watermelon and feta salad with balsamic reduction">
+        <beer id="213">El Dorado - IPA Is Dead</beer>
+    </food>
+    <food name="Roasted garlic Camembert">
+        <beer id="315">Baltic Fleet</beer>
+    </food>
+    <food name="Sticky barbecue spare ribs">
+        <beer id="102">Peach Therapy</beer>
+    </food>
+    <food name="Cornish Yarg">
+        <beer id="224">AB:20</beer>
+    </food>
+    <food name="Sea salt fudge">
+        <beer id="93">Mango Gose - B-Sides</beer>
+    </food>
+    <food name="Chocolate and dark cherry fondant">
+        <beer id="159">Black Tokyo Horizon (w/Nøgne Ø &amp; Mikkeller)</beer>
+    </food>
+    <food name="Mature cheddar with spicy chutney">
+        <beer id="176">Old World India Pale Ale</beer>
+    </food>
+    <food name="Dark bitter chocolate torte">
+        <beer id="203">Bitch Please (w/ 3 Floyds)</beer>
+    </food>
+    <food name="Chicken sausages with creamy mash">
+        <beer id="20">Rabiator</beer>
+    </food>
+    <food name="Cheese covered tater tots">
+        <beer id="231">Ace Of Chinook</beer>
+    </food>
+    <food name="Set vanilla custard">
+        <beer id="151">Rhubarb Saison - B-Sides</beer>
+    </food>
+    <food name="Tempura Prawns">
+        <beer id="241">Hello My Name Is Ingrid 2016</beer>
+    </food>
+    <food name="Bratwurst with sauerkraut">
+        <beer id="81">India Session Lager - Prototype Challenge</beer>
+    </food>
+    <food name="Cajun ribs">
+        <beer id="239">#Mashtag 2016</beer>
+    </food>
+    <food name="Blackberry mocha gateaux">
+        <beer id="50">Lost Dog (w/Lost Abbey)</beer>
+    </food>
+    <food name="Margherita pizza">
+        <beer id="13">Movember</beer>
+    </food>
+    <food name="Lemon posset">
+        <beer id="121">Punk Monk</beer>
+    </food>
+    <food name="Cranachan pudding">
+        <beer id="299">Raspberry Popsicle Parade</beer>
+    </food>
+    <food name="Roasted garlic camembert">
+        <beer id="199">Alice Porter</beer>
+    </food>
+    <food name="Grilled salmon">
+        <beer id="35">Berliner Weisse With Raspberries And Rhubarb - B-Sides</beer>
+    </food>
+    <food name="Thyme, rosemary and black pepper rubbed roast beef served with fried green beans">
+        <beer id="170">Bashah (w/ Stone Brewing Co)</beer>
+    </food>
+    <food name="+80% Dark chocolate">
+        <beer id="296">Off-Duty Alien</beer>
+    </food>
+    <food name="Rocky Road">
+        <beer id="23">Storm</beer>
+    </food>
+    <food name="Margarita key lime pie">
+        <beer id="173">Chinook - IPA Is Dead</beer>
+    </food>
+    <food name="Krumkake with lingonberry jam">
+        <beer id="19">Hello My Name Is Mette-Marit</beer>
+    </food>
+    <food name="Scottish raspberry cranachan parfait">
+        <beer id="92">AB:09</beer>
+    </food>
+    <food name="Strong blue cheese">
+        <beer id="57">Prototype 27</beer>
+    </food>
+    <food name="Grilled salmon with a herb and citrus infused butter">
+        <beer id="33">Sorachi Ace</beer>
+    </food>
+    <food name="Poached eggs and smoked salmon">
+        <beer id="37">Zephyr</beer>
+    </food>
+    <food name="Grilled Portobello Mushroom Burger">
+        <beer id="276">Nine To Five Wizard</beer>
+    </food>
+    <food name="German bratwurst sausage">
+        <beer id="123">Candy Kaiser</beer>
+    </food>
+    <food name="Sweet and sour pork">
+        <beer id="324">Fools Gold Dortmunder Lager</beer>
+    </food>
+    <food name="Duck Crackling">
+        <beer id="270">Blonde Export Stout</beer>
+    </food>
+    <food name="Seared steak">
+        <beer id="322">Jet Trash</beer>
+    </food>
+    <food name="Coriander and lime green thai curry">
+        <beer id="100">Elvis Juice V2.0 - Prototype Challenge</beer>
+    </food>
+    <food name="Cajun spiced fried chicken">
+        <beer id="135">Growler</beer>
+    </food>
+    <food name="Spicy crab cakes">
+        <beer id="4">Pilsen Lager</beer>
+    </food>
+    <food name="Red pepper houmous and flat bread">
+        <beer id="75">Never Mind The Anabolics</beer>
+    </food>
+    <food name="Blondies with chocolate fudge sauce">
+        <beer id="62">AB:08</beer>
+    </food>
+    <food name="Swiss and horseradish sandwich">
+        <beer id="14">Alpha Dog</beer>
+    </food>
+    <food name="Applewood cheddar bacon beef burger">
+        <beer id="199">Alice Porter</beer>
+    </food>
+    <food name="Halibut with caper brown butter">
+        <beer id="61">Magic Stone Dog (w/Magic Rock &amp; Stone Brewing Co.)</beer>
+    </food>
+    <food name="Pan roasted poussin with spring veg">
+        <beer id="95">Peroxide Punk</beer>
+    </food>
+    <food name="Roasted halibut with grapefruit salsa">
+        <beer id="296">Off-Duty Alien</beer>
+    </food>
+    <food name="New York style cheesecake">
+        <beer id="160">Restorative Beverage For Invalids And Convalescents</beer>
+    </food>
+    <food name="Sloe gin mixer">
+        <beer id="287">Hello My Name Is Marianne</beer>
+    </food>
+    <food name="Spicy cucumber and carrot Thai salad">
+        <beer id="4">Pilsen Lager</beer>
+    </food>
+    <food name="Spicy mexican meatball stew">
+        <beer id="124">Chaos Theory</beer>
+    </food>
+    <food name="Ham and cheese toastie">
+        <beer id="300">Indie Pale Ale</beer>
+    </food>
+    <food name="Shrimp aguachile">
+        <beer id="219">Ship Wreck</beer>
+    </food>
+    <food name="Smoked bratwurst and mustard">
+        <beer id="114">U-Boat (w/ Victory Brewing)</beer>
+    </food>
+    <food name="Mezcal marinated sirloin steak">
+        <beer id="219">Ship Wreck</beer>
+    </food>
+    <food name="Paella">
+        <beer id="153">Hoppy Saison - B-Sides</beer>
+    </food>
+    <food name="Buffalo wings with blue cheese dip">
+        <beer id="230">Black Hammer</beer>
+    </food>
+    <food name="Grilled goat’s cheese">
+        <beer id="288">Hello My Name Is Agnetha</beer>
+    </food>
+    <food name="Summer berry fruit parfait">
+        <beer id="43">American Wheat</beer>
+    </food>
+    <food name="Andhra chicken pickle curry">
+        <beer id="51">TM10</beer>
+    </food>
+    <food name="Memphis-style beef short ribs">
+        <beer id="17">AB:06</beer>
+    </food>
+    <food name="Classic Victoria Sponge">
+        <beer id="250">Small Batch: Rye IPA</beer>
+    </food>
+    <food name="Rich dark chocolate volcano cake">
+        <beer id="90">#Mashtag 2015</beer>
+    </food>
+    <food name="Rich vanilla ice cream. Neat (or make a float)">
+        <beer id="308">Very Big Moose</beer>
+    </food>
+    <food name="Warm Banana Bread">
+        <beer id="245">Beatnik</beer>
+    </food>
+    <food name="Coconut beef red curry">
+        <beer id="118">Bounty Hunter - Shareholder Brew</beer>
+    </food>
+    <food name="Pesto chicken pizza">
+        <beer id="218">Monk Hammer</beer>
+    </food>
+    <food name="Dark chocolate and coffee torte">
+        <beer id="295">Choco Libre</beer>
+    </food>
+    <food name="Panna cotta with an orange and raspberry sauce">
+        <beer id="128">White Noise</beer>
+    </food>
+    <food name="Summer fruit pudding">
+        <beer id="290">Hello My Name Is Niamh</beer>
+    </food>
+    <food name="Basil Pasta">
+        <beer id="255">Small Batch: Tripel</beer>
+    </food>
+    <food name="Pickled Herrings">
+        <beer id="275">Sidewalk Shark</beer>
+    </food>
+    <food name="Dark chocolate covered bacon">
+        <beer id="56">Black Eyed King Imp</beer>
+    </food>
+    <food name="Salted caramel cheesecake">
+        <beer id="139">Born To Die</beer>
+    </food>
+    <food name="Herbal roast beef with a cranberry jus">
+        <beer id="144">Tokyo*</beer>
+    </food>
+    <food name="Vietnamese squid salad">
+        <beer id="5">Avery Brown Dredge</beer>
+    </food>
+    <food name="12hr smoked brisket">
+        <beer id="41">AB:17</beer>
+    </food>
+    <food name="Salted butterscotch oatmeal cookies">
+        <beer id="234">Neon Overlord</beer>
+    </food>
+    <food name="Fried crab cakes with avocado salsa">
+        <beer id="8">Fake Lager</beer>
+    </food>
+    <food name="Aged cheddar, chickpea &amp; roasted vegetable tagine">
+        <beer id="227">Brewdog Vs Beavertown</beer>
+    </food>
+    <food name="Toasted almond cake">
+        <beer id="29">10 Heads High</beer>
+    </food>
+    <food name="Fresh berry crisp tart">
+        <beer id="13">Movember</beer>
+    </food>
+    <food name="Creamy chocolate and caramel cheesecake">
+        <beer id="42">Hardcore IPA</beer>
+    </food>
+    <food name="Sea buckthorn cheesecake">
+        <beer id="99">Hello My Name Is Päivi</beer>
+    </food>
+    <food name="A Shakin' jesse">
+        <beer id="126">Jet Black Heart</beer>
+    </food>
+    <food name="Chocolate gateaux">
+        <beer id="52">Paradox Islay</beer>
+    </food>
+    <food name="Stilton on gingerbread biscuits">
+        <beer id="22">Devine Rebel (w/ Mikkeller)</beer>
+    </food>
+    <food name="Pork smothered in mole sauce">
+        <beer id="133">Black Eye Joe (w/ Stone Brewing Co)</beer>
+    </food>
+    <food name="Cured Spanish ham">
+        <beer id="206">Black Jacques</beer>
+    </food>
+    <food name="Creamy warm baked goats cheese salad">
+        <beer id="162">77 Lager</beer>
+    </food>
+    <food name="Jalapeño and cream cheese poppers">
+        <beer id="212">Hop Fiction - Prototype Challenge</beer>
+    </food>
+    <food name="Dark fruit crumble">
+        <beer id="165">Barley Wine - Russian Doll</beer>
+    </food>
+    <food name="Flame grilled steak">
+        <beer id="196">Catherine's Pony (w/ Beavertown)</beer>
+    </food>
+    <food name="Gingerbread">
+        <beer id="208">Sunshine On Rye - B-Sides</beer>
+    </food>
+    <food name="Baked Brie">
+        <beer id="252">Small Batch: Dortmunder</beer>
+    </food>
+    <food name="Fish tacos with avocado">
+        <beer id="131">Motueka</beer>
+    </food>
+    <food name="Pho soup with light rice noodles">
+        <beer id="314">Manic Mango</beer>
+    </food>
+    <food name="Haggis bon bons">
+        <beer id="26">Skull Candy</beer>
+    </food>
+    <food name="Plum cobbler">
+        <beer id="291">Hello My Name Is Sofia</beer>
+    </food>
+    <food name="Yuzu cheesecake">
+        <beer id="3">Berliner Weisse With Yuzu - B-Sides</beer>
+    </food>
+    <food name="Spinach and feta tacos">
+        <beer id="230">Black Hammer</beer>
+    </food>
+    <food name="California sushi rolls with fresh crab and wasabi infused soy sauce">
+        <beer id="134">Mr.Miyagi's Wasabi Stout</beer>
+    </food>
+    <food name="Grilled sea bass fillet">
+        <beer id="290">Hello My Name Is Niamh</beer>
+    </food>
+    <food name="Poached pear fritters">
+        <beer id="123">Candy Kaiser</beer>
+    </food>
+    <food name="Poached cinnamon apple muffins">
+        <beer id="87">Alpha Pop</beer>
+    </food>
+    <food name="Chocolate, cherry and hazelnut mousse">
+        <beer id="169">AB:19</beer>
+    </food>
+    <food name="Vegan Mac and ‘Cheese’">
+        <beer id="282">Pina Colada Sidewalk</beer>
+    </food>
+    <food name="Pork belly vindaloo">
+        <beer id="44">Dog Wired (w/8 Wired)</beer>
+    </food>
+    <food name="Caramelised scallops with burnt apple puree">
+        <beer id="62">AB:08</beer>
+    </food>
+    <food name="Carrot cake with cream cheese frosting">
+        <beer id="172">Single Hop Enigma IPA - B-Sides</beer>
+    </food>
+    <food name="Lamb and mint tagine">
+        <beer id="310">Clockwork Tangerine</beer>
+    </food>
+    <food name="Sriracha infused shredded beef">
+        <beer id="177">Dog D</beer>
+    </food>
+    <food name="Potted fresh &amp; smoked salmon">
+        <beer id="72">Whisky Sour - B-Sides</beer>
+    </food>
+    <food name="Chilli chocolate fondant">
+        <beer id="177">Dog D</beer>
+    </food>
+    <food name="Raspberry Souffle">
+        <beer id="280">Make Earth Great Again</beer>
+    </food>
+    <food name="Roast duck in a cherry glaze">
+        <beer id="150">AB:13</beer>
+    </food>
+    <food name="Honey glazed duck breast">
+        <beer id="149">AB:03</beer>
+    </food>
+    <food name="Rum poached pears with dark chocolate sauce">
+        <beer id="52">Paradox Islay</beer>
+    </food>
+    <food name="Basil, lemon and pine nut angel hair pasta with grilled chicken">
+        <beer id="33">Sorachi Ace</beer>
+    </food>
+    <food name="Apple and rosemary tart">
+        <beer id="63">Sunk Punk</beer>
+    </food>
+    <food name="Chilli Beer Tacos">
+        <beer id="267">AB:22</beer>
+    </food>
+    <food name="Crème Brûlée">
+        <beer id="272">Small Batch: Spelt &amp; Honey Saison</beer>
+    </food>
+    <food name="Gooey lemon bar">
+        <beer id="163">This. Is. Lager</beer>
+    </food>
+    <food name="Falafel and hummus pitta wrap">
+        <beer id="183">Nuns With Guns</beer>
+    </food>
+    <food name="Stilton Blue featured cheese platter">
+        <beer id="203">Bitch Please (w/ 3 Floyds)</beer>
+    </food>
+    <food name="Steamed cod with ginger and spring onions">
+        <beer id="285">Hello My Name Is Sari</beer>
+    </food>
+    <food name="Pizza with chili flakes">
+        <beer id="311">Sonic Boom</beer>
+    </food>
+    <food name="Sweet potato pie">
+        <beer id="30">Dana - IPA Is Dead</beer>
+    </food>
+    <food name="Oyster beignets">
+        <beer id="126">Jet Black Heart</beer>
+    </food>
+    <food name="Spicy beef empanadas">
+        <beer id="222">Dog E</beer>
+    </food>
+    <food name="Char sui pork buns">
+        <beer id="222">Dog E</beer>
+    </food>
+    <food name="Baked Peaches with Citrus Fruit Reduction">
+        <beer id="260">New England IPA</beer>
+    </food>
+    <food name="Spiced nut loaf">
+        <beer id="72">Whisky Sour - B-Sides</beer>
+    </food>
+    <food name="Goan goat curry">
+        <beer id="46">Anarchist Alchemist</beer>
+    </food>
+    <food name="Sharp cheddar cheese and crackers">
+        <beer id="127">Galaxy</beer>
+    </food>
+    <food name="Pork dumplings with rich soy sauce">
+        <beer id="119">Zeitgeist</beer>
+    </food>
+    <food name="Oreo Cheesecake">
+        <beer id="270">Blonde Export Stout</beer>
+    </food>
+    <food name="Chocolate ganache">
+        <beer id="298">Declassified Demi-God</beer>
+    </food>
+    <food name="Beef burger topped with red onions and wasabi">
+        <beer id="306">AB:25</beer>
+    </food>
+    <food name="Beef chilli made with cocoa powder">
+        <beer id="56">Black Eyed King Imp</beer>
+    </food>
+    <food name="Russian mini pork pies">
+        <beer id="40">Hello My Name is Vladimir</beer>
+    </food>
+    <food name="Aromatic spicy red thai curry">
+        <beer id="162">77 Lager</beer>
+    </food>
+    <food name="Schäufele">
+        <beer id="229">Rye Hammer</beer>
+    </food>
+    <food name="Jamaican jerk chicken wings">
+        <beer id="238">Kingpin</beer>
+    </food>
+    <food name="Ham and mustard crisps">
+        <beer id="301">Small Batch: Dry-hopped Pilsner</beer>
+    </food>
+    <food name="Grilled chicken salad with bacon and avocado">
+        <beer id="75">Never Mind The Anabolics</beer>
+    </food>
+    <food name="Basil panna cotta with strawberries">
+        <beer id="219">Ship Wreck</beer>
+    </food>
+    <food name="Pan-fried Lemon Sole">
+        <beer id="264">Small Batch: East Coast Crush</beer>
+    </food>
+    <food name="Beef Rendang">
+        <beer id="247">Self Assembly Pope</beer>
+    </food>
+    <food name="Pork Burrito with a Habanero and Mango Chili Salsa">
+        <beer id="249">Hop Shot</beer>
+    </food>
+    <food name="Roast Pheasant With Savoy Cabbage">
+        <beer id="267">AB:22</beer>
+    </food>
+    <food name="Tuna &amp; salmon sushi (with plenty of wasabi!)">
+        <beer id="223">Prototype Pils 2.0</beer>
+    </food>
+    <food name="Jamaican Curry Goat">
+        <beer id="312">Dog G</beer>
+    </food>
+    <food name="Mint cheesecake">
+        <beer id="116">Morag's Mojito - B-Sides</beer>
+    </food>
+    <food name="Curried sea bass">
+        <beer id="233">Ace Of Citra</beer>
+    </food>
+    <food name="Quince cheese">
+        <beer id="68">Hype</beer>
+    </food>
+    <food name="Fudge">
+        <beer id="82">Hopped-Up Brown Ale - Prototype Challenge</beer>
+    </food>
+    <food name="Roast pork chops">
+        <beer id="284">Hello My Name Is Helga</beer>
+    </food>
+    <food name="Bacon sandwich with brown sauce">
+        <beer id="73">Black Eyed King Imp - Vietnamese Coffee Edition</beer>
+    </food>
+    <food name="Cheesecake with raspberry (or peach/passion fruit) sauce">
+        <beer id="193">Blitz Berliner Weisse</beer>
+    </food>
+    <food name="Flaky pastry beef pie and sweet potato mash">
+        <beer id="103">Clown King</beer>
+    </food>
+    <food name="Ginger and chilli beef stir fry">
+        <beer id="158">Hello My Name Is Zé (w/ 2Cabeças)</beer>
+    </food>
+    <food name="Tomato and Herb Bruschetta">
+        <beer id="252">Small Batch: Dortmunder</beer>
+    </food>
+    <food name="Cheesecake with raspberry coulis">
+        <beer id="35">Berliner Weisse With Raspberries And Rhubarb - B-Sides</beer>
+    </food>
+    <food name="Salt cod croquettes">
+        <beer id="116">Morag's Mojito - B-Sides</beer>
+    </food>
+    <food name="Sashimi sushi">
+        <beer id="221">Blitz Series</beer>
+    </food>
+    <food name="Chocolate mousse">
+        <beer id="292">Hello My Name Is Maria</beer>
+    </food>
+    <food name="Halloumi and sweet chili burger">
+        <beer id="220">Ace Of Simcoe</beer>
+    </food>
+    <food name="Pepper jack cheese burger on a brioche bun">
+        <beer id="141">Cap Dog (w/ Cap Brewery)</beer>
+    </food>
+    <food name="Espresso brownies with burnt sugar ice cream">
+        <beer id="283">AB:24</beer>
+    </food>
+    <food name="Sweet sticky beef brisket">
+        <beer id="159">Black Tokyo Horizon (w/Nøgne Ø &amp; Mikkeller)</beer>
+    </food>
+    <food name="Crayfish with a chilli, coriander infused butter dip">
+        <beer id="113">Hello My Name Is Ingrid</beer>
+    </food>
+    <food name="Roast Chicken">
+        <beer id="318">Neverland</beer>
+    </food>
+    <food name="Spinach and feta salad">
+        <beer id="286">Hello My Name Is Aune</beer>
+    </food>
+    <food name="Honey ham sandwich Gruyère cheese">
+        <beer id="316">SOS! (May Day!)</beer>
+    </food>
+    <food name="Blackcurrant Panna Cotta">
+        <beer id="244">AB:21</beer>
+    </food>
+    <food name="Watercress rochfort and walnut salad">
+        <beer id="305">Native Son</beer>
+    </food>
+    <food name="Vegetable Samosas">
+        <beer id="235">Mango And Chili Barley Wine</beer>
+    </food>
+    <food name="Roast chicken with vegetables and wild rice">
+        <beer id="71">Pale - Russian Doll</beer>
+    </food>
+    <food name="Cheese boards">
+        <beer id="221">Blitz Series</beer>
+    </food>
+    <food name="Aged gouda">
+        <beer id="123">Candy Kaiser</beer>
+    </food>
+    <food name="Chocolate caramel drizzled sponge cake">
+        <beer id="60">Dogma</beer>
+    </food>
+    <food name="Korvapuusti (cinnamon and cardamom buns)">
+        <beer id="99">Hello My Name Is Päivi</beer>
+    </food>
+    <food name="Spicy chicken and chilli verde sauce enchiladas">
+        <beer id="211">Black Dog</beer>
+    </food>
+    <food name="Grilled Halibut">
+        <beer id="275">Sidewalk Shark</beer>
+    </food>
+    <food name="Creamy maple syrup and bacon soup">
+        <beer id="98">Pumpkin King</beer>
+    </food>
+    <food name="Mac and Cheese">
+        <beer id="221">Blitz Series</beer>
+    </food>
+    <food name="Butterscotch tart">
+        <beer id="51">TM10</beer>
+    </food>
+    <food name="Cheddar cheese toastie on dark rye">
+        <beer id="164">Ella - IPA Is Dead</beer>
+    </food>
+    <food name="Fried calamari with a mild sauce">
+        <beer id="180">Doodlebug</beer>
+    </food>
+    <food name="White Chocolate and Pistachio Cheesecake">
+        <beer id="282">Pina Colada Sidewalk</beer>
+    </food>
+    <food name="Lobster">
+        <beer id="21">Vice Bier</beer>
+    </food>
+    <food name="Mild cheddar">
+        <beer id="117">Hop Rocker</beer>
+    </food>
+    <food name="Turnip beef stew with crusty fresh baked bread">
+        <beer id="179">How To Disappear Completely</beer>
+    </food>
+    <food name="Coffee dusted venison loin">
+        <beer id="17">AB:06</beer>
+    </food>
+    <food name="Pan seared scallops with a chilli sauce">
+        <beer id="42">Hardcore IPA</beer>
+    </food>
+    <food name="Aromatic korma curry with lemon and garlic naan">
+        <beer id="10">Bramling X</beer>
+    </food>
+    <food name="Popcorn caramel and chocolate cake">
+        <beer id="47">AB:15</beer>
+    </food>
+    <food name="20hr smoked brisket">
+        <beer id="73">Black Eyed King Imp - Vietnamese Coffee Edition</beer>
+    </food>
+    <food name="Fried brie bites">
+        <beer id="108">American Ale</beer>
+    </food>
+    <food name="Gingerbread Cake">
+        <beer id="254">Small Batch: Kellerbier</beer>
+    </food>
+    <food name="Pineapple Sponge Cake">
+        <beer id="245">Beatnik</beer>
+    </food>
+    <food name="Grilled portabello mushroom burger">
+        <beer id="20">Rabiator</beer>
+    </food>
+    <food name="Chargrilled corn on the cob with paprika butter">
+        <beer id="5">Avery Brown Dredge</beer>
+    </food>
+    <food name="Kedgeree">
+        <beer id="9">AB:07</beer>
+    </food>
+    <food name="Braised rabbit stew">
+        <beer id="283">AB:24</beer>
+    </food>
+    <food name="Caramelized onion and steak pie">
+        <beer id="171">Challenger</beer>
+    </food>
+    <food name="Gooey chocolate brownies">
+        <beer id="58">Coffee Imperial Stout</beer>
+    </food>
+    <food name="Pork belly ramen">
+        <beer id="228">Prototype Helles</beer>
+    </food>
+    <food name="Blue cheese crumbled over wedges">
+        <beer id="163">This. Is. Lager</beer>
+    </food>
+    <food name="Kippers and poached eggs">
+        <beer id="78">AB:18</beer>
+    </food>
+    <food name="Californian Sushi Roll">
+        <beer id="251">Small Batch: Sorachi Ace Session</beer>
+    </food>
+    <food name="Fish tacos">
+        <beer id="320">King of Eights</beer>
+    </food>
+    <food name="Chicken fried steak with cheesy mash">
+        <beer id="58">Coffee Imperial Stout</beer>
+    </food>
+    <food name="Coq au vin">
+        <beer id="120">AB:10</beer>
+    </food>
+    <food name="Blue cheese wedge salad">
+        <beer id="90">#Mashtag 2015</beer>
+    </food>
+    <food name="Celery and stilton soup">
+        <beer id="97">Bowman's Beard - B-Sides</beer>
+    </food>
+    <food name="Chilli spiced pork pie">
+        <beer id="194">Hardkogt IPA</beer>
+    </food>
+    <food name="Chocolate milk shake">
+        <beer id="11">Misspent Youth</beer>
+    </food>
+    <food name="Apricot coconut cake">
+        <beer id="24">The End Of History</beer>
+    </food>
+    <food name="Crab roll sushi with strawberries">
+        <beer id="112">Vote Sepp</beer>
+    </food>
+    <food name="Jerk Chicken Kebabs with Mango Salsa">
+        <beer id="248">Twin Atlantic</beer>
+    </food>
+    <food name="Tempura seafood">
+        <beer id="300">Indie Pale Ale</beer>
+    </food>
+    <food name="Coriander &amp; chilli crab cakes">
+        <beer id="15">Mixtape 8</beer>
+    </food>
+    <food name="Smoked venison stew">
+        <beer id="287">Hello My Name Is Marianne</beer>
+    </food>
+    <food name="Black bean and avocado enchiladas with mole sauce">
+        <beer id="122">Dog Fight (w/ Flying Dog)</beer>
+    </food>
+    <food name="Berry and Cream Meringue">
+        <beer id="237">Honey And Lemon Blitz</beer>
+    </food>
+    <food name="Taleggio and Spinach Tart">
+        <beer id="240">Blitz Saison</beer>
+    </food>
+    <food name="Affogato with vanilla ice cream">
+        <beer id="109">Cocoa Psycho</beer>
+    </food>
+    <food name="Herb roasted duck with a fruit sauce">
+        <beer id="189">AB:11</beer>
+    </food>
+    <food name="Belgian waffles">
+        <beer id="84">Baby Saison - B-Sides</beer>
+    </food>
+    <food name="Ham and pineapple pizza">
+        <beer id="178">Simcoe</beer>
+    </food>
+    <food name="Smoked aubergine tapenade with rye bread">
+        <beer id="188">Paradox Jura</beer>
+    </food>
+    <food name="Crab Cakes">
+        <beer id="246">Casino Rye Ale</beer>
+    </food>
+    <food name="Hickory smoked ham">
+        <beer id="23">Storm</beer>
+    </food>
+    <food name="Strawberry filo tarts">
+        <beer id="145">Sorachi Bitter - B-Sides</beer>
+    </food>
+    <food name="Lamb chops with caramelised figs">
+        <beer id="22">Devine Rebel (w/ Mikkeller)</beer>
+    </food>
+    <food name="Spiced cranberry turkey">
+        <beer id="156">Hoppy Christmas</beer>
+    </food>
+    <food name="Epoisses cheese">
+        <beer id="80">AB:04</beer>
+    </food>
+    <food name="Salt baked cod with lemon and dill butter">
+        <beer id="63">Sunk Punk</beer>
+    </food>
+    <food name="Chilli chocolate bars">
+        <beer id="205">Shareholder Black IPA 2011</beer>
+    </food>
+    <food name="Sweet pork Chinese dumplings">
+        <beer id="49">AB:14</beer>
+    </food>
+    <food name="Beetroot and goats cheese salad">
+        <beer id="228">Prototype Helles</beer>
+    </food>
+    <food name="Chocolate Torte">
+        <beer id="244">AB:21</beer>
+    </food>
+    <food name="Sweet glazed ribs">
+        <beer id="307">Kamikaze Knitting Club</beer>
+    </food>
+    <food name="Chocolate and walnut brownie">
+        <beer id="215">Brixton Porter</beer>
+    </food>
+    <food name="Cajun Chicken Burger">
+        <beer id="252">Small Batch: Dortmunder</beer>
+    </food>
+    <food name="Spicy black bean and chicken tortilla soup">
+        <beer id="107">HBC 366 - IPA Is Dead</beer>
+    </food>
+    <food name="Blueberry muffins">
+        <beer id="285">Hello My Name Is Sari</beer>
+    </food>
+    <food name="Coriander Chicken Tostadas">
+        <beer id="274">Prototype Black Rye IPA</beer>
+    </food>
+    <food name="Bratwurst sausage with spicy mustard">
+        <beer id="55">Amarillo - IPA Is Dead</beer>
+    </food>
+    <food name="Salted caramel soufflé">
+        <beer id="97">Bowman's Beard - B-Sides</beer>
+    </food>
+    <food name="Banana split">
+        <beer id="25">Bad Pixie</beer>
+    </food>
+    <food name="Crème Caramel">
+        <beer id="240">Blitz Saison</beer>
+    </food>
+    <food name="Spicy carne asada with black beans and Mexican Rice">
+        <beer id="133">Black Eye Joe (w/ Stone Brewing Co)</beer>
+    </food>
+    <food name="Green Thai curry">
+        <beer id="314">Manic Mango</beer>
+    </food>
+    <food name="Game terrine">
+        <beer id="169">AB:19</beer>
+    </food>
+    <food name="Hot spiced barbecue chicken wings">
+        <beer id="201">Waimea - IPA Is Dead</beer>
+    </food>
+    <food name="Pomegranate tart with walnuts">
+        <beer id="319">Grano Giusto</beer>
+    </food>
+    <food name="Huevos rancheros">
+        <beer id="128">White Noise</beer>
+    </food>
+    <food name="Panko-coated Chicken Katsu">
+        <beer id="242">Crew Brew</beer>
+    </food>
+    <food name="Lemon cookies">
+        <beer id="325">Zipcode</beer>
+    </food>
+    <food name="Strawberry and citrus salad">
+        <beer id="43">American Wheat</beer>
+    </food>
+    <food name="Goat's cheese salad">
+        <beer id="325">Zipcode</beer>
+    </food>
+    <food name="Chocolate fudge ice cream">
+        <beer id="73">Black Eyed King Imp - Vietnamese Coffee Edition</beer>
+    </food>
+    <food name="Orange marmalade thumb print cookie">
+        <beer id="214">Cult Lager</beer>
+    </food>
+    <food name="Deep-fried calamari">
+        <beer id="291">Hello My Name Is Sofia</beer>
+    </food>
+    <food name="Brisket burnt ends">
+        <beer id="210">Dead Metaphor</beer>
+    </food>
+    <food name="Summer fruit salad">
+        <beer id="25">Bad Pixie</beer>
+    </food>
+    <food name="Lavender and thyme roast beef">
+        <beer id="59">Mandarina Bavaria - IPA Is Dead</beer>
+    </food>
+    <food name="Shortbread and raspberry jam thumbprint cookie">
+        <beer id="111">Vagabond Pilsner</beer>
+    </food>
+    <food name="Flourless chocolate ginger cake">
+        <beer id="167">Libertine Black Ale</beer>
+    </food>
+    <food name="Bacon mac 'n' cheese">
+        <beer id="187">Lichtenstein Pale Ale</beer>
+    </food>
+    <food name="Apple and blueberry pie">
+        <beer id="285">Hello My Name Is Sari</beer>
+    </food>
+    <food name="BBQ hot wings">
+        <beer id="319">Grano Giusto</beer>
+    </food>
+    <food name="Smoked cured beef">
+        <beer id="188">Paradox Jura</beer>
+    </food>
+    <food name="Dark chocolate chip cookies">
+        <beer id="55">Amarillo - IPA Is Dead</beer>
+    </food>
+    <food name="Blue cheese &amp; onion tart">
+        <beer id="46">Anarchist Alchemist</beer>
+    </food>
+    <food name="Baked Alaska">
+        <beer id="161">Tokyo Rising Sun - Highland</beer>
+    </food>
+    <food name="Warms goats cheese salad">
+        <beer id="195">Hello My Name Is Holy Moose</beer>
+    </food>
+    <food name="Steak">
+        <beer id="294">Opaque Jake</beer>
+    </food>
+    <food name="Ginger and orange cookies">
+        <beer id="21">Vice Bier</beer>
+    </food>
+    <food name="Coco Pops (add stout to cereal)">
+        <beer id="210">Dead Metaphor</beer>
+    </food>
+    <food name="Deep fried coconut prawns">
+        <beer id="232">Ace Of Equinox</beer>
+    </food>
+    <food name="Angus beef cheeseburger">
+        <beer id="170">Bashah (w/ Stone Brewing Co)</beer>
+    </food>
+    <food name="Chicken korma">
+        <beer id="294">Opaque Jake</beer>
+    </food>
+    <food name="Gin &amp; elderflower jelly">
+        <beer id="125">Juniper Wheat Beer</beer>
+    </food>
+    <food name="Mexican wedding cake (cookies)">
+        <beer id="86">Original Dogma (Née Speedball)</beer>
+    </food>
+    <food name="Caramelised onion and ham foccacia">
+        <beer id="165">Barley Wine - Russian Doll</beer>
+    </food>
+    <food name="Chocolate coated macaroons">
+        <beer id="118">Bounty Hunter - Shareholder Brew</beer>
+    </food>
+    <food name="Pear crumble">
+        <beer id="187">Lichtenstein Pale Ale</beer>
+    </food>
+    <food name="Salt and pepper squid">
+        <beer id="37">Zephyr</beer>
+    </food>
+    <food name="Cinnamon &amp; white chocolate churro">
+        <beer id="67">Hunter Foundation Pale Ale</beer>
+    </food>
+    <food name="Salmon Salad">
+        <beer id="277">Prototype Blonde Ale</beer>
+    </food>
+    <food name="Smörgås with cream topping">
+        <beer id="113">Hello My Name Is Ingrid</beer>
+    </food>
+    <food name="Roasted butternut squash">
+        <beer id="76">#Mashtag 2013</beer>
+    </food>
+    <food name="Chicken, mango and chili salad">
+        <beer id="232">Ace Of Equinox</beer>
+    </food>
+    <food name="King prawn kebabs">
+        <beer id="12">Arcade Nation</beer>
+    </food>
+    <food name="Spicy chorizo and prawn Jambalaya">
+        <beer id="312">Dog G</beer>
+    </food>
+    <food name="Sea bass ceviche">
+        <beer id="93">Mango Gose - B-Sides</beer>
+    </food>
+    <food name="Moroccan spice lamb shanks">
+        <beer id="142">Orange Blossom - B-Sides</beer>
+    </food>
+    <food name="Roasted pork loin with tropical fruit">
+        <beer id="304">Karma Cloud</beer>
+    </food>
+    <food name="Sticky spicy barbecue ribs with a strong blue cheese dipping sauce">
+        <beer id="162">77 Lager</beer>
+    </food>
+    <food name="Herb-Crusted Baked Cod">
+        <beer id="237">Honey And Lemon Blitz</beer>
+    </food>
+    <food name="Shredded chicken and mango salsa taquitos">
+        <beer id="68">Hype</beer>
+    </food>
+    <food name="Spicy beef and Mexican black bean burger">
+        <beer id="87">Alpha Pop</beer>
+    </food>
+    <food name="Mozzarella and tomato baked chicken">
+        <beer id="77">Hobo Pop</beer>
+    </food>
+    <food name="Almond pound cake">
+        <beer id="289">Hello My Name Is Lieke</beer>
+    </food>
+    <food name="Game pie">
+        <beer id="288">Hello My Name Is Agnetha</beer>
+    </food>
+    <food name="Chocolate Orange Brownies">
+        <beer id="259">Tropic Thunder</beer>
+    </food>
+    <food name="Smoked dry-cured venison sausage">
+        <beer id="153">Hoppy Saison - B-Sides</beer>
+    </food>
+    <food name="Cheese and Ham Omelette">
+        <beer id="236">Science IPA</beer>
+    </food>
+    <food name="Panna cotta">
+        <beer id="299">Raspberry Popsicle Parade</beer>
+    </food>
+    <food name="Baklava">
+        <beer id="142">Orange Blossom - B-Sides</beer>
+    </food>
+    <food name="Mexican spiced chicken with hot sauce">
+        <beer id="214">Cult Lager</beer>
+    </food>
+    <food name="Venison with cacao nibs">
+        <beer id="32">AB:05</beer>
+    </food>
+    <food name="Ginger and grapefruit poundcake">
+        <beer id="168">Jack Hammer</beer>
+    </food>
+    <food name="Steak taquitos with spicy mole sauce">
+        <beer id="189">AB:11</beer>
+    </food>
+    <food name="BBQ pit beans">
+        <beer id="298">Declassified Demi-God</beer>
+    </food>
+    <food name="Courgette fries">
+        <beer id="233">Ace Of Citra</beer>
+    </food>
+    <food name="Grilled chicken with a chilli soy sauce marinade">
+        <beer id="213">El Dorado - IPA Is Dead</beer>
+    </food>
+    <food name="Fenalår (salted cured lamb)">
+        <beer id="19">Hello My Name Is Mette-Marit</beer>
+    </food>
+    <food name="Waffles with caramelised apple and powdered sugar">
+        <beer id="104">India Pale Weizen (w/ Weihenstephan)</beer>
+    </food>
+    <food name="Chilli con carne">
+        <beer id="141">Cap Dog (w/ Cap Brewery)</beer>
+    </food>
+    <food name="Baja fish tacos">
+        <beer id="234">Neon Overlord</beer>
+    </food>
+    <food name="Fish and chips">
+        <beer id="48">Goldings - IPA Is Dead</beer>
+    </food>
+    <food name="Confit duck with cherry sauce">
+        <beer id="239">#Mashtag 2016</beer>
+    </food>
+    <food name="Arrabiata pasta with grilled prawns">
+        <beer id="214">Cult Lager</beer>
+    </food>
+    <food name="Lobster Tail Salad">
+        <beer id="256">Small Batch: Vermont IPA</beer>
+    </food>
+    <food name="Raisin rum cake">
+        <beer id="157">Edge</beer>
+    </food>
+    <food name="Ancho chilli beef taco">
+        <beer id="52">Paradox Islay</beer>
+    </food>
+    <food name="Pistachio cake">
+        <beer id="15">Mixtape 8</beer>
+    </food>
+    <food name="Cheddar cheese board">
+        <beer id="304">Karma Cloud</beer>
+    </food>
+    <food name="Light vegetable and herb soup with toasted rye bread">
+        <beer id="207">International Arms Race (w/ Flying Dog)</beer>
+    </food>
+    <food name="Citrus salad with balsamic dressing">
+        <beer id="21">Vice Bier</beer>
+    </food>
+    <food name="Raspberry Soufflé">
+        <beer id="241">Hello My Name Is Ingrid 2016</beer>
+    </food>
+    <food name="Chicken and pesto pasta">
+        <beer id="301">Small Batch: Dry-hopped Pilsner</beer>
+    </food>
+    <food name="Asparagus pesto pasta">
+        <beer id="212">Hop Fiction - Prototype Challenge</beer>
+    </food>
+    <food name="Coarse pork pate with fresh crusty bread">
+        <beer id="306">AB:25</beer>
+    </food>
+    <food name="Citrus Salad With Balsamic Dressing">
+        <beer id="276">Nine To Five Wizard</beer>
+    </food>
+    <food name="Lemon meringue pie">
+        <beer id="174">Konnichiwa Kitsune</beer>
+    </food>
+    <food name="Dark chocolate ganache macaroons">
+        <beer id="110">Truffle and Chocolate Stout - B-Sides</beer>
+    </food>
+    <food name="Pumpkin pie">
+        <beer id="98">Pumpkin King</beer>
+    </food>
+    <food name="Beef satay skewers">
+        <beer id="50">Lost Dog (w/Lost Abbey)</beer>
+    </food>
+    <food name="Chipotle steak tacos">
+        <beer id="177">Dog D</beer>
+    </food>
+    <food name="Grilled salmon tacos">
+        <beer id="301">Small Batch: Dry-hopped Pilsner</beer>
+    </food>
+    <food name="Tuna sushi roll with spicy mayonnaise sauce">
+        <beer id="39">Kohatu - IPA Is Dead</beer>
+    </food>
+    <food name="Fried bacon with crispy honeycomb bits">
+        <beer id="96">Lumberjack Stout</beer>
+    </food>
+    <food name="Ginger and Grapefruit Poundcake">
+        <beer id="249">Hop Shot</beer>
+    </food>
+    <food name="Spicy Daal with garlic naan bread">
+        <beer id="61">Magic Stone Dog (w/Magic Rock &amp; Stone Brewing Co.)</beer>
+    </food>
+    <food name="Beef Wellington with a red wine jus">
+        <beer id="7">AB:12</beer>
+    </food>
+    <food name="Lemon grilled halibut">
+        <beer id="166">Vagabond Pale ALe - Prototype Challenge</beer>
+    </food>
+    <food name="Mature Wensleydale">
+        <beer id="279">Slot Machine</beer>
+    </food>
+    <food name="Venison and Winter vegetable stew">
+        <beer id="196">Catherine's Pony (w/ Beavertown)</beer>
+    </food>
+    <food name="Chilli covered burgers">
+        <beer id="315">Baltic Fleet</beer>
+    </food>
+    <food name="Dulche de leche">
+        <beer id="41">AB:17</beer>
+    </food>
+    <food name="Mole Mexican chilli beef">
+        <beer id="298">Declassified Demi-God</beer>
+    </food>
+    <food name="Tandoori lamb with pomegranate">
+        <beer id="7">AB:12</beer>
+    </food>
+    <food name="Shredded chicken tacos with pico de gallo">
+        <beer id="89">Citra</beer>
+    </food>
+    <food name="Basil granita">
+        <beer id="286">Hello My Name Is Aune</beer>
+    </food>
+    <food name="Raspberry chocolate torte">
+        <beer id="7">AB:12</beer>
+    </food>
+    <food name="Baked Camembert with smoked garlic, and salt and pepper wheat crackers">
+        <beer id="146">Nelson Sauvin</beer>
+    </food>
+    <food name="Thai Green Chicken Curry">
+        <beer id="235">Mango And Chili Barley Wine</beer>
+    </food>
+    <food name="Oysters with a chilli and dill sauce">
+        <beer id="147">Hello My Name Is Little Ingrid</beer>
+    </food>
+    <food name="Candied ginger pear cake">
+        <beer id="319">Grano Giusto</beer>
+    </food>
+    <food name="Pumpkin Pie">
+        <beer id="236">Science IPA</beer>
+    </food>
+    <food name="Goat's Cheese Salad With Walnuts, Radish And Blood Orange">
+        <beer id="263">Small Batch: Mandarina Lager</beer>
+    </food>
+    <food name="Oysters With a Chilli And Dill Sauce">
+        <beer id="280">Make Earth Great Again</beer>
+    </food>
+    <food name="Baja style fish tacos">
+        <beer id="91">Dead Pony Club</beer>
+    </food>
+    <food name="Smoked chicken wings">
+        <beer id="3">Berliner Weisse With Yuzu - B-Sides</beer>
+    </food>
+    <food name="Orange sherbet ice cream">
+        <beer id="136">#Mashtag 2014</beer>
+    </food>
+    <food name="Poached salmon with salsa verde">
+        <beer id="145">Sorachi Bitter - B-Sides</beer>
+    </food>
+    <food name="Lamb samosas with chilli dipping sauce">
+        <beer id="164">Ella - IPA Is Dead</beer>
+    </food>
+    <food name="Orange and carrot cake with orange cream cheese icing">
+        <beer id="303">Hazy Jane Rye Barrel Aged</beer>
+    </food>
+    <food name="Banana bread">
+        <beer id="197">Moshi Moshi 15</beer>
+    </food>
+    <food name="Crab cakes with lemon cream and herb dipping sauce">
+        <beer id="146">Nelson Sauvin</beer>
+    </food>
+    <food name="Lobster bisque">
+        <beer id="193">Blitz Berliner Weisse</beer>
+    </food>
+    <food name="Mushroom pithivier">
+        <beer id="110">Truffle and Chocolate Stout - B-Sides</beer>
+    </food>
+    <food name="Wild rice salad with wild mushrooms">
+        <beer id="130">Spiced Cherry Sour - B-Sides</beer>
+    </food>
+    <food name="Crusty bread">
+        <beer id="322">Jet Trash</beer>
+    </food>
+    <food name="Pot roasted artichokes">
+        <beer id="22">Devine Rebel (w/ Mikkeller)</beer>
+    </food>
+    <food name="Garlic butter dipping sauce">
+        <beer id="2">Trashy Blonde</beer>
+    </food>
+    <food name="Caprese salad (mozzarella, tomato, basil, black pepper and sea salt)">
+        <beer id="112">Vote Sepp</beer>
+    </food>
+    <food name="Chicken fajita spiced monteray jack quesadillas">
+        <beer id="173">Chinook - IPA Is Dead</beer>
+    </food>
+    <food name="Orange Zest Tart">
+        <beer id="265">Pump Action Poet</beer>
+    </food>
+    <food name="Crème brûlée with apricot coulis">
+        <beer id="213">El Dorado - IPA Is Dead</beer>
+    </food>
+    <food name="Mild coriander and chilli chicken curry">
+        <beer id="128">White Noise</beer>
+    </food>
+    <food name="Vanilla bean white chocolate">
+        <beer id="185">Tactical Nuclear Penguin</beer>
+    </food>
+    <food name="Stir-fried chicken">
+        <beer id="292">Hello My Name Is Maria</beer>
+    </food>
+    <food name="Cardamom cake with powder sugar and cloudberry jam">
+        <beer id="113">Hello My Name Is Ingrid</beer>
+    </food>
+    <food name="Crab melt sandwich">
+        <beer id="6">Electric India</beer>
+    </food>
+    <food name="Beef carpaccio">
+        <beer id="115">Melon And Cucumber IPA - B-Sides</beer>
+    </food>
+    <food name="Toffee chocolate cheesecake">
+        <beer id="175">San Diego Scotch Ale (w/Ballast Point)</beer>
+    </food>
+    <food name="BBQ Brisket">
+        <beer id="258">Paradox Rye</beer>
+    </food>
+    <food name="Lamb chops with a blueberry reduction">
+        <beer id="190">Hello My Name is Sonja (w/ Evil Twin)</beer>
+    </food>
+    <food name="Barbecue pulled pork on sourdough bread">
+        <beer id="45">The Physics</beer>
+    </food>
+    <food name="Crispy bacon on flat bread">
+        <beer id="47">AB:15</beer>
+    </food>
+    <food name="Pork fajitas (with the works!)">
+        <beer id="303">Hazy Jane Rye Barrel Aged</beer>
+    </food>
+    <food name="Orange tart">
+        <beer id="38">Belgian Trappist</beer>
+    </food>
+    <food name="Hot Wings And Blue Cheese Dip">
+        <beer id="273">Prototype Double IPA</beer>
+    </food>
+    <food name="Pecan muffins with chocolate ganache">
+        <beer id="293">I Wanna Be Your Dog</beer>
+    </food>
+    <food name="Tamale">
+        <beer id="116">Morag's Mojito - B-Sides</beer>
+    </food>
+    <food name="Lobster salad">
+        <beer id="294">Opaque Jake</beer>
+    </food>
+    <food name="Spiced pumpkin pie with chocolate whipped cream">
+        <beer id="124">Chaos Theory</beer>
+    </food>
+    <food name="Honey glazed ham">
+        <beer id="60">Dogma</beer>
+    </food>
+    <food name="Fresh green salad with avocados and pomegranate seeds">
+        <beer id="310">Clockwork Tangerine</beer>
+    </food>
+    <food name="Habanero spicy chicken wings with ranch sauce">
+        <beer id="160">Restorative Beverage For Invalids And Convalescents</beer>
+    </food>
+    <food name="Spicy Asian-style noodles">
+        <beer id="30">Dana - IPA Is Dead</beer>
+    </food>
+    <food name="Green Thai Curry">
+        <beer id="263">Small Batch: Mandarina Lager</beer>
+    </food>
+    <food name="Firehouse chili con carne">
+        <beer id="226">Chili Hammer</beer>
+    </food>
+    <food name="Fresh crab with lemon">
+        <beer id="2">Trashy Blonde</beer>
+    </food>
+    <food name="Maple jerky">
+        <beer id="307">Kamikaze Knitting Club</beer>
+    </food>
+    <food name="Grilled chicken and steamed vegetables">
+        <beer id="323">Interstate Vienna Lager.</beer>
+    </food>
+    <food name="American cheese burger">
+        <beer id="108">American Ale</beer>
+    </food>
+    <food name="Grilled lemon sole">
+        <beer id="320">King of Eights</beer>
+    </food>
+    <food name="Lemon poppyseed donuts">
+        <beer id="72">Whisky Sour - B-Sides</beer>
+    </food>
+    <food name="Mature cheddar with red onion chutney">
+        <beer id="60">Dogma</beer>
+    </food>
+    <food name="Chilli dog">
+        <beer id="175">San Diego Scotch Ale (w/Ballast Point)</beer>
+    </food>
+    <food name="Coriander and mango grilled steak tacos">
+        <beer id="136">#Mashtag 2014</beer>
+    </food>
+    <food name="Passionfruit soufflé">
+        <beer id="158">Hello My Name Is Zé (w/ 2Cabeças)</beer>
+    </food>
+    <food name="Ginger rice pudding">
+        <beer id="156">Hoppy Christmas</beer>
+    </food>
+    <food name="Gooseberry and Plum Compote">
+        <beer id="279">Slot Machine</beer>
+    </food>
+    <food name="Chocolate crème brûlée with raspberries">
+        <beer id="170">Bashah (w/ Stone Brewing Co)</beer>
+    </food>
+    <food name="Moules Frites">
+        <beer id="275">Sidewalk Shark</beer>
+    </food>
+    <food name="Roast beef and horseradish sandwich">
+        <beer id="82">Hopped-Up Brown Ale - Prototype Challenge</beer>
+    </food>
+    <food name="Smoked mackerel &amp; radish salad">
+        <beer id="225">Paradox Islay 2.0</beer>
+    </food>
+    <food name="Pan-Seared Venison with Blackberries">
+        <beer id="257">Semi Skimmed Occultist</beer>
+    </food>
+    <food name="Beer affogato - 1/3 glass of Paradox with a scoop of vanilla ice cream">
+        <beer id="188">Paradox Jura</beer>
+    </food>
+    <food name="Ginger And Orange Cookies">
+        <beer id="276">Nine To Five Wizard</beer>
+    </food>
+    <food name="Chicken Tikka Madras">
+        <beer id="79">Hops Kill Nazis</beer>
+    </food>
+    <food name="Grilled lamb chops with a fruit reduction">
+        <beer id="158">Hello My Name Is Zé (w/ 2Cabeças)</beer>
+    </food>
+    <food name="Caramelised Orange Cheesecake">
+        <beer id="255">Small Batch: Tripel</beer>
+    </food>
+    <food name="Pastrami">
+        <beer id="14">Alpha Dog</beer>
+    </food>
+    <food name="Caramel and rose essence cheesecake">
+        <beer id="59">Mandarina Bavaria - IPA Is Dead</beer>
+    </food>
+    <food name="Spiced shrimp salad">
+        <beer id="77">Hobo Pop</beer>
+    </food>
+    <food name="Warm blueberry pie">
+        <beer id="190">Hello My Name is Sonja (w/ Evil Twin)</beer>
+    </food>
+    <food name="Pork Carnitas">
+        <beer id="259">Tropic Thunder</beer>
+    </food>
+    <food name="German bratwurst with spicy mustard dip and vinaigrette salad">
+        <beer id="88">Bavarian Weizen</beer>
+    </food>
+    <food name="Fish tacos with hot sauce">
+        <beer id="18">Russian Doll – India Pale Ale</beer>
+    </food>
+    <food name="Apple and blackcurrant cobbler">
+        <beer id="78">AB:18</beer>
+    </food>
+    <food name="Peanut brittle">
+        <beer id="14">Alpha Dog</beer>
+    </food>
+    <food name="Reuben sandwich">
+        <beer id="220">Ace Of Simcoe</beer>
+    </food>
+    <food name="Dark chocolate truffles">
+        <beer id="70">Sunmaid Stout</beer>
+    </food>
+    <food name="Black cherry tart">
+        <beer id="206">Black Jacques</beer>
+    </food>
+    <food name="Chocolate and fruit cake">
+        <beer id="40">Hello My Name is Vladimir</beer>
+    </food>
+    <food name="Haggis spring rolls">
+        <beer id="149">AB:03</beer>
+    </food>
+    <food name="Chicken satay">
+        <beer id="186">Jasmine IPA</beer>
+    </food>
+    <food name="Hot Smoked Salmon Salad">
+        <beer id="269">Small Batch: Imperial Pale Weizen</beer>
+    </food>
+    <food name="Seafood salad">
+        <beer id="324">Fools Gold Dortmunder Lager</beer>
+    </food>
+    <food name="Spiced carrot and coriander soup">
+        <beer id="94">Everday Anarchy</beer>
+    </food>
+    <food name="Monterey Jack stuffed grilled jalapeños">
+        <beer id="321">Jinx Pale Ale</beer>
+    </food>
+    <food name="Creamy lemon bar doused in powdered sugar">
+        <beer id="2">Trashy Blonde</beer>
+    </food>
+    <food name="Smokey sweet pulled brisket">
+        <beer id="109">Cocoa Psycho</beer>
+    </food>
+    <food name="Goats cheese salad with walnuts, radish and blood orange">
+        <beer id="15">Mixtape 8</beer>
+    </food>
+    <food name="Chunky orange marmalade on toast">
+        <beer id="182">All Day Long - Prototype Challenge</beer>
+    </food>
+    <food name="Duck liver paté">
+        <beer id="66">Tokyo Rising Sun - Lowland</beer>
+    </food>
+    <food name="Margherita pizza with chili flakes">
+        <beer id="83">Comet</beer>
+    </food>
+    <food name="Oysters">
+        <beer id="23">Storm</beer>
+    </food>
+    <food name="Korean barbecue nachos">
+        <beer id="104">India Pale Weizen (w/ Weihenstephan)</beer>
+    </food>
+    <food name="Grilled spicy corn with feta crumbles">
+        <beer id="28">HBC 369</beer>
+    </food>
+    <food name="Espresso crusted venison with a dark cherry jus">
+        <beer id="109">Cocoa Psycho</beer>
+    </food>
+    <food name="Cinnamon carrot cake with creamy cheese frosting">
+        <beer id="119">Zeitgeist</beer>
+    </food>
+    <food name="Rye apple cake">
+        <beer id="229">Rye Hammer</beer>
+    </food>
+    <food name="Cajun spiced chicken wings">
+        <beer id="117">Hop Rocker</beer>
+    </food>
+    <food name="Lemon Tart">
+        <beer id="266">Small Batch: Lemon Meringue Pie</beer>
+    </food>
+    <food name="Wild boar salami">
+        <beer id="224">AB:20</beer>
+    </food>
+    <food name="Fried American bacon with chilli flakes added to the top">
+        <beer id="55">Amarillo - IPA Is Dead</beer>
+    </food>
+    <food name="Spiced fruit cake">
+        <beer id="169">AB:19</beer>
+    </food>
+    <food name="Spicy Vietnamese vermicelli salad">
+        <beer id="197">Moshi Moshi 15</beer>
+    </food>
+    <food name="Rhubarb pie">
+        <beer id="44">Dog Wired (w/8 Wired)</beer>
+    </food>
+    <food name="Slow cooked lamb shoulder with mint sauce">
+        <beer id="78">AB:18</beer>
+    </food>
+    <food name="Spicy wings with blue cheese sauce">
+        <beer id="105">Hello My Name Is Beastie</beer>
+    </food>
+    <food name="Maple syrup drizzled chocolate chip pancakes">
+        <beer id="96">Lumberjack Stout</beer>
+    </food>
+    <food name="Candied bacon topped chocolate cheesecake">
+        <beer id="65">Bracken's Porter</beer>
+    </food>
+    <food name="Pork and coriander stew">
+        <beer id="289">Hello My Name Is Lieke</beer>
+    </food>
+    <food name="Sriracha covered brussel sprouts">
+        <beer id="156">Hoppy Christmas</beer>
+    </food>
+    <food name="Christmas Pudding">
+        <beer id="130">Spiced Cherry Sour - B-Sides</beer>
+    </food>
+    <food name="Korean watermelon salad">
+        <beer id="115">Melon And Cucumber IPA - B-Sides</beer>
+    </food>
+    <food name="Lemon Drizzle Cake">
+        <beer id="237">Honey And Lemon Blitz</beer>
+    </food>
+    <food name="Nachos">
+        <beer id="304">Karma Cloud</beer>
+    </food>
+    <food name="Mussels with a garlic and herb sauce">
+        <beer id="6">Electric India</beer>
+    </food>
+    <food name="Chocolate covered espresso beans">
+        <beer id="133">Black Eye Joe (w/ Stone Brewing Co)</beer>
+    </food>
+    <food name="Tofu pad Thai with fresh lime juice and coriander">
+        <beer id="131">Motueka</beer>
+    </food>
+    <food name="Beetroot and blood orange salad">
+        <beer id="136">#Mashtag 2014</beer>
+    </food>
+    <food name="Fish corn tacos with pomegranate salsa">
+        <beer id="43">American Wheat</beer>
+    </food>
+    <food name="Bratwurst with spicy relish">
+        <beer id="183">Nuns With Guns</beer>
+    </food>
+    <food name="Lemon and herb salmon">
+        <beer id="89">Citra</beer>
+    </food>
+    <food name="Chicago style hot dog">
+        <beer id="231">Ace Of Chinook</beer>
+    </food>
+    <food name="Ginger bread cookies">
+        <beer id="38">Belgian Trappist</beer>
+    </food>
+    <food name="Spicy chilli and coriander Thai beef stew">
+        <beer id="134">Mr.Miyagi's Wasabi Stout</beer>
+    </food>
+    <food name="Cheesecake topped with kiwi">
+        <beer id="132">5am Saint</beer>
+    </food>
+    <food name="Monterey Jack stuffed grilled jalepenos">
+        <beer id="67">Hunter Foundation Pale Ale</beer>
+    </food>
+    <food name="Caramelised apple pie with vanilla ice cream">
+        <beer id="101">Riptide</beer>
+    </food>
+    <food name="Dark chocolate &amp; salted caramel brownie">
+        <beer id="225">Paradox Islay 2.0</beer>
+    </food>
+    <food name="Hot dog with grilled onions and spicy ketchup">
+        <beer id="111">Vagabond Pilsner</beer>
+    </food>
+    <food name="Fig Tart">
+        <beer id="257">Semi Skimmed Occultist</beer>
+    </food>
+    <food name="Chocolate and walnut brownies">
+        <beer id="315">Baltic Fleet</beer>
+    </food>
+    <food name="Avocado and Citrus Salad">
+        <beer id="248">Twin Atlantic</beer>
+    </food>
+    <food name="Chocolate and Strawberry Mousse">
+        <beer id="258">Paradox Rye</beer>
+    </food>
+    <food name="Chicken Adobo">
+        <beer id="240">Blitz Saison</beer>
+    </food>
+    <food name="Gazpacho soup">
+        <beer id="305">Native Son</beer>
+    </food>
+    <food name="Spicy seafood stew">
+        <beer id="86">Original Dogma (Née Speedball)</beer>
+    </food>
+    <food name="Pork chop with rosemary chips">
+        <beer id="84">Baby Saison - B-Sides</beer>
+    </food>
+    <food name="Pan seared steak">
+        <beer id="36">Shipwrecker Circus (w/ Oskar Blues)</beer>
+    </food>
+    <food name="Goats cheese salad">
+        <beer id="2">Trashy Blonde</beer>
+    </food>
+    <food name="Baked chicken with yuzu reduction">
+        <beer id="174">Konnichiwa Kitsune</beer>
+    </food>
+</foodPairings>
