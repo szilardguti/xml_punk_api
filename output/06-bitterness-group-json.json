@@ -1,0 +1,1972 @@
+{ "map_of_bitterness":{
+    "normal_bitterness": {
+      "values": [
+        {
+          "name": "Buzz",
+          "desc": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+          "id": 1,
+          "ibu": 60
+        },
+        {
+          "name": "Trashy Blonde",
+          "desc": "A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist.",
+          "id": 2,
+          "ibu": 41.5
+        },
+        {
+          "name": "Pilsen Lager",
+          "desc": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. Pilsner yeast ferments with no fruity esters or spicy phenols, although it can add a hint of butterscotch.",
+          "id": 4,
+          "ibu": 55
+        },
+        {
+          "name": "Avery Brown Dredge",
+          "desc": "An Imperial Pilsner in collaboration with beer writers. Tradition. Homage. Revolution. We wanted to showcase the awesome backbone of the Czech brewing tradition, the noble Saaz hop, and also tip our hats to the modern beers that rock our world, and the people who make them.",
+          "id": 5,
+          "ibu": 59
+        },
+        {
+          "name": "Bramling X",
+          "desc": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make.",
+          "id": 10,
+          "ibu": 75
+        },
+        {
+          "name": "Arcade Nation",
+          "desc": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn.",
+          "id": 12,
+          "ibu": 60
+        },
+        {
+          "name": "Movember",
+          "desc": "A deliciously robust, black malted beer with a decadent dark, dry cocoa flavour that provides an enticing backdrop to the Cascade hops.",
+          "id": 13,
+          "ibu": 50
+        },
+        {
+          "name": "Alpha Dog",
+          "desc": "A fusion of caramel malt flavours and punchy New Zealand hops. A session beer you can get your teeth into.",
+          "id": 14,
+          "ibu": 42
+        },
+        {
+          "name": "Mixtape 8",
+          "desc": "This recipe is for the Belgian Tripel base. A blend of two huge oak aged beers – half a hopped up Belgian Tripel, and half a Triple India Pale Ale. Both aged in single grain whisky barrels for two years and blended, each beer brings its own character to the mix. The Belgian Tripel comes loaded with complex spicy, fruity esters, and punchy citrus hop character.",
+          "id": 15,
+          "ibu": 50
+        },
+        {
+          "name": "Libertine Porter",
+          "desc": "An avalanche of cross-continental hop varieties give this porter a complex spicy, resinous and citrusy aroma, with a huge malt bill providing a complex roasty counterpoint. Digging deeper into the flavour draws out cinder toffee, bitter chocolate and hints of woodsmoke.",
+          "id": 16,
+          "ibu": 45
+        },
+        {
+          "name": "Russian Doll – India Pale Ale",
+          "desc": "The levels of hops vary throughout the range. We love hops, so all four beers are big, bitter badasses, but by tweaking the amount of each hop used later in the boil and during dry- hopping, we can balance the malty backbone with some unexpected flavours. Simcoe is used in the whirlpool for all four beers, and yet still lends different characters to each",
+          "id": 18,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Mette-Marit",
+          "desc": "We sent this beer to Norway where it was known as 'Hello, my name is Censored’. You can make up your own mind as to why. This brew was a red berry explosion, with a reisnous bitter edge layered with dry berry tartness.",
+          "id": 19,
+          "ibu": 70
+        },
+        {
+          "name": "Storm",
+          "desc": "Dark and powerful Islay magic infuses this tropical sensation of an IPA. Using the original Punk IPA as a base, we boosted the ABV to 8% giving it some extra backbone to stand up to the peated smoke imported directly from Islay.",
+          "id": 23,
+          "ibu": 60
+        },
+        {
+          "name": "Bad Pixie",
+          "desc": "2008 Prototype beer, a 4.7% wheat ale with crushed juniper berries and citrus peel.",
+          "id": 25,
+          "ibu": 45
+        },
+        {
+          "name": "HBC 369",
+          "desc": "HBC 369 brings rich fruity flavours with the tiniest layer of candy coating on top. HBC 369 (the hop) can bring notes of blueberries, pear, and possibly even sweet potato. HBC 369 (the beer) was balanced, with just one hop providing a complex aroma, and a dry bitterness.",
+          "id": 28,
+          "ibu": 67
+        },
+        {
+          "name": "10 Heads High",
+          "desc": "10 Heads High is loosely based on our awesome 2011 Prototype beer Hops Kill Nazis. This is an uncompromising 7.8% Imperial Red Ale loaded high with American Hops. Think of this as an Imperial India Red Ale, or a super-charged version of 5am Saint. Either way this is a seriously good beer!",
+          "id": 29,
+          "ibu": 70
+        },
+        {
+          "name": "Dana - IPA Is Dead",
+          "desc": "Hailing from Slovenia, Dana was originally cross bred from the German Hallertau Magnum and native Slovenian varieties. Like any good faux noble hop should, it infuses a rustic, musty spiciness into a toasty beast of a malt base.",
+          "id": 30,
+          "ibu": 70
+        },
+        {
+          "name": "Nanny State",
+          "desc": "Brewing a full flavoured craft beer at 0.5% is no easy task. Packed with loads of Centennial, Amarillo, Columbus, Cascade and Simcoe hops, dry hopped to the brink and back and sitting at 55 IBUs, Nanny State is a force to be reckoned with. With a backbone of 8 different specialty malts, Nanny State will tantalise your taste buds and leave you yearning for more.",
+          "id": 31,
+          "ibu": 55
+        },
+        {
+          "name": "Sorachi Ace",
+          "desc": "A hop that tastes of bubble gum? Seriously? No, we did not believe it either. But it does! This is one unique, son of a bitch of a hop. Lemony, deep, musty with a smoothness that belies its power. This hop is lemony like a lemon who was angry earlier but is now tired because of all the rage. This hop of Japanese origin is best enjoyed trying to make sushi from your gold fish, or trying to persuade your girlfriend (or boyfriend maybe) to dress up as a Geisha for Valentine’s Day.",
+          "id": 33,
+          "ibu": 75
+        },
+        {
+          "name": "Belgian Trappist",
+          "desc": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. Abbey style yeasts add distinctive spicy and fruity notes, and dry out the finished beer.",
+          "id": 38,
+          "ibu": 55
+        },
+        {
+          "name": "Kohatu - IPA Is Dead",
+          "desc": "As you’d expect from a New Zealand hop variety, Kohatu contributes bags of tropical fruit, but with loads of lime notes, &amp; pineapple hits. Seriously fruity, with sweet, juicy melon and stonefruit notes.",
+          "id": 39,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name is Vladimir",
+          "desc": "A Limonnik-infused, triple dry- hopped double IPA. Dry berry tartness and intense citrus hop character meld with a dry bready malt base, boosted by a hint of alcohol warmth. This beer was brewed as a protest against the anti-LGBT legislation in Russia surrounding the Sochi Olympics.",
+          "id": 40,
+          "ibu": 70
+        },
+        {
+          "name": "Dog Wired (w\/8 Wired)",
+          "desc": "Brewed in collaboration with Soren from New Zealand’s stellar 8-Wired brewery, this is an Imperial Pilsner featuring two of our favourite New Zealand hops: Nelson Sauvin and Motueka. Sitting at a dangerously drinkable 7.1% ABV there’s a touch of Munich malt which gives this beer that little extra caramel biscuit bite to compliment the lip smackingly tropical hops. Expect an all out NZ hoppy riot.",
+          "id": 44,
+          "ibu": 65
+        },
+        {
+          "name": "The Physics",
+          "desc": "A hoppy Amber Ale that won World's Best Amber Beer in the World Beer Awards 2007. Malt and hops are in perfect harmony in this incredibly balanced beer. Biscuity, bitter and packing a surprisingly hoppy punch, this beer ultimately morphed into 5AM Saint.",
+          "id": 45,
+          "ibu": 47
+        },
+        {
+          "name": "AB:15",
+          "desc": "A salted caramel popcorn Imperial Ale. Bourbon and Rum barrel aged, this 12.8% ale has complex and twisting flavours. Bitter caramel, wood, smoke, spice, treacle and vanilla are all present and intertwine against a smooth and lightly chewy mouthfeel. The salted caramel popcorn lends subtle hints of a smoky brininess.",
+          "id": 47,
+          "ibu": 50
+        },
+        {
+          "name": "Goldings - IPA Is Dead",
+          "desc": "This is East Kent Goldings re- invented and re-imagined and shows just what can be done with English hops if you use enough of them. In this amped up Goldings reincarnation expect to be slammed with floral lavender, a fruity riot of blackberries and spiced pears, bubblegum, plums and the illusion of thyme.",
+          "id": 48,
+          "ibu": 70
+        },
+        {
+          "name": "Paradox Islay",
+          "desc": "In 2006 James and Martin hijacked a beer dinner run by Michael Jackson, the acclaimed beer and whisky writer, and convinced him to taste one of their home brews. This was a defining moment in BrewDog prehistory, and that beer was the first incarnation of the ubiquitous Paradox. Aged in a variety of casks over the years, Paradox is dark, decadent and encapsulating. Can be enjoyed fresh; phenomenal when aged.",
+          "id": 52,
+          "ibu": 55
+        },
+        {
+          "name": "Albino Squid Assasin",
+          "desc": "This tentacled terminator packs a punch - ten punches to be precise. Each hop addition adds to the intense layers of depth in this red rye IPA. Toasty caramel &amp; cinder toffee from crystal malts, cacao richness from intensely roasted malt and the spiciness of rye. Zesty pithiness from Citra and the robust resin of Chinook. This small batch exclusive brew is up-front intensity matched with twisted complexity. The can features awesome custom art from Joe Wilson.",
+          "id": 54,
+          "ibu": 65
+        },
+        {
+          "name": "Amarillo - IPA Is Dead",
+          "desc": "Citrus fruit. Lots of citrus fruit. Think blood orange, orange zest and grapefruit, tangerine and lemon; the fruit is balanced by floral notes in the most classic of new wave IPA hops. Amarillo adds a zesty, pithy character that sits beautifully alongside hints of toffee and honeycomb.",
+          "id": 55,
+          "ibu": 70
+        },
+        {
+          "name": "Coffee Imperial Stout",
+          "desc": "This beer was released as both as \"Danish Beerhouse Coffee Imperial Stout\" and \"BrewDog Coffee Imperial Stout\". Deep, dark, roasted flavours make this a perfect Sunday brunch beer.",
+          "id": 58,
+          "ibu": 65
+        },
+        {
+          "name": "AB:08",
+          "desc": "Flavours and aromas you'd expect from a Stout, but brewed without dark malts. The full mouthfeel comes courtesy of wheat and oats, while smoked malt and the twist additions add the complex flavours normally provided by highly kilned malts.",
+          "id": 62,
+          "ibu": 65
+        },
+        {
+          "name": "Sunk Punk",
+          "desc": "It's rumoured just a drop can calm the fiercest of storms. A balance of sweet, salt and savoury, citrus, spruce and caramel. Fermented at the bottom of the North Sea, which just so happens to be the perfect temperature for lagers to ferment.",
+          "id": 63,
+          "ibu": 68
+        },
+        {
+          "name": "Bracken's Porter",
+          "desc": "The beer was named Bracken’s Porter as a tribute to our favourite four pawed friend who sadly passed in 2013. Chocolately, robust, warming, laid back and lots of fun - there are plenty of similarities between the two. Bracken we miss you and we hope you like your beer. Long live the original BrewDog.",
+          "id": 65,
+          "ibu": 50
+        },
+        {
+          "name": "Hype",
+          "desc": "A perfect pale ale showcase for the tropical profile of New Zealand hops and the intense citrus of US hops.",
+          "id": 68,
+          "ibu": 65
+        },
+        {
+          "name": "AB:16",
+          "desc": "On the nose, clove and nutmeg, cafe au lait, subtle dark fruit notes, and hints of candied lemon peel. On the palate, smooth &amp; fruity espresso, milk chocolate, and warm brandy-soaked currants are in the middle of a high-class dance-off against the spicy and peppery Belgian character. The overall impression evokes malt loaf or ginger cake.",
+          "id": 69,
+          "ibu": 55
+        },
+        {
+          "name": "Sunmaid Stout",
+          "desc": "Brewed by Chris Sartori from Stone Brewing Company in 2010. A dark chocolate stout with dried dark fruit finish. Simcoe provides bitterness with subtle fruity supporting notes, contrasting the chocolate and coffee-laden malt profile. The finish is warming with vanilla and rich dark fruit depth.",
+          "id": 70,
+          "ibu": 50
+        },
+        {
+          "name": "Eurotrash",
+          "desc": "Trashy Blonde with a Belgian Twist. Clove oil, red apples and a drier mouthfeel set this beer apart from its older sister.",
+          "id": 74,
+          "ibu": 52
+        },
+        {
+          "name": "#Mashtag 2013",
+          "desc": "A rich, nutty Brown Ale with a deep, rich malt profile, hopped with a range of citrusy and spicy US varieties. Mellow yet endlessly complex, with enough chocolate and fruit character to balance the bitterness, and a soft oaky roundness.",
+          "id": 76,
+          "ibu": 50
+        },
+        {
+          "name": "Hobo Pop",
+          "desc": "Brewed with mountains of Wheat, Rye, Cara and Crystal malts, fermented with an American ale yeast and bittered with Amarillo &amp; Centennial, this 4.2% beer is what happens if something classy like a European wheat beer goes to live in Vegas. Zingy citrus hops and a punchy bitterness bolster this low ABV pale.",
+          "id": 77,
+          "ibu": 50
+        },
+        {
+          "name": "AB:18",
+          "desc": "AB:18 began life as an Imperial Brown Ale before we bombarded it with Scottish tayberries and Purple raspberries and locked it away in rum barrels for two years, infusing rich dark fruit flavours and oaky warmth into the mix.",
+          "id": 78,
+          "ibu": 80
+        },
+        {
+          "name": "Hops Kill Nazis",
+          "desc": "5AM Saint's big brother. Dry- hopping with Chinook gave Hops Kill Nazis a full-on, instantly recognisable US hop character - huge resinous aromas (think giant redwood) with a bitter grapefruit edge. The caramel malts bring flavours of toffee and burnt sugar, which gave Hops Kill Nazis a big, complex malt base supporting the intense hopping.",
+          "id": 79,
+          "ibu": 70
+        },
+        {
+          "name": "AB:04",
+          "desc": "Imperial Stout brewed with coffee, cocoa, Naga chillies (the hottest in the world), and champagne yeast. Possibly our most acclaimed Abstrakt yet.",
+          "id": 80,
+          "ibu": 80
+        },
+        {
+          "name": "Comet",
+          "desc": "A potently bitter hop variety originally grown in the US around 40 years ago, Comet has been newly resurrected - this German version has bold resinous grapefruit flavours, which add a huge fresh hop aroma to this IPA.",
+          "id": 83,
+          "ibu": 70
+        },
+        {
+          "name": "Original Dogma (Née Speedball)",
+          "desc": "A strong ale, brewed with guarana, Californian poppy, kola nut and Scottish heather honey. A conspiracy of trans-continental ingredients infused with some devastatingly BrewDog imaginative thinking.",
+          "id": 86,
+          "ibu": 60
+        },
+        {
+          "name": "Bavarian Weizen",
+          "desc": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. Bavarian Weizen yeast adds traditional weissbier notes of banana and clove.",
+          "id": 88,
+          "ibu": 55
+        },
+        {
+          "name": "Citra",
+          "desc": "The Pacific North West of America is home to the Citra hop. America is not just about cheer leaders, a silly version of football, elastic top jeans and cheeseburgers. They grow remarkable hops and Citra is a killer example of this, embodying all that is good about American hops and then some. Fearfully hard to resist, this beer is loaded with brash citrus, grapefruit, orange, hints of resinous pine and touches of blackcurrant. Devilishly moreish.",
+          "id": 89,
+          "ibu": 70
+        },
+        {
+          "name": "AB:09",
+          "desc": "This Cranachan Imperial Stout was inspired by the famous Scottish dessert, and brewed with a mountain of dark malts, loads of oats, Scottish heather honey and local raspberries. The beer was then transferred to oak casks to mature for 6 months.",
+          "id": 92,
+          "ibu": 77
+        },
+        {
+          "name": "Everday Anarchy",
+          "desc": "This French white wine barrel aged Imperial Saison has a plethora of intertwining flavours. Huge aromas of peach, syrup, tangerine, sherry, toffee and raisin, followed by a dynamic bracing acidity.",
+          "id": 94,
+          "ibu": 45
+        },
+        {
+          "name": "Bowman's Beard - B-Sides",
+          "desc": "Ice-distilled double barley wine brewed by Chris from Stone Brewing Co. (see Sunmaid Stout) and BrewDog's own brewers. As robust, resinous and badass as its eponymic beard.",
+          "id": 97,
+          "ibu": 50
+        },
+        {
+          "name": "Hello My Name Is Päivi",
+          "desc": "Brewed with sea buckthorn, a tart and bitter berry found on the Finnish coastline. Bright, vibrant aromas of tangerine, mandarin and peach, with zesty hits of lime, envelop the nutty, caramel malt backbone. The intense fruitiness gives a jammy quality to the nose. On the palate is a warm biscuity sweetness, with tropical fruits in a supporting role to a huge grapefruit and orange bitterness.",
+          "id": 99,
+          "ibu": 70
+        },
+        {
+          "name": "Elvis Juice V2.0 - Prototype Challenge",
+          "desc": "Punchy resinous hoppy aromas blast from the glass; light floral and citrus notes riff against huge piney character. Showcasing Citra, Simcoe and Amarillo at their absolute best. A huge dose of grapefruit peel brings swirls of fresh pithy zest, accentuating the dry hops and building on the dry, biscuit malt base.",
+          "id": 100,
+          "ibu": 60
+        },
+        {
+          "name": "Riptide",
+          "desc": "The original BrewDog, Bracken decided to make a beer that best reflected himself; this is the beer equivalent of the big, cute chocolate monster. Soft, smooth, dark, chocolatey and a force to be reckoned with. This gentle giant will never bite, but you'll still want to be on your best behaviour!",
+          "id": 101,
+          "ibu": 45
+        },
+        {
+          "name": "India Pale Weizen (w\/ Weihenstephan)",
+          "desc": "BrewDog vs. Weihenstephan India Pale Weizen kicked off a new direction for our collaborations. We took a simple concept (by our standards) and teamed up with the oldest brewery in the world to brew a mash-up beer using the signature styles of both breweries. India Pale Weizen has classic base hefeweizen aromas and flavours of banana, clove and bubblegum, with a distinctive haziness. Layered on top of this is a tapestry of US citrus hop character. India Pale Weizen is a perfect symbiosis of traditional and modern brewing.",
+          "id": 104,
+          "ibu": 50
+        },
+        {
+          "name": "Hello My Name Is Beastie",
+          "desc": "A Scottish take on Hello My Name is Ingrid with added brambles. Caramel malt provides sweetness to balance the tart berry character, which loses sweetness during fermentation.",
+          "id": 105,
+          "ibu": 42
+        },
+        {
+          "name": "HBC 366 - IPA Is Dead",
+          "desc": "A new, at-the-time un-named American hop now known as Equinox. Piney, resinous with spicy fruit notes and biting grapefruit. Stewed orange and pineapple with a resinous edge.",
+          "id": 107,
+          "ibu": 70
+        },
+        {
+          "name": "American Ale",
+          "desc": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. American Ale used a clean fermenting strain which provides some faint fruity notes.",
+          "id": 108,
+          "ibu": 55
+        },
+        {
+          "name": "Vagabond Pilsner",
+          "desc": "Take the thirst-quenching crispness of a German Pilsner and combine it with lemon and honey to produce a rewarding modern twist on a beer classic.",
+          "id": 111,
+          "ibu": 55
+        },
+        {
+          "name": "Hello My Name Is Ingrid",
+          "desc": "A Double IPA with cloudberries added to the conditioning tank. One thing is certain – this Swedish inspired Double IPA is not as innocent as she first appears. A seductive body of rich malts and a buxom amount of Citra, Nelson Sauvin and Bramling Cross hops have been added to fresh Scandinavian cloudberries to deliver this beer’s tart finish.",
+          "id": 113,
+          "ibu": 42
+        },
+        {
+          "name": "U-Boat (w\/ Victory Brewing)",
+          "desc": "On the palate is a big dark malt sweetness, balanced by the blend of spicy Mittelfruh and citrussy Galena. Cocoa powder, rich dark chocolate, and ripe berries interplay with a toasty burnt sugar bitterness. The mouthfeel is thick and chewy with a treacly quality that doesn’t cloy, as it plays off against the hops and roast malt bitterness.",
+          "id": 114,
+          "ibu": 50
+        },
+        {
+          "name": "Melon And Cucumber IPA - B-Sides",
+          "desc": "A Pilot Brew with 200Kg of fresh melon and 5Kg fresh cucumber added after fermentation to produce the perfect summer refreshment.",
+          "id": 115,
+          "ibu": 50
+        },
+        {
+          "name": "AB:10",
+          "desc": "A decadent, robust and encapsulating Imperial Ale. A rollercoaster of devilish berries, smooth vanilla, toasted marshmallow and wine gums; caramel malt balanced with moderate bitterness and a roasty edge.",
+          "id": 120,
+          "ibu": 80
+        },
+        {
+          "name": "Punk Monk",
+          "desc": "Old world meets new in this trans-atlantic mash up of brewing ingredients. Belgian funk incorporates itself into the pithy, resin and grapefruit, with pineapple and banana rounding out a rambunctious avalanche of fruity hops.",
+          "id": 121,
+          "ibu": 60
+        },
+        {
+          "name": "Dog Fight (w\/ Flying Dog)",
+          "desc": "A clash of kings. A spiced toffee malt backbone arranged against a tidal wave of US hops. Citrus, nectarine and juicy tropical fruits are layered into this complex beer.",
+          "id": 122,
+          "ibu": 65
+        },
+        {
+          "name": "Candy Kaiser",
+          "desc": "In this northern German style retro altbier, we’ve dialled down the dry-hops to zero, but cranked up the malt to create massive aromas. Toasty, toffee and floral notes duke it out for supremacy in the headspace of your glass. When this all hits your palate, the steely bitterness combines with the rich dry malt and the subtle alcohol warmth in a full throttle attack on your taste buds.",
+          "id": 123,
+          "ibu": 45
+        },
+        {
+          "name": "Jet Black Heart",
+          "desc": "Good things come to those who wait. This smooth and roasty oatmeal milk stout won our 2015 Prototype Challenge at a canter. Roasty coffee and chocolate lead to a decadent, full-bodied richness of near uncharted depths with a velvet mouthfeel from the addition of oatmeal and a touch of wheat. This is complemented at every turn by the Magnum and Sorachi Ace hops, with the latter bringing an intensity of smooth vanilla and dark berry fruit on the long, rewarding finish.",
+          "id": 126,
+          "ibu": 45
+        },
+        {
+          "name": "Galaxy",
+          "desc": "With all the rich tropical flavour you'd expect from Australia's Galaxy, this beer backs up a strong citrus aroma and flavour with a mellow undercurrent of passion fruit and mango. Zingy and sweet but not too sweet, Galaxy has a soft and inviting fruity hop character.",
+          "id": 127,
+          "ibu": 67
+        },
+        {
+          "name": "White Noise",
+          "desc": "A White IPA; brewed with plenty of wheat, fermented with a Belgian yeast with some coriander thrown in for good measure. Oh and this one has mountains of Motueka hops. And then lots of dry hops too.",
+          "id": 128,
+          "ibu": 50
+        },
+        {
+          "name": "Motueka",
+          "desc": "Lemon and lime rise to the top of this hoppy brew, with supporting acts of tropical fruit for a very rounded, thoroughly satisfying flavour. Motueka is a hop we've used in loads of recipes; it has enough resin to balance the intense fruity character.",
+          "id": 131,
+          "ibu": 67
+        },
+        {
+          "name": "#Mashtag 2014",
+          "desc": "A slightly psychotic, orange-that- thinks-it’s-a-grapefruit character builds upon and intensifies the hop bitterness, squaring up against the rich sweet malt base. The result is a huge Red Ale with a drinkable quality you’d expect in a beer half this strength.",
+          "id": 136,
+          "ibu": 50
+        },
+        {
+          "name": "Cap Dog (w\/ Cap Brewery)",
+          "desc": "A collaboration by BrewDog and CAP with Cascara green unroasted cherry coffee beans.",
+          "id": 141,
+          "ibu": 80
+        },
+        {
+          "name": "Nelson Sauvin",
+          "desc": "Nelson is a love it or hate it kinda hop. We are cool with that, if we wanted to keep everyone happy we would be brewing Fosters anyway. Sharp as a razor, this New Zealand hop slices its way through your taste buds and is brutally resinous, almost scraping the intense flavours of passion fruit along your poor tongue. There is a huge depth of tropical fruit flavour with astringent gooseberry balanced against the robust malt base. Throw another shrimp on the barbie mate and you are all set. New Zealand is near Austria, right?",
+          "id": 146,
+          "ibu": 75
+        },
+        {
+          "name": "AB:02",
+          "desc": "The second installation in the Abstrakt Concept beer line up. All the benefits of a malty biscuited red ale, layered with tons of hops. We recommend ageing this beer for 6 months. Try one now, and one for later.",
+          "id": 148,
+          "ibu": 70
+        },
+        {
+          "name": "AB:13",
+          "desc": "A cherry imperial stout aged in ex- sherry whisky barrels. Based on the classic German Schwarzwald (Black Forest) dessert. Intense dark fruit flavours of cherry, plum, raisin and currant, coupled with deep bitter chocolate, espresso and a full- bodied coffee and cream character.",
+          "id": 150,
+          "ibu": 50
+        },
+        {
+          "name": "Deaf Mermaid - B-Sides",
+          "desc": "A keg-only summer special, hop- bursted and dry-hopped to infinity.",
+          "id": 152,
+          "ibu": 65
+        },
+        {
+          "name": "Old World Russian Imperial Stout",
+          "desc": "This Old World Stout perfectly recreates the export stouts of years gone by; brewed to imperial strength to avoid freezing during its journey across the Baltic Sea to snowy Moscow. Full bodied with huge chocolate, coffee and roast flavours, this imperial stout employs a variety of hops to add enough bitterness and hop complexity to balance the huge malt sweetness and rich mocha and molasses flavours.",
+          "id": 155,
+          "ibu": 80
+        },
+        {
+          "name": "Hoppy Christmas",
+          "desc": "Pineapple, citrus and papaya; single-hopped with Simcoe, Hoppy Christmas is an anti-festive IPA, redolent with summery flavours. Small caramel malt additions provide a touch of malt complexity. Simcoe, arguably our favourite hop, carries this beer - pine, tropical fruit and bitterness are its specialities.",
+          "id": 156,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Zé (w\/ 2Cabeças)",
+          "desc": "Punk multiplied by Jack Hammer, divided by passionfruit with some Brazilian spirit factored in too. A well-rounded IPA, with bags of tropical flavour boosted by the addition of passionfruit, which unsurprisingly dominates the aroma of this summery IPA.",
+          "id": 158,
+          "ibu": 50
+        },
+        {
+          "name": "Black Tokyo Horizon (w\/Nøgne Ø & Mikkeller)",
+          "desc": "Special Collaboration between Nøgne, Mikkeller and BrewDog which is a recipe based on all three brewers’ big stouts; Nøgne Ø Dark Horizon, Mikkeller Black and BrewDog Tokyo*.",
+          "id": 159,
+          "ibu": 75
+        },
+        {
+          "name": "Barley Wine - Russian Doll",
+          "desc": "Russian Doll was an experimental set of brews showcasing the effects of varying the amount and ratio of malts in the grist. The barley wine had rich, chewy dark fruit aromas balanced with a spike of zesty hops. Toffee, apricot jam and grapefruit pith, crammed into the head of our little Russian Doll family.",
+          "id": 165,
+          "ibu": 80
+        },
+        {
+          "name": "Vagabond Pale ALe - Prototype Challenge",
+          "desc": "A foundation of caramel malt is buttressed by a raucously resinous bitterness, as the rioting backdrop of citrus and tropical fruit flow in waves from those twin titans of the US – Centennial and Amarillo. And it also happens to be gluten free.",
+          "id": 166,
+          "ibu": 55
+        },
+        {
+          "name": "Libertine Black Ale",
+          "desc": "A dark hop bomb combining the malt-forward indulgences of a stout with the insatiable hopload of an IPA. Rich spiced blackcurrant and caramel up front, with a sharp bitter finish following behind, bringing grapefruit and resin with it. Dry, bitter and intense; this is an IPA first and foremost, given a dark malt makeover. Originally brewed as a Simcoe only single hop IPA, we've experimented with adding a little Cascade and Mosaic for extra depth.",
+          "id": 167,
+          "ibu": 50
+        },
+        {
+          "name": "Challenger",
+          "desc": "Challenger is known for its herbal and fruity characteristics. When used alone in a beer like IPA is Dead, Challenger brings light woodsy notes, floral hints, and delicate green tea, alongside more recognisable citrus notes. As a dual-purpose hop, it also yields great bittering potential, which is ideal in a dry bitter IPA.",
+          "id": 171,
+          "ibu": 67
+        },
+        {
+          "name": "Single Hop Enigma IPA - B-Sides",
+          "desc": "A cheeky play with a new hop on the pilot kit. Expect notes of redcurrant, melon and citrus. An intriguing possibility for the future.",
+          "id": 172,
+          "ibu": 50
+        },
+        {
+          "name": "Konnichiwa Kitsune",
+          "desc": "Named in a slight deviation from our Hello My Name Is series, Konnichiwa Kitsune is a Japanese- inspired, yuzu-infused Imperial IPA, brewed with Amarillo, Cascade and Citra. These punchy new world hops bring orange, grapefruit and lime to back up the yuzu aroma and flavour. Big mandarin notes, balanced against a caramel malt biscuity base.",
+          "id": 174,
+          "ibu": 70
+        },
+        {
+          "name": "San Diego Scotch Ale (w\/Ballast Point)",
+          "desc": "Whisky cask aged with raisins soaked in rum. Warm, chocolatey and boozy with refreshing resinous bitterness and a lingering toasty biscuit background from the malt. Toasted oak comes courtesy of the barrels and spicy, sweet, dark fruit flavours from the rum soaked raisins.",
+          "id": 175,
+          "ibu": 70
+        },
+        {
+          "name": "Old World India Pale Ale",
+          "desc": "This recreated the epic IPAs that were sent on monumental ocean voyages from England to India by sea in the 1800s. Medium bodied with a complex malt profile, backed up with intense bitterness and a woodsy, earthy rich English hop character.",
+          "id": 176,
+          "ibu": 80
+        },
+        {
+          "name": "Simcoe",
+          "desc": "A special release of our IPA is Dead series - IPA is Dead Simoce. Hopped to hell with citrusy bitter and aroma hops from the West Coast of the USA. Bitter, orange, mandarin, floral, this IPA showcases the best the west has to offer.",
+          "id": 178,
+          "ibu": 70
+        },
+        {
+          "name": "Vic Secret",
+          "desc": "Piney, citrusy and resinous with herbal notes, Vic Secret is dual-purpose (flavour &amp; bitterness) perfect for brewing up a single hop IPA.",
+          "id": 181,
+          "ibu": 70
+        },
+        {
+          "name": "Atlantic IPA Ale",
+          "desc": "Like IPA historically would have been. Part of this beer was aged on a fishing boat in an oak cask and released as \"Atlantic IPA\".",
+          "id": 184,
+          "ibu": 80
+        },
+        {
+          "name": "Lichtenstein Pale Ale",
+          "desc": "Dry-hopped with some of our hop heroes, bringing incredibly fruity aromas of zesty orange, pithy grapefruit, pungent pine and resin, backed up with spicy, toasty malt flavours of toffee, biscuit, rye bread and toast crust.",
+          "id": 187,
+          "ibu": 50
+        },
+        {
+          "name": "Paradox Jura",
+          "desc": "Paradox. Reloaded. In 2011 we put Paradox into high gear to create an Imperial Stout destined for ageing. Loaded with dark roasted malts for a full bodied, toasted background, an array of bitter, earthy and resinous hops, and brewed with oats for a bold mouthfeel. This beer is the perfect canvas for barrel ageing.",
+          "id": 188,
+          "ibu": 55
+        },
+        {
+          "name": "AB:11",
+          "desc": "AB:11 is an Imperial Black Barley Wine brewed with ginger, black raspberries and chipotle peppers. A 12.8% rollercoaster of ginger zestiness and chipotle smokiness, all bound together with dark berry tartness and the decadent residual body of a Black Barley Wine.",
+          "id": 189,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name is Sonja (w\/ Evil Twin)",
+          "desc": "Brewed in collaboration with Jeppe from Evil Twin Brewing (and named after his mum), this Double IPA is big on fruity flavours. Single hopped with Mosaic for lots of tropical, passion fruit and citrus flavours. Loaded with well over 100kg of blueberries, the original was one super fruity hop bomb.",
+          "id": 190,
+          "ibu": 70
+        },
+        {
+          "name": "Interstellar",
+          "desc": "Interstellar is a Red Rye IPA with spicy rye flavours from the malt and with great all-round spicy, fruity and earthy hop aromas from the use of Willamette and Amarillo.",
+          "id": 191,
+          "ibu": 55
+        },
+        {
+          "name": "Punk IPA 2007 - 2010",
+          "desc": "Our flagship beer that kick started the craft beer revolution. This is James and Martin's original take on an American IPA, subverted with punchy New Zealand hops. Layered with new world hops to create an all-out riot of grapefruit, pineapple and lychee before a spiky, mouth-puckering bitter finish.",
+          "id": 192,
+          "ibu": 60
+        },
+        {
+          "name": "Moshi Moshi 15",
+          "desc": "A riot of C-hops, with layers of grapefruit, lime zest, pine needles, freshly cut grass, pungent resin, layered up on toasty malt with a touch of caramel sweetness.",
+          "id": 197,
+          "ibu": 45
+        },
+        {
+          "name": "Alice Porter",
+          "desc": "First brewed in 2010, Alice Porter returned as a seasonal in 2015. The beer was originally created and brewed for (real life) Alice Porter’s impending nuptials to the Beer King of Leeds, Matt Gorecki.",
+          "id": 199,
+          "ibu": 55
+        },
+        {
+          "name": "Waimea - IPA Is Dead",
+          "desc": "Waimea has a new world flavour, infusing unique fresh crushed citrus aroma and flavour notes into this IPA - think intense fresh tangelo, citrus fruit and pine needle characteristics. There is a huge depth of flavour with astringent gooseberry balanced against the robust malt base.",
+          "id": 201,
+          "ibu": 70
+        },
+        {
+          "name": "Bitch Please (w\/ 3 Floyds)",
+          "desc": "This limited edition American Barley Wine was brewed in collaboration with 3 Floyds Brewery. This beer had all the warm, boozy and smoky aspects of an Islay Scotch whisky with the sweet malt and devastatingly bitter attributes of a barley wine. Peat smoke features prominently, backed up with a complex fruity hop profile.",
+          "id": 203,
+          "ibu": 50
+        },
+        {
+          "name": "Cascade, Centennial & Willamette IPA - B-Sides",
+          "desc": "An experiment in balancing hops on the pilot kit. Grapefruit, orange and resin to the fore.",
+          "id": 204,
+          "ibu": 65
+        },
+        {
+          "name": "Shareholder Black IPA 2011",
+          "desc": "Brewed as part of the shareholder brewday at our Fraserburgh brewery. Massively dry hopped and aged on toasted oak chips, this IPA was a riot of lemon, vanilla and roasted malt.",
+          "id": 205,
+          "ibu": 80
+        },
+        {
+          "name": "Black Jacques",
+          "desc": "A Black Saison, brewed with oats and wheat for a silky mouthfeel, Spicy hops and Carafa Malt for colour, then aged in red wine barrels. On the nose there's cola, chocolate, coffee, mint humbug, warming oak, and spice. The myriad flavours touch on treacle, ripe banana, espresso, brandy, and a clean herbal warmth.",
+          "id": 206,
+          "ibu": 45
+        },
+        {
+          "name": "Stereo Wolf Stout - Prototype Challenge",
+          "desc": "Roasty, dark and complex, Stereo Wolf is a 5.2% ABV Stout brewed with a cacophony of hop-driven fruit and spice. Dark chocolate stalks alongside the resonating bitterness, through to Stereo Wolf’s lingering dry finish. Balancing roasty malt and new world hops at 5.2% ABV is no mean feat, but Stereo Wolf takes it in its stride.",
+          "id": 209,
+          "ibu": 55
+        },
+        {
+          "name": "Black Dog",
+          "desc": "We thought it would be great if Jeremy Moynier from Stone Brewing Co. brewed his own beer while he was here, with Jeremy deciding everything right down to the name! The result is a special 20HL batch of BlackDog, a 5.5% dark wheat stout with Columbus, Simcoe and Chinook and of course plenty of dry hopping action.",
+          "id": 211,
+          "ibu": 60
+        },
+        {
+          "name": "El Dorado - IPA Is Dead",
+          "desc": "The Pacific North West of America grows remarkable hops and El Dorado is a killer example of this. A new hop on the block, loaded with tropical fruits, pear, watermelon, candy floss and stone fruit.",
+          "id": 213,
+          "ibu": 70
+        },
+        {
+          "name": "Cult Lager",
+          "desc": "A lager that actually tastes of something? You have to be kidding, right? Cult lager is made with 100% malt and whole leaf hops. Maybe we are crazy, so what? Taste our lager and we are pretty sure that you will agree that the fine line between insanity and genius has just become a little more blurred.",
+          "id": 214,
+          "ibu": 50
+        },
+        {
+          "name": "Brixton Porter",
+          "desc": "Brixton Porter delivers bold chocolate and coffee flavours with light smokiness and hints of autumn fruit all but built on a low ABV, lighter bodied backbone. Complex and intriguing, with spicy bitterness, but very sessionable.",
+          "id": 215,
+          "ibu": 50
+        },
+        {
+          "name": "Barrel Aged Albino Squid Assassin",
+          "desc": "This tentacled terminator packs a punch - ten punches to be precise. Each hop addition adds to the intense layers of depth in this red rye IPA. Toasty caramel &amp; cinder toffee from crystal malts, cacao richness from intensely roasted malt and the spiciness of rye. Zesty pithiness from Citra and the robust resin of Chinook. This small batch exclusive brew is up-front intensity matched with twisted complexity. Aged in Rye Whisky Casks.",
+          "id": 217,
+          "ibu": 65
+        },
+        {
+          "name": "Ship Wreck",
+          "desc": "This mezcal-inspired brew is the shipwrecked remains of a collaboration brewed with former craft brewers Ballast Point. Brewed to encapsulate the flavours of mezcal, this beer smoulders with peaty and light woody notes, as well as intense fruity character.",
+          "id": 219,
+          "ibu": 60
+        },
+        {
+          "name": "Brewdog Vs Beavertown",
+          "desc": "Loaded with roasty coffee notes and balanced with complex tobacco character. With smoky flavours from the malt, our Beavertown Collab is barrel-aged, but we don’t know for how long until its ready!",
+          "id": 227,
+          "ibu": 50
+        },
+        {
+          "name": "Neon Overlord",
+          "desc": "The Overlord of mango and chili IPA’s packs a fruity punch and then some. Pours a slightly hazy orange. A tropical fruit assault on the nose, with mango, pineapple, apricots and citrus. Hints of chili and sweet malts follow. Fruit dissipates to a chili kick, not hot but definitely there, followed by a long bitter finish. All hail to the hot tempered sweet toothed Lord.",
+          "id": 234,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Ingrid 2016",
+          "desc": "We asked the public to tell us the one beer we should brew again, from our entire back catalogue. They chose well. Cloudberries team up with pan-global hops for an all out fruit riot against a caramel malt base.",
+          "id": 241,
+          "ibu": 70
+        },
+        {
+          "name": "Beatnik",
+          "desc": "We gave our Equity Punks the keys to the brewery and let them brew the beer, as well as join Q&amp;As and tour our HQ. The beer was voted on exclusively by Equity Punks.",
+          "id": 245,
+          "ibu": 60
+        },
+        {
+          "name": "Self Assembly Pope",
+          "desc": "A dark and decadent beer brewed with coconut, vanilla, cacao.",
+          "id": 247,
+          "ibu": 75
+        },
+        {
+          "name": "Twin Atlantic",
+          "desc": "Brewed in collaboration with our AGM-headlining band, Twin Atlantic, this US style pale features some of our favourite hops and is loaded with tropical fruit.",
+          "id": 248,
+          "ibu": 80
+        },
+        {
+          "name": "Small Batch: Tripel",
+          "desc": "Intense spicy and citrusy notes backed up with a bitter edge and a warming but dry malt biscuit backbone. This beer comes into its own after cellaring cool for a few weeks.",
+          "id": 255,
+          "ibu": 50
+        },
+        {
+          "name": "Semi Skimmed Occultist",
+          "desc": "This one-off brew is packed with all the decadent flavours and textures associated with Imperial Stouts. This can features exclusive artwork by The Red Dress.",
+          "id": 257,
+          "ibu": 70
+        },
+        {
+          "name": "New England IPA",
+          "desc": "BrewDog vs Cloudwater is a 6.8% Vermont-style India Pale Ale, hopped with Mosaic in the whirlpool only. Without any big- hitting additions of hops in the boil, we carried the flavour by heavily dry-hopping the brew with Citra and Mosaic. We also used oats in the recipe to deliver the trademark smooth mouthfeel – and made it truly authentic by propagating a one-off culture of Vermont yeast, specifically for the brew.",
+          "id": 260,
+          "ibu": 45
+        },
+        {
+          "name": "Small Batch: Nitro Breakfast Stout",
+          "desc": "An utterly indulgent, smooth as hell Stout. With opulent flavours of chocolate milkshake, roasty espresso coffee, and mellow vanilla, this beer has a full-bodied and creamy mouthfeel.",
+          "id": 261,
+          "ibu": 80
+        },
+        {
+          "name": "AB:22",
+          "desc": "An imperial stout brewed with cacao and coffee, AB22 has spent two years in darkness, drawing complex and indulgent flavours from the Speyside whisky casks in which it resided.",
+          "id": 267,
+          "ibu": 70
+        },
+        {
+          "name": "Blonde Export Stout",
+          "desc": "Our Equity Punk gypsy brewery - Beatnik Brewing Collective - voted for this recipe as their 2017 annual brew. A blonde stout brewed to export strength, the stout character comes from extra ingredients instead of dark malts.",
+          "id": 270,
+          "ibu": 55
+        },
+        {
+          "name": "Prototype Double IPA",
+          "desc": "Our Prototype Challenge sees us pit three new trial beers against each other. This Double IPA is packed with a blend of our favourite American hops and has a huge dry- hop aroma.",
+          "id": 273,
+          "ibu": 60
+        },
+        {
+          "name": "Prototype Black Rye IPA",
+          "desc": "Our Prototype Challenge sees us pit three new trial beers against each other. This Black Rye IPA combines two spins on an American IPA, in the left-right jab combo of extra ingredients.",
+          "id": 274,
+          "ibu": 70
+        },
+        {
+          "name": "AB:23",
+          "desc": "Our Abstrakt series showcases one-off beers, brewed or blended to the peak of our abilities. Each release is unique and never to be repeated.",
+          "id": 278,
+          "ibu": 80
+        },
+        {
+          "name": "Slot Machine",
+          "desc": "Our Q4 Seasonal is a red rye IPA. This twist on an American IPA involves a more complex malt base, with the careful addition of rye - a grain known for its trickiness when brewing with anything above a tiny percentage.",
+          "id": 279,
+          "ibu": 50
+        },
+        {
+          "name": "AB:24",
+          "desc": "Our latest concept beer, AB:24 is a huge Baltic Porter, brewed with coffee and muscovado sugar.",
+          "id": 283,
+          "ibu": 50
+        },
+        {
+          "name": "Hello My Name Is Helga",
+          "desc": "Brewed exclusively for the German market, this Hello My Name brew features a twist of flavour inspired by Germany.",
+          "id": 284,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Sari",
+          "desc": "Brewed exclusively for the Finnish market, this Hello My Name brew features a twist of flavour inspired by Finland.",
+          "id": 285,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Aune",
+          "desc": "Brewed exclusively for the Norwegian market, this Hello My Name brew features a twist of flavour inspired by Norway.",
+          "id": 286,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Marianne",
+          "desc": "Brewed exclusively for the French market, this Hello My Name brew features a twist of flavour inspired by France.",
+          "id": 287,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Agnetha",
+          "desc": "Brewed exclusively for the Swedish market, this Hello My Name brew features a twist of flavour inspired by Sweden.",
+          "id": 288,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Lieke",
+          "desc": "Brewed exclusively for the Dutch market, this Hello My Name brew features a twist of flavour inspired by the Netherlands.",
+          "id": 289,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Niamh",
+          "desc": "Brewed exclusively for the Irish market, this Hello My Name brew features a twist of flavour inspired by Ireland.",
+          "id": 290,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Sofia",
+          "desc": "Brewed exclusively for the Italian market, this Hello My Name brew features a twist of flavours inspired by Italy.",
+          "id": 291,
+          "ibu": 70
+        },
+        {
+          "name": "Hello My Name Is Maria",
+          "desc": "Brewed exclusively for the Spanish market, this Hello My Name brew features a twist of flavour inspired by Spain.",
+          "id": 292,
+          "ibu": 70
+        },
+        {
+          "name": "I Wanna Be Your Dog",
+          "desc": "A collaboration with Omnipollo, known for their uncanny ability to repilcate dessert flavours in indulgent beers. This caramel and pecan flavoured imperial stout has been barrel aged for almost a year in whisky casks, to add an extra level of depth to the pecan mud pie concept.",
+          "id": 293,
+          "ibu": 55
+        },
+        {
+          "name": "Off-Duty Alien",
+          "desc": "Off-Duty Alien is a citrus IPA, brewed with blood orange and grapefruit to enhance the citurs characteristics of the hops.",
+          "id": 296,
+          "ibu": 50
+        },
+        {
+          "name": "Declassified Demi-God",
+          "desc": "An exclusive barrel-aged blend, brought together to reward investors on Equity for Punks USA; two imperial stouts aged in grain whisky barrels for over a year.",
+          "id": 298,
+          "ibu": 70
+        },
+        {
+          "name": "Karma Cloud",
+          "desc": "A draft-only exclusive beer for International markets as part of\nthe DogDealers programme. Karma Cloud is a tropical IPA, designed to cram as much fruit flavour in as possible using only hops to recreate those flavours.",
+          "id": 304,
+          "ibu": 50
+        },
+        {
+          "name": "Native Son",
+          "desc": "A big, dank, double IPA, sitting in the 8-9% ABV bracket, in our Amplified range - filling a gap that has been sitting empty since Hardcore IPA departed. A new beer developed by our Head of Production Jason Pond; the first brew he came up with since joining became an instant hit.",
+          "id": 305,
+          "ibu": 70
+        },
+        {
+          "name": "Sonic Boom",
+          "desc": "Welcome aboard our experimental range of tuned IPAs. Buckle up for an explosive sensory bombardment. Tropical fruit and resinous pine are primed. The first wave of pineapple, melon and mango quickly accelerate into a afterburner of candied citrus fruit and sweet caramel. Sonic Boom - IPA turning at the speed of sound.",
+          "id": 311,
+          "ibu": 60
+        },
+        {
+          "name": "Mallow Mafia",
+          "desc": "BrewDog vs Amundsen. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. With Norwegian craft brewers Amundsen, we are creating a mash-up of two existing beers, resulting in a coffee, chocolate and marshmallow Russian Imperial Stout.",
+          "id": 313,
+          "ibu": 75
+        },
+        {
+          "name": "Baltic Fleet",
+          "desc": "BrewDog vs Bevog. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. Our Austrian collaboration is with Bevog, and incorporates plum into a Baltic porter.",
+          "id": 315,
+          "ibu": 45
+        },
+        {
+          "name": "Al Adjore!",
+          "desc": "BrewDog vs La Pirata. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. Our collab with Spanish brewes La Pirata features a barley wine, inspired by Muscatel.",
+          "id": 317,
+          "ibu": 65
+        },
+        {
+          "name": "Jet Trash",
+          "desc": "A new 6.9% ABV West Coast IPA, Jet Trash is one of the core Fanzine beers, and will feature evolving editions as part of our new subscription model.",
+          "id": 322,
+          "ibu": 65
+        }
+      ],
+      "count": 145
+    },
+    "high_bitterness": {
+      "values": [
+        {
+          "name": "AB:06",
+          "desc": "Our sixth Abstrakt, this imperial black IPA combined dark malts with a monumental triple dry-hop, using an all-star team of some of our favourite American hops. Roasty and resinous.",
+          "id": 17,
+          "ibu": 150
+        },
+        {
+          "name": "Devine Rebel (w\/ Mikkeller)",
+          "desc": "Two of Europe's most experimental, boundary-pushing brewers, BrewDog and Mikkeller, combined forces to produce a rebellious beer that combined their respective talents and brewing skills. The 12.5% Barley Wine fermented well, and the champagne yeast drew it ever closer to 12.5%. The beer was brewed with a single hop variety and was going to be partially aged in oak casks.",
+          "id": 22,
+          "ibu": 100
+        },
+        {
+          "name": "Dog B",
+          "desc": "Our anniversary stout was based on AB:04, one of our most sought after beers ever. This beer is slightly different each year, with subtle variations coming into play purely down to environmental and fermentation factors. What doesn't change is the rich dark chocolate, bitter coffee and chilli warmth of this monumental Stout.",
+          "id": 27,
+          "ibu": 90
+        },
+        {
+          "name": "Shipwrecker Circus (w\/ Oskar Blues)",
+          "desc": "In collaboration with the awesome Oskar Blues from Colorado, we created this big, twisted 10.5% American style barley wine. Big boozy aromas and a sweet viscosity, packed in with some heavy-hitting C-hops, for an intense bitterness to balance this full-bodied malt monster.",
+          "id": 36,
+          "ibu": 85
+        },
+        {
+          "name": "Zephyr",
+          "desc": "A 9.2% Double IPA aged for 21 months in a 1965 Invergordon cask with 30 kg of fresh highland strawberries. This beer is a riot of whisky, caramel and strawberry, all tempered by a toe curling bitterness enducing rapture in all who taste it. Who needs champagne?",
+          "id": 37,
+          "ibu": 125
+        },
+        {
+          "name": "AB:17",
+          "desc": "A triple whammy of coffee from HasBean gives our 17th Abstrakt concept beer an intense and roasty, dark mocha character. We brewed with espresso in the mash, cafetiere in the boil, and whole roast beans in the whirlpool and the fermenter.",
+          "id": 41,
+          "ibu": 100
+        },
+        {
+          "name": "Hardcore IPA",
+          "desc": "Pounding a triple payload of the biggest North American hops humanity has devised, braced by a backbone of caramel malt, this beer is deep, astringent and resinous, pushing to the extremes of lupulin thresholds. There’s nothing inscrutable going on; no mystery in the backstory. It doesn’t seek to be understood. A beer incapable of empathy; only hop overload.",
+          "id": 42,
+          "ibu": 125
+        },
+        {
+          "name": "Black Eyed King Imp",
+          "desc": "An early Cocoa Psycho recipe that we loved, but didn't fit what we were looking for. We locked this chocolate coffee stout away in barrels for two years, imparting toasted marshmallow, spicy vanilla, molasses and boozy warmth.",
+          "id": 56,
+          "ibu": 85
+        },
+        {
+          "name": "Prototype 27",
+          "desc": "Hardcore IPA with raspberries aged in Caol Ila casks. Full-bodied and compelling, the robust malt base provides an initial layer of honey, cinnamon and biscuity malt sweetness. Soon the Scottish berries are in on the act, a dominating tug of war between sweet and tart with an overbearing zest. As the beer slips back across your tongue the hops demand and definitely get your attention. At 100 IBUs the bitterness smashes into the back of your throat as the resinous, spiced orange peel flavours add depth to the berry fruitiness.",
+          "id": 57,
+          "ibu": 149
+        },
+        {
+          "name": "Mandarina Bavaria - IPA Is Dead",
+          "desc": "From the central European plains of Germany, comes something very different. A blast of tangerine and orange, Mandarina Bavaria brings a highly distinctive backbone of flavour. This is down to its parent – Cascade – and a frankly enormous 70% myrcene oil content. If equate Germany solely with earthy, spicy Noble hops, Mandarina Bavaria will make you think again.",
+          "id": 59,
+          "ibu": 100
+        },
+        {
+          "name": "Tokyo Rising Sun - Lowland",
+          "desc": "A forgotten gem in the deepest, darkest corner of the warehouse. Aged in a Lowland whisky cask resulting in decadent chocolate, toasted vanilla, indulgent spiced fruit, a mesmerizingly hypnotic mouthfeel and new layers that emerge on every sip.",
+          "id": 66,
+          "ibu": 85
+        },
+        {
+          "name": "Black Eyed King Imp - Vietnamese Coffee Edition",
+          "desc": "This is the Vietnamese Coffee Edition. At 12.7% ABV, Black Eyed King Imp is a super intense and twistedly complex brew, with intense notes of sweet vanilla, rich espresso, smooth molasses and bitter chocolate barely contained by the whatever container it's in.",
+          "id": 73,
+          "ibu": 85
+        },
+        {
+          "name": "Hopped-Up Brown Ale - Prototype Challenge",
+          "desc": "Brown ales are perfect foils for resinous C-Hops, as the piney elements of the latter contrast brilliantly with the sweeter, nutty elements of the malt bill. The best of both worlds.",
+          "id": 82,
+          "ibu": 85
+        },
+        {
+          "name": "#Mashtag 2015",
+          "desc": "Democratically voted on by you and the BrewDog beer community. A wonderfully burnt toast malt backbone, loaded with American Hops for floral, citrus flavours and warm boozy vanilla and toasted oak.",
+          "id": 90,
+          "ibu": 85
+        },
+        {
+          "name": "Clown King",
+          "desc": "A heavy hitting combination of rich malt flavours and relentless, bitter hops. Aromas of caramel and toasted marshmallow, with raisin and dried fruit, alongside a spicy undercurrent of resin. With toasty malt and sweet dark fruit flavours, and a smooth, chewy mouthfeel, you’ll be lulled into a false sense of security, before the intense pine-sap resin draws out a huge bitter finish.",
+          "id": 103,
+          "ibu": 85
+        },
+        {
+          "name": "Cocoa Psycho",
+          "desc": "Vanilla pods and toasted oak chips add a rounded character to this massive Russian Imperial Stout, brewed with a hefty malt bill, cacao nibs and coffee beans. Dark malts combine with Cascade to add a punchy bitterness, strong enough to offset the big chocolate sweetness.",
+          "id": 109,
+          "ibu": 85
+        },
+        {
+          "name": "Chaos Theory",
+          "desc": "Chaos Theory is the most under- rated achievement of 20th Century science. This beer can only aspire to parallel to the mathematical use of the word chaos, which is at odds to the common parlance. The purest showcase of the magnificent hop that is Nelson Sauvin; grapefruit, pineapple and caramel sing above the chaos of life.",
+          "id": 124,
+          "ibu": 90
+        },
+        {
+          "name": "Hinterland",
+          "desc": "Hinterland is a beer long in the creation, and even longer in the appreciation. On the aroma, deep reverberating roasty bitterness and sweet dark chocolate. Also in evidence, woodsmoke, rich vanilla, mocha and marzipan. When tasting, Hinterland reveals itself as the beer moves from cellar temperature to something warmer, yielding all of the above plus dried fruit, rich ganache and ending on a resoundingly warming finish redolent of chocolate liqueur or plum brandy.",
+          "id": 129,
+          "ibu": 85
+        },
+        {
+          "name": "Mr.Miyagi's Wasabi Stout",
+          "desc": "Invented by and brewed by Dan Bloxham, no matter what anyone else says. A medium bodied, bitter, US style stout, with a wasabi warmth, a subtle earthiness and a hint of soy sauce.",
+          "id": 134,
+          "ibu": 90
+        },
+        {
+          "name": "Sink The Bismarck!",
+          "desc": "This is IPA amplified, the most evocative style of the craft beer resistance with the volume cranked off the scale. Kettle hopped, dry hopped then freeze hopped for a deep fruit, resinous and spicy aroma. A full on attack on your taste buds ensues as the incredibly smooth liquid delivers a crescendo of malt, sweet honey, hop oils and a torpedo of hop bitterness that lasts and lasts.",
+          "id": 137,
+          "ibu": 1085
+        },
+        {
+          "name": "Dog A",
+          "desc": "Our anniversary stout was based on AB:04, one of our most sought after beers ever. This beer is slightly different each year, with subtle variations coming into play purely down to environmental and fermentation factors. What doesn't change is the rich dark chocolate, bitter coffee and chili warmth of this monumental stout.",
+          "id": 138,
+          "ibu": 90
+        },
+        {
+          "name": "Born To Die",
+          "desc": "Savagely bitter, exceptionally dry, this IPA is born to die on a predetermined day. It proudly displays its short-lived life span front and centre. There is no better time to drink this than the moment you get your paws on it. Awesome bitterness backed up by unrelenting aromas of resin, citrus, and juicy fruit. Born To Die is a eulogy to the hops that sacrificed themselves in its creation. An incredibly ambitious and satisfying small batch brew.",
+          "id": 139,
+          "ibu": 85
+        },
+        {
+          "name": "Pioneer - IPA Is Dead",
+          "desc": "2015 IPA is Dead Series. Pioneer hails from the hop gardens of Kent, and for those expecting something classically English, they surprise with an unforeseen blast of lemony citrus. Bookended with a herbal, cedar quality, these high alpha UK hops pack a pithy zing not often seen from these hop-growing isles.",
+          "id": 140,
+          "ibu": 100
+        },
+        {
+          "name": "Tokyo*",
+          "desc": "Our most involved beer, Tokyo* is an Imperial Stout brewed with copious amounts of specialty malts, jasmine and cranberries, dry-hopped with a bucket-load of our favourite hops and then carefully aged on toasted French oak chips. It’s all about moderation. Everything in moderation, including moderation itself...",
+          "id": 144,
+          "ibu": 85
+        },
+        {
+          "name": "Sorachi Bitter - B-Sides",
+          "desc": "Pilot Brew: A twist on an English Bitter style beer, using Sorachi Ace hops throughout making a showcase of the off the dill and lemon character.",
+          "id": 145,
+          "ibu": 130
+        },
+        {
+          "name": "Restorative Beverage For Invalids And Convalescents",
+          "desc": "Brewed to 8.5%, light as a mass market Pilsner in colour, fermented to be as dry as a Lambic, but as bitter as any double IPA and loaded with as much hop aroma as we can get into a beer. The fermentables in this beer were Maris Otter Extra Pale along with plenty of sugar as we mashed at a very low temperature to ensure maximum fermentability and attenuation. This beer is fermented within an inch of its life making it dry, sheer and bright. Citra, Amarillo &amp; Centennial were all used in abundance in the kettle and also fired extremely liberally at this beer with our high tech hop cannon.",
+          "id": 160,
+          "ibu": 100
+        },
+        {
+          "name": "Tokyo Rising Sun - Highland",
+          "desc": "A forgotten gem in the deepest, darkest corner of the warehouse. Aged in a Highland whisky cask resulting in a viscous slow motion roller coaster of powdered cacao, hints of burning pirate ships, salted caramel, sharp berries and toasted marshmallow.",
+          "id": 161,
+          "ibu": 85
+        },
+        {
+          "name": "Ella - IPA Is Dead",
+          "desc": "2015 IPA is Dead Series. Supremely floral, this hugely under-rated hop is related to Galaxy and was first cultivated in the Australian state of Victoria. Initially given the same name as a certain Eurolager, their lawyers got involved and the St- prefix was dropped. Ella displays subtle notes of spice, but is fundamentally a truly floral bouquet, redolent of the Southern Hemisphere.",
+          "id": 164,
+          "ibu": 100
+        },
+        {
+          "name": "Jack Hammer",
+          "desc": "Hopped beyond the point at which IBUs are measurable, only the most hardened palate will get beyond Jack Hammer's intensely resinous pithy bitterness and to the grapefruit, orange zest and dry biscuity malt beyond. You could brew this with less hops, but really, why would you bother?",
+          "id": 168,
+          "ibu": 250
+        },
+        {
+          "name": "Bashah (w\/ Stone Brewing Co)",
+          "desc": "Brewed when our good friends from Stone visited in 2009. Black As Sin, Hoppy As Hell - no other beer name has quite hit the nail so squarely on the head. Dark roasted malt makes a beautiful canvas for the savage hop bitterness, pine needles and orange zest.",
+          "id": 170,
+          "ibu": 100
+        },
+        {
+          "name": "Chinook - IPA Is Dead",
+          "desc": "2015 IPA is Dead series. Often used as a combination hop for American Pale Ales and IPAs, Chinook can really shine when left to front a beer all on its own. The main reason for this is that it’s thunderously piney, with a fistful of spice kicked up in your face as you lie on the beach. A true heavyweight of the brewing industry.",
+          "id": 173,
+          "ibu": 100
+        },
+        {
+          "name": "Dog D",
+          "desc": "Dog D is an extra special brew, marking 8 years of BrewDog. Like Dog A, B &amp; C before it, Dog D is an Imperial Stout with speciality ingredients, only this time we’ve barrel-aged it too. Dog D pours like dark matter into your glass, with a deep tan head. The nose is subtle but powerful, and on the palate, there’s a treacle toffee backbone, supporting the spicy hop flavour and naga chilli heat.",
+          "id": 177,
+          "ibu": 85
+        },
+        {
+          "name": "How To Disappear Completely",
+          "desc": "Jam-packed with two of our favourite hops - Columbus and Centennial, it has 198 (yes one hundred and ninety eight) theoretical IBUs. We use a lot of caramalt, some amber malt and some chocolate malt to give the little beer as much body and mouthfeel as possible and the ability to handle all the hops we threw at it. We think this beer is the world’s first ever Imperial Mild. Imperial in terms of hop profile. An Imperially Hopped Mild. BrewDog’s Imperial Mild. How to Disappear Completely.",
+          "id": 179,
+          "ibu": 198
+        },
+        {
+          "name": "Tactical Nuclear Penguin",
+          "desc": "This beer is about pushing the boundaries, it is about taking innovation in beer to a whole new level. Dark and decadent, plum, treacle and roast coffee are amplified beyond any stout you've had before.",
+          "id": 185,
+          "ibu": 1157
+        },
+        {
+          "name": "Hardkogt IPA",
+          "desc": "Brewed for the beer maniacs in Denmark, this Double IPA quivered with kumquat, kiwi and orange pith all held together with a honeycomb malt body.",
+          "id": 194,
+          "ibu": 175
+        },
+        {
+          "name": "Double IPA - Russian Doll",
+          "desc": "The levels of hops vary throughout the range. We love hops, so all four beers are big, bitter badasses, but by tweaking the amount of each hop used later in the boil and during dry- hopping, we can balance the malty backbone with some unexpected flavours. Simcoe is used in the whirlpool for all four beers, and yet still lends different characters to each.",
+          "id": 200,
+          "ibu": 85
+        },
+        {
+          "name": "Dog C",
+          "desc": "Our anniversary stout was based on AB:04, one of our most sought after beers ever. This beer is slightly different each year, with subtle variations coming into play purely down to environmental and fermentation factors. What doesn't change is the rich dark chocolate, bitter coffee and chilli warmth of this monumental stout.",
+          "id": 202,
+          "ibu": 90
+        },
+        {
+          "name": "Sunshine On Rye - B-Sides",
+          "desc": "A Pilot Brew \"Sunshine on Rye\" uses loads of spicy malt and coriander to play nice with an inhuman amount of hops!",
+          "id": 208,
+          "ibu": 130
+        },
+        {
+          "name": "Barrel Aged Hinterland",
+          "desc": "Hinterland is a beer long in the creation, and even longer in the appreciation. On the aroma, deep reverberating roasty bitterness and sweet dark chocolate. Also in evidence, woodsmoke, rich vanilla, mocha and marzipan. When tasting, Hinterland reveals itself as the beer moves from cellar temperature to something warmer, yielding all of the above plus dried fruit, rich ganache and ending on a resoundingly warming  nish redolent of chocolate liqueur or plum brandy. Aged in Bourbon Casks.",
+          "id": 216,
+          "ibu": 85
+        },
+        {
+          "name": "Monk Hammer",
+          "desc": "Jack Hammer has been single handedly ripping it up for quite some time. Now, the definitive bitter and twisted IPA, has spawned four Hammer Head off-springs. Monk Hammer is the first of our super-charge hyped up hybrids. A dark cloaked holy man packing an unholy punch. Belgian yeast and American hops untie on a cardinal scale. Steel yourself for biblical volumes of grapefruit, bow your head for a wave of spicy, fruity yeast character, then cross yourself for the bitterest of bitter finishes. Let your senses succumb to this 21st century incarnation. Monk Hammer – worship daily.",
+          "id": 218,
+          "ibu": 250
+        },
+        {
+          "name": "Dog E",
+          "desc": "Dog E is a very special beer. This beer commemorates our 9th year in 2016. This beer originally appeared as AB:04 in 2010, perhaps the most sought after beer we ever brewed. Dog E is a 16.1% Imperial Stout brewed with copious amounts of dark malts, pure cacao and coffee, balanced by the subtle addition of naga chili, and barrel-aged. Perfect for ageing in your cellar, or drinking fresh if you’re lucky enough to get your paws on a bottle.",
+          "id": 222,
+          "ibu": 100
+        },
+        {
+          "name": "Paradox Islay 2.0",
+          "desc": "Intense peaty smoke layers on decadent roast coffee and chocolate in our Islay barrels aged paradox stout. One of the smokiest beers we have ever produced.",
+          "id": 225,
+          "ibu": 100
+        },
+        {
+          "name": "Chili Hammer",
+          "desc": "Chili Hammer is the third of our super-charged hyped up hybrids. A smooth tongued spicy assassin. Chili and American hops unite for a flavour bigger than Texas. Citrus peel, mango, with a hint of spice on the nose. Delivers big grapefruit and mango with a smooth chili kick, followed by the bitterest of bitter finishes. Chili Hammer – turn up the gas.",
+          "id": 226,
+          "ibu": 250
+        },
+        {
+          "name": "Rye Hammer",
+          "desc": "Rye Hammer is the fourth of our super-charged hyped up hybrids. A bready beery beast. Rye grains and American hops unite in an agricultural superpower. Aroma of roasted malts, rye bread and subtle floral hops. Grapefruit, roasted caramel with malty fruity notes, followed by the bitterest of bitter finishes. Rye Hammer – liquid daily bread.",
+          "id": 229,
+          "ibu": 250
+        },
+        {
+          "name": "Black Hammer",
+          "desc": "Jack Hammer has been single handedly ripping it up for quite some time. Now, the definitive bitter and twisted IPA, has spawned four Hammer Head off-springs. Black Hammer is the second of our hyped up hybrid IPAs. A black hearted beast, that takes no prisoners. American hops and dark malt combine to make mischief. Grapefruit and coffee collide in sensory overload – a wake-up call for other IPA’s. Molten waves of pithy grapefruit build and finally ebb to the roasty bitter onslaught. Stand  firm and wield the Black Hammer with care. Stare into the black abyss and succumb to the dark-side.",
+          "id": 230,
+          "ibu": 250
+        },
+        {
+          "name": "#Mashtag 2016",
+          "desc": "We gave our customers the keys to the brewery and let them choose every aspect of this beer. Sour cherry combines with fruity hop character against a biscuit malt backbone with a hint of alcohol warmth, and an oaky undercurrent.",
+          "id": 239,
+          "ibu": 100
+        },
+        {
+          "name": "Crew Brew",
+          "desc": "Our crew designed it, and we bottled it just for ourselves! We chose an 8% red ale, mash hopped and first wort hopped with New Zealand origin hops.",
+          "id": 242,
+          "ibu": 100
+        },
+        {
+          "name": "AB:21",
+          "desc": "AB:21 is a liquorice and blackcurrant infused imperial stout. Rolling in at an imposing 12% abv, this huge and decadent dark beer dials down the charred roastiness and focuses instead on the rich, full-bodied chocolate and dark fruit character of the style.",
+          "id": 244,
+          "ibu": 100
+        },
+        {
+          "name": "Hop Shot",
+          "desc": "Hop Shot is a high-velocity hop hit. Our latest experiment in ice-distillation is a west coast IPA, subjected to Antarctic temperatures and concentrated by removing the ice that forms. The result is a 22% ABV hop grenade in a 110ml bottle.",
+          "id": 249,
+          "ibu": 250
+        },
+        {
+          "name": "Small Batch: Rye IPA",
+          "desc": "A 7.2% rye IPA loaded with grapefruit notes, pithy citrus, and huge resinous bitterness, with rye character. The Centennial and Columbus flavours are amplified by the spicy, dry rye.",
+          "id": 250,
+          "ibu": 100
+        },
+        {
+          "name": "Paradox Rye",
+          "desc": "In 2006 James and Martin hijacked a beer dinner run by Michael Jackson, the acclaimed beer and whisky writer, and convinced him to taste one of their home brews. This was a defining moment in BrewDog prehistory, and that beer was the first incarnation of the ubiquitous Paradox. Aged in a variety of casks over the years, Paradox is dark, decadent and encapsulating. Can be enjoyed fresh; phenomenal when aged.",
+          "id": 258,
+          "ibu": 100
+        },
+        {
+          "name": "Homicidal Puppet Help Desk",
+          "desc": "Indulgent, complex, and endlessly rewarding; packed with flavours of toffee, coconut, red berry, burnt sugar, marzipan, orange, cherry - American oak adds structure and depth to this chewy and warming barley wine brewed with rye and aged in rye whiskey cask.",
+          "id": 281,
+          "ibu": 132
+        },
+        {
+          "name": "Paradox Islay 2018",
+          "desc": "Our longest running beer series, Paradox sees us ageing an Imperial Stout in different types of cask. This one showcases grain whisky.",
+          "id": 309,
+          "ibu": 100
+        },
+        {
+          "name": "Dog G",
+          "desc": "Dog G is a benchmark in liquid form; our 11th anniversary beer. A 17% imperial stout brewed with a compelling mix of dark malts, chillies, cacao and coffee - to make it a true milestone we then decided to age Dog G in rye whiskey barrels.",
+          "id": 312,
+          "ibu": 100
+        }
+      ],
+      "count": 54
+    },
+    "no_data": {
+      "values": [
+        {
+          "name": "The End Of History",
+          "desc": "The End of History: The name derives from the famous work of philosopher Francis Fukuyama, this is to beer what democracy is to history. Complexity defined. Floral, grapefruit, caramel and cloves are intensified by boozy heat.",
+          "id": 24,
+          "ibu": "not present"
+        },
+        {
+          "name": "AB:19",
+          "desc": "One of the most complex beers we’ve ever attempted. A blend of two barrel-aged Imperial Saisons – one black, one red – which has in turn then been aged in rum barrels, it is an enormous, intricate beer. A baseline of warm, smoky raisin and plum, followed by punchy flavour elements coming to the fore – coconut, mint and blackcurrant. There’s a long undercurrent of treacle toffee, before the finish darkens to liquorice, star anise amidst a touch of honey sweetness.",
+          "id": 169,
+          "ibu": "not present"
+        },
+        {
+          "name": "Mango And Chili Barley Wine",
+          "desc": "A huge, chewy barley wine, loaded with bitterness and balanced with a sweet and spicy combo of mango and chili. A concept brew which was so well received, we tweaked it and it became Neon Overlord.",
+          "id": 235,
+          "ibu": "not present"
+        },
+        {
+          "name": "Science IPA",
+          "desc": "A beer brewed specifically for the British Science Festival, held in Swansea.",
+          "id": 236,
+          "ibu": "not present"
+        },
+        {
+          "name": "Honey And Lemon Blitz",
+          "desc": "Honey &amp; Lemon Blitz sees tart Berliner Weisse character multiplied by lemony acidity; light bready malt and a hint of warming honey hold this back from the brink of palate- destroying sourness.",
+          "id": 237,
+          "ibu": "not present"
+        }
+      ],
+      "count": 5
+    },
+    "minimal_bitterness": {
+      "values": [
+        {
+          "name": "Berliner Weisse With Yuzu - B-Sides",
+          "desc": "Japanese citrus fruit intensifies the sour nature of this German classic.",
+          "id": 3,
+          "ibu": 8
+        },
+        {
+          "name": "Electric India",
+          "desc": "Re-brewed as a spring seasonal, this beer – which appeared originally as an Equity Punk shareholder creation – retains its trademark spicy, fruity edge. A perfect blend of Belgian Saison and US IPA, crushed peppercorns and heather honey are also added to produce a genuinely unique beer.",
+          "id": 6,
+          "ibu": 38
+        },
+        {
+          "name": "AB:12",
+          "desc": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local.",
+          "id": 7,
+          "ibu": 35
+        },
+        {
+          "name": "Fake Lager",
+          "desc": "Fake is the new black. Fake is where it is at. Fake Art, fake brands, fake breasts, and fake lager. We want to play our part in the ugly fallout from the Lager Dream. Say hello to Fake Lager – a zesty, floral 21st century faux masterpiece with added BrewDog bitterness.",
+          "id": 8,
+          "ibu": 40
+        },
+        {
+          "name": "AB:07",
+          "desc": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
+          "id": 9,
+          "ibu": 30
+        },
+        {
+          "name": "Misspent Youth",
+          "desc": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar- infused Scotch Ale.",
+          "id": 11,
+          "ibu": 30
+        },
+        {
+          "name": "Rabiator",
+          "desc": "Imperial Wheat beer \/ Weizenbock brewed by a homesick German in leather trousers. Think banana bread, bubble gum and David Hasselhoff.",
+          "id": 20,
+          "ibu": 26
+        },
+        {
+          "name": "Vice Bier",
+          "desc": "Our take on the classic German Kristallweizen. A clear German wheat beer, layers of bubblegum and vanilla perfectly balanced with the American and New Zealand hops.",
+          "id": 21,
+          "ibu": 25
+        },
+        {
+          "name": "Skull Candy",
+          "desc": "The first beer that we brewed on our newly commissioned 5000 litre brewhouse in Fraserburgh 2009. A beer with the malt and body of an English bitter, but the heart and soul of vibrant citrus US hops.",
+          "id": 26,
+          "ibu": 33
+        },
+        {
+          "name": "AB:05",
+          "desc": "Belgian Imperial Stout aged on toasted coconut and cacao. The Belgian yeast strain introduces a whole new dimension to the Imperial Stout style resulting in a beer that resembles a marshmallow toasted on a smouldering barbeque then smothered in dark chocolate. Massively seductive and encapsulating this blacker than midnight beer pours with coffee brown head so thick you could almost stand on it, and with an epic lacing on your glass.",
+          "id": 32,
+          "ibu": 40
+        },
+        {
+          "name": "Bourbon Baby",
+          "desc": "Santa Paws Scotch ale aged in bourbon barrels - light, dry and toasty, with vanilla, hints of chocolate and ginger biscuit, and a faint spicy hoppiness.",
+          "id": 34,
+          "ibu": 35
+        },
+        {
+          "name": "Berliner Weisse With Raspberries And Rhubarb - B-Sides",
+          "desc": "Tart, dry and acidic with a punch of summer berry as rhubarb crumble.",
+          "id": 35,
+          "ibu": 8
+        },
+        {
+          "name": "American Wheat",
+          "desc": "A luscious blend of peach, blood orange and banana to make a suitably refreshing beverage that happily straddles the Atlantic.",
+          "id": 43,
+          "ibu": 17
+        },
+        {
+          "name": "Anarchist Alchemist",
+          "desc": "About as far as you can push an IPA; Anarchist Alchemist packs in three times the malt and three of our favourite hops. Nelson Sauvin, Amarillo and Centennial bring a range of flavours, touching on tropical fruit, white grape, tangerine, grapefruit, pine, spiced orange... the list goes on!",
+          "id": 46,
+          "ibu": 20.5
+        },
+        {
+          "name": "AB:14",
+          "desc": "Think banoffee pie; loads of creamy sweet banana, and sticky warm toffee. This beer is super complex, and one for the sweet-toothed!",
+          "id": 49,
+          "ibu": 30
+        },
+        {
+          "name": "Lost Dog (w\/Lost Abbey)",
+          "desc": "Our first beer aged in rum casks, Lost Dog saw us brew a collaboration imperial porter with our friends at Lost Abbey. The base beer was packed with toffee, chocolate and roasty notes, balanced with a subtle spicy hop character. The rum casks add a warming, spiced vanilla edge.",
+          "id": 50,
+          "ibu": 35
+        },
+        {
+          "name": "TM10",
+          "desc": "Brewed for the Tate Modern’s 10th Anniversary. A saison style beer brewed with ginger and orange peel. Very limited batch of 4000 cork and caged bottles with a silk screened label designed by Johanna Basford. Only available at the Tate Modern.",
+          "id": 51,
+          "ibu": 20
+        },
+        {
+          "name": "Baby Dogma",
+          "desc": "A baby Scotch ale with dry and toasty malt flavours and hints of smoke. Toffee, biscuit and fudge abound with a spicy bitterness from the pan-global hops.",
+          "id": 53,
+          "ibu": 35
+        },
+        {
+          "name": "Dogma",
+          "desc": "Brewed with over ten different types of malt, and blended together with Scottish heather honey, it is a pantheon to the gods of intricacy and nuance; a beer that celebratesa confluence of ideas. Complex, indulgent and encapsulating, Dogma gives more than a cursory nod to history, to make you ponder the very nature of beer itself.",
+          "id": 60,
+          "ibu": 30
+        },
+        {
+          "name": "Magic Stone Dog (w\/Magic Rock & Stone Brewing Co.)",
+          "desc": "A session IPA brewed with a diverse grain bill, hopped with Simcoe and Amarillo and fermented with saison yeast, for an incredible level of depth in a low ABV beer. Spicy, fruity, complex, refreshing and dry.",
+          "id": 61,
+          "ibu": 30
+        },
+        {
+          "name": "Sub Hop",
+          "desc": "Brewed for the opening of our first bar in Italy, BrewDog Firenze. A mega-hoppy Imperial Pilsner, with toasty malt complexity and tropical New World hops.",
+          "id": 64,
+          "ibu": 35
+        },
+        {
+          "name": "Hunter Foundation Pale Ale",
+          "desc": "This straight-up US style pale ale uses some of our favourite hops against a toasty malt base. We brewed this with Sir Tom Hunter at our Fraserburgh brewery - to add a charitable element to your own version, feel free to share this citrusy pale ale with your friends. Or don't, it's your choice.",
+          "id": 67,
+          "ibu": 35
+        },
+        {
+          "name": "Pale - Russian Doll",
+          "desc": "The levels of hops vary throughout the range. We love hops, so all four beers are big, bitter badasses, but by tweaking the amount of each hop used later in the boil and during dry- hopping, we can balance the malty backbone with some unexpected flavours. Simcoe is used in the whirlpool for all four beers, and yet still lends different characters to each.",
+          "id": 71,
+          "ibu": 35
+        },
+        {
+          "name": "Whisky Sour - B-Sides",
+          "desc": "Deconstructed whisky sour, reconstructed as a beer.",
+          "id": 72,
+          "ibu": 20
+        },
+        {
+          "name": "Never Mind The Anabolics",
+          "desc": "Never Mind the Anabolics, a 6.5% India Pale Ale brewed with copious amounts of performance-enhancing natural ingredients. Brewed to commemorate the 2012 Olympics and its merry marketing bandwagon.",
+          "id": 75,
+          "ibu": 35
+        },
+        {
+          "name": "India Session Lager - Prototype Challenge",
+          "desc": "BrewDog’s level of dry-hop to a beer formed with a baseline of 100% pilsner malt – and at under 4.5% ABV – gives you a style that flirts at the edges of several others. Think aromas of fresh cut grass, nettle, white grape, melon, tangerine - with similar flavours leading to a dry, bitter finish.",
+          "id": 81,
+          "ibu": 35
+        },
+        {
+          "name": "Baby Saison - B-Sides",
+          "desc": "A hark back to the origins of Saison; slight spice and earthy notes with highlights of lemon and pepper make a beer that could quench the thirst of any seasonal worker.",
+          "id": 84,
+          "ibu": 9
+        },
+        {
+          "name": "Santa Paws",
+          "desc": "A 4.5% decadent scotch ale brewed with Scottish heather honey. A robust malty beer packed with flavour, at a strength you can drink all (Christmas) day long. Santa Paws is our antidote to the chaos of the festive season. All the flavours of Christmas pudding in liquid form.",
+          "id": 85,
+          "ibu": 35
+        },
+        {
+          "name": "Alpha Pop",
+          "desc": "A hoppy Rye Ale loaded with an avalanche of citrus and resinous flavours. Columbus, our high-alpha friend, lends a huge pithy citrus blast, with Ahtanum providing a punchy tropical fruit back-up. Brewing with rye adds a spiciness to the speciality malt caramel backbone, giving a warm ginger snap flavour, before slowly the hops, barley and rye combine and build to an orangey, biscuity, almost chocolatey crescendo.",
+          "id": 87,
+          "ibu": 30
+        },
+        {
+          "name": "Dead Pony Club",
+          "desc": "Our California style West Coast IPA has light toffee and caramel notes layered on biscuit malt, supporting a huge, fresh citrus aroma, with lemongrass, lime zest, grapefruit peel, alongside some tropical notes, courtesy of some heavy-hitting US hops.",
+          "id": 91,
+          "ibu": 35
+        },
+        {
+          "name": "Mango Gose - B-Sides",
+          "desc": "Kettle soured hoppy mango gose. A delicate balance of sweet, juicy mango, sour lime and salinity.",
+          "id": 93,
+          "ibu": 40
+        },
+        {
+          "name": "Peroxide Punk",
+          "desc": "A trashy blonde concession for those who felt that our original 6% Punk IPA recipe was too hard hitting. This was also the first time we experimented with dry hopping our beers, giving Peroxide Punk a depth of flavour that belies its modest ABV. Zesty, aromatic and thirst quenching.",
+          "id": 95,
+          "ibu": 40
+        },
+        {
+          "name": "Lumberjack Stout",
+          "desc": "Lumberjack Stout is an intense beast that took its inspriation from what an actual bona-fide lumberjack might have for breakfast. Flavours of molasses, chocolate, smoke, berry, coffee and more, with a low bitterness, leaning this beer firmly towards the malty side.",
+          "id": 96,
+          "ibu": 20
+        },
+        {
+          "name": "Pumpkin King",
+          "desc": "We're turning Hallowe’en inside out and upside down. Pumpkin King is not your usual unctuous, cloyingly sweet Hallowe’en pumpkin ale. Sure, there’s a huge heady hit of pungent spice on the nose, but it’s followed with bright and zesty citrus flavours, and a light mouthfeel. Spicy and sweet autumnal favourites like toasted marshmallow and toffee apple are just some of the complex notes you’ll find in our twisted take on a pumpkin ale, which weighs in at 5.4% ABV.",
+          "id": 98,
+          "ibu": 20
+        },
+        {
+          "name": "Peach Therapy",
+          "desc": "9% abv sour tripel, infused with peach and apricot in collaboration with some of our favourite beer writers Adrian Tierney-Jones, Matt Curtis and Jonny and Brad from The Craft Beer Channel.",
+          "id": 102,
+          "ibu": 30
+        },
+        {
+          "name": "Punk IPA 2010 - Current",
+          "desc": "Punk IPA. Amplified. In 2010 we finally got our paws on the equipment we needed to dry hop our beers. We focused all our energy on dry hopping, amping up the aroma and flavour of our flagship beer to create a relentless explosion of tropical fruits, and adding a hint of Caramalt to balance out the insane amount of hops.",
+          "id": 106,
+          "ibu": 40
+        },
+        {
+          "name": "Truffle and Chocolate Stout - B-Sides",
+          "desc": "Pilot Brew - Truffle &amp; Chocolate Stout. Deep, earthy roast notes make this a gastronome's dream.",
+          "id": 110,
+          "ibu": 30
+        },
+        {
+          "name": "Vote Sepp",
+          "desc": "Vote Sepp is a single hop wheat beer brewed to a session strength, with hibiscus flower, which gives it an impressively vibrant shade of pink. What Vote Sepp lacks in complexity, it more than makes up for in a perfect balance of tartness, bitterness and body.",
+          "id": 112,
+          "ibu": 20
+        },
+        {
+          "name": "Morag's Mojito - B-Sides",
+          "desc": "A cunning cocktail blend of grapefruit hops, ginger spice and refreshing mint.",
+          "id": 116,
+          "ibu": 40
+        },
+        {
+          "name": "Hop Rocker",
+          "desc": "The first of our foray into lager beer, Hop Rocker is a high impact, hoppy behemoth made with 100% malt. Since 2007 we have been obsessive about quality, using only the best ingredients to ensure the flavour and craftsmanship of the beer in your glass. Hop Rocker is testament to that. The malt base gives this beer a sweet, balanced complexity while the combination of New Zealand and German hops merges new world tropical juiciness with old world peppery spice.",
+          "id": 117,
+          "ibu": 40
+        },
+        {
+          "name": "Bounty Hunter - Shareholder Brew",
+          "desc": "Brewed with our Equity Punks this rich, smooth stout is brewed with a blend of six malts, resulting in a welcoming, resonant black beer. From start to finish it carries an intense roastiness reminiscent of dark chocolate intertwined with a delicate hint of coconut and caramel.",
+          "id": 118,
+          "ibu": 35
+        },
+        {
+          "name": "Zeitgeist",
+          "desc": "Zeitgeist is an idiosyncratic alternative black lager. Its inspiration is found more than 200 years ago. Zeitgeist takes an age old classic, a forgotten masterpiece, and gives it relevance and an avant-garde edge.",
+          "id": 119,
+          "ibu": 32
+        },
+        {
+          "name": "Juniper Wheat Beer",
+          "desc": "A variant on the 2008 release of Bad Pixie, but hoppier. Substituting the lemon peel for Ahtanum provided a vibrant floral and lemon citrus hit, balancing the slight tartness from the wheat. This dry, effervescent brew is perfect on Scotland's one day of summer.",
+          "id": 125,
+          "ibu": 40
+        },
+        {
+          "name": "Spiced Cherry Sour - B-Sides",
+          "desc": "Think bakewell tart with Christmas spices.",
+          "id": 130,
+          "ibu": 20
+        },
+        {
+          "name": "5am Saint",
+          "desc": "Out of order and stability comes the rush of the pack. Berry and caramel riding alongside marmalade and chocolate. Spice and toast jostle with lychee and biscuit. The needle flicks to all points of the compass. It drives you towards the horizon, towards the vanishing point. And it keeps going...",
+          "id": 132,
+          "ibu": 30
+        },
+        {
+          "name": "Black Eye Joe (w\/ Stone Brewing Co)",
+          "desc": "A fresh tropical hit from this Black IPA, with undertones of roasted coffee. A well balanced, drinkable yet complex beer.",
+          "id": 133,
+          "ibu": 40
+        },
+        {
+          "name": "Growler",
+          "desc": "Brewed by Pivovar Group at BrewDog, specifically for thier bars, Pivo in Leeds, Sheffield Tap in Sheffield, and Euston Tap in Euston. It was then lagered for 2 months and dry hopped with citra.",
+          "id": 135,
+          "ibu": 38
+        },
+        {
+          "name": "Orange Blossom - B-Sides",
+          "desc": "Orange blossom honey braggot. A floral easy drinker with a hint of citrus.",
+          "id": 142,
+          "ibu": 20
+        },
+        {
+          "name": "Lizard Bride - Prototype Challenge",
+          "desc": "Wonderfully tart, bitter, piney and filled with the fruity elements from raspberries, blueberries and sour cherries. Oh, and it’s purple.",
+          "id": 143,
+          "ibu": 35
+        },
+        {
+          "name": "Hello My Name Is Little Ingrid",
+          "desc": "This beer hits all the high-points of Hello My Name is Ingrid – with one important exception. Brewed at 4.4% abv, Little Ingrid is a session- strength version of our cloudberry- infused celebration of all that is epic about Sweden. The zesty balance of citrus from the four different hops is just as pronounced as in the original.",
+          "id": 147,
+          "ibu": 35
+        },
+        {
+          "name": "AB:03",
+          "desc": "This Abstrakt started life as a simple imperial Ale, but upon the addition of fresh Scottish raspberries and strawberries, and left to mature for 2 years in Invergordon whisky casks that had held whisky for over 40 years, this beer transcended into something new.",
+          "id": 149,
+          "ibu": 14
+        },
+        {
+          "name": "Rhubarb Saison - B-Sides",
+          "desc": "Spiced peppercorn and rhubarb Saison.",
+          "id": 151,
+          "ibu": 25
+        },
+        {
+          "name": "Hoppy Saison - B-Sides",
+          "desc": "Hoppy citrus and tropical fruit Saison.",
+          "id": 153,
+          "ibu": 40
+        },
+        {
+          "name": "No Label",
+          "desc": "No Label is a postmodern, postgender non-binary brew; the world’s first beer made with transgender hops. Brewed with whole hop bines that have spontaneously changed from female to male, no label goes its own way. No Label balances a light, biscuity dryness from the malt base with delicate hints of fruity esters gifted by the fermentation. Finally, dry- hopping adds a layer of new world tropical &amp; pine flavours that add a unique twist to this classic Kölsch style beer. All profits from the sales of this beer were donated to LGBTQI+ events organisers Queerest of the Queer.",
+          "id": 154,
+          "ibu": 25
+        },
+        {
+          "name": "Edge",
+          "desc": "Low ABV, high flavour, this beer was brewed to show that a beer can have all the flavour without the drunken affects. Also this beer is one of BrewDog's original brews that made a rare appearance in cask. Spicy, malty biscuit and super drinkable.",
+          "id": 157,
+          "ibu": 36
+        },
+        {
+          "name": "77 Lager",
+          "desc": "Think of everything you know about lagers. Then forget it all instantly. 77 will redefine the experience forever. A Lager that actually tastes of something? You have to be kidding, right? 77 lager is made with 100% malt and whole leaf hops. It contains no preservatives, additives, cheap substitutes or any other junk. Maybe we are crazy. So what? Taste 77 Lager and we are pretty sure you will agree that the fine line between genius and insanity has just become a little more blurred.",
+          "id": 162,
+          "ibu": 30
+        },
+        {
+          "name": "This. Is. Lager",
+          "desc": "Brewed with 100% malt, ten times the hops of most industrial lagers and cold-conditioned for five weeks, this spicy, robust Pilsner is lager reborn. Expect a robust, full-bodied malt character on the front of the tongue, spicy citrus notes as it goes back through the palate and an assertive bitter finish with a lemon and pepper character to round things off.",
+          "id": 163,
+          "ibu": 37
+        },
+        {
+          "name": "Doodlebug",
+          "desc": "Doodlebug is our fusion of low strength and enormously high tropical hop levels – think a mashup of Hop Fiction and How to Disappear Completely, and you’re almost there. Clocking in at 2.8% ABV, Doodlebug is keg-only and is packed with Amarillo, Chinook and Mosaic; letting fly a hoppy buzzbomb at sub-session-strength.",
+          "id": 180,
+          "ibu": 35
+        },
+        {
+          "name": "All Day Long - Prototype Challenge",
+          "desc": "Prototype Challenge 2014. All Day Long is a mild like no other. This complex, low-alcohol brew was the third of our 2014 Prototypes. Featuring a boatload of seven different speciality malts and some of our favourite hops, this beer is resinous at first, transitioning into something akin to bitter orange marmalade spread onto a thick bread crust. This is for everyone who said BrewDog would never brew a mild...",
+          "id": 182,
+          "ibu": 30
+        },
+        {
+          "name": "Nuns With Guns",
+          "desc": "A dry-hopped Session Pilsner. At 4.2% this amber-hued lager packs a malty punch with toasty Munich character and a light caramel sweetness. From here, things take a sharp turn towards the hoppy flavour, with some serious US citrus packed classic hops.",
+          "id": 183,
+          "ibu": 25
+        },
+        {
+          "name": "Jasmine IPA",
+          "desc": "This has big floral aromas backed up with some of our favourite fruity hop flavours. Bitter, bright and refreshing, our Jasmine IPA is a perfect spring beer for drinking outside (under a patio heater, with a pair of gloves on).",
+          "id": 186,
+          "ibu": 40
+        },
+        {
+          "name": "Blitz Berliner Weisse",
+          "desc": "Our sour recipe for all fruit Blitz beers uses a process called kettle souring. In this we steep a bag of malt in the wort to allow the bacteria to grow in it.",
+          "id": 193,
+          "ibu": 8
+        },
+        {
+          "name": "Hello My Name Is Holy Moose",
+          "desc": "Cloudberry, lingonberry, blueberry and sea buckthorn meld with citrusy hops in an intensely sweet, fruity and floral aroma, with toasty malt notes and tropical fruit bursts. This bitter, resinous IPA follows up with a lemony punch in the mouth - cherry and blueberry sourness takes this pithy pale ale in a new direction before a long, dry finish.",
+          "id": 195,
+          "ibu": 35
+        },
+        {
+          "name": "Catherine's Pony (w\/ Beavertown)",
+          "desc": "An Imperial Smoked Porter with a nose like gooseberries and blueberries, stuffed with coffee, covered in chocolate and toasted on a campfire by the beach, Catherine’s Pony is robust and imposing with a herculean mouthfeel. Rich and smooth with roasted smoky flavours battling for prominence over the assertive bitterness. A satisfying hoppiness rounds off the palate.",
+          "id": 196,
+          "ibu": 40
+        },
+        {
+          "name": "AB:01",
+          "desc": "Made with the yeast from a bottle of Westvleteren 12, aged with vanilla beans. Only available in 375ml bottles. Limited to 3200 bottles. The first in our Abstrakt series.",
+          "id": 198,
+          "ibu": 20
+        },
+        {
+          "name": "International Arms Race (w\/ Flying Dog)",
+          "desc": "The International Arms Race was a new type of battle collaboration between hardcore American craft brewery Flying Dog and BrewDog. Both breweries attempted to brew an IPA with absolutely no hops.",
+          "id": 207,
+          "ibu": 0
+        },
+        {
+          "name": "Dead Metaphor",
+          "desc": "Scottish chocolate breakfast Stout - brewed with Brazilian Sertão coffee, Venezuelan cacao and (for the Scottish element) oatmeal. Smooth, chocolately and rich, with a honeycomb mouthfeel and a rich red berry coffee character. Brewed with our beer blogger friends from The Beer Cast and Hopzine.",
+          "id": 210,
+          "ibu": 30
+        },
+        {
+          "name": "Hop Fiction - Prototype Challenge",
+          "desc": "Hop Fiction is an explosively tropical US-style Pale Ale. We rolled up our hop-dusted sleeves and put some advanced brewing techniques to work on this seasonal brew. Hop Fiction’s incredible aromas and flavours are down to a combination of early and late hops. Bags of soft, rounded citrus and stone fruit layer up on a dry light biscuit backbone. Hop Fiction, beer fact.",
+          "id": 212,
+          "ibu": 40
+        },
+        {
+          "name": "Ace Of Simcoe",
+          "desc": "We love hops. We adore and worship their profile ability to transform beer. You could say that we have a terminal addiction. To celebrate this fetish we’re heroing our favourites in single hopped limited releases. No also starring, no extras, no compromise. The Hop is the Hero. A biscuity malty backbone builds to resinous pine with explosive citrus notes, culminating in a mango hit and a long bitter finish. This is pure Hop fusion, imploding with sensory overload. Our Ace in the hole, devastatingly singular, deliciously bitter. Serving up an Ace each and every time.",
+          "id": 220,
+          "ibu": 40
+        },
+        {
+          "name": "Blitz Series",
+          "desc": "We are bringing back our Blitz Series to 2016. Every Blitz we brew is different, due to the spontaneous souring process, and each version has a great blend of all the different flavours we look for in a Berlinerwiesse.",
+          "id": 221,
+          "ibu": 8
+        },
+        {
+          "name": "Prototype Pils 2.0",
+          "desc": "Our spin on a light, dry and bitter German lager. Hop driven with malt taking a back seat, Pils 2.0 is lined up to become a regular brew.",
+          "id": 223,
+          "ibu": 25
+        },
+        {
+          "name": "AB:20",
+          "desc": "An English Barley Wine brewed with coffee and milk, with rich toasty &amp; caramel flavours. To complete the tiramisu effect, we’ve blended this with a 3 year rum cask aged Imperial Stout.",
+          "id": 224,
+          "ibu": 20
+        },
+        {
+          "name": "Prototype Helles",
+          "desc": "Our spin on one-of the most popular beer styles ever conceived. A celebration of light, bready malt, with toasty hints and soft bitterness.",
+          "id": 228,
+          "ibu": 18
+        },
+        {
+          "name": "Ace Of Chinook",
+          "desc": "We love hops. We adore and worship their profile ability to transform beer. You could say that we have a terminal addiction. To celebrate this fetish we’re heroing our favourites in single hopped limited releases. No also starring, no extras, no compromise. The Hop is the Hero. A biscuity malty backbone builds to intense resinous pine with pithy citrus notes, culminating in a grapefruit hit and a long bitter finish. Our Ace in the hole, devastatingly singular, deliciously bitter. Serving up an Ace each and every time.",
+          "id": 231,
+          "ibu": 40
+        },
+        {
+          "name": "Ace Of Equinox",
+          "desc": "We love hops. We adore and worship their profile ability to transform beer. You could say that we have a terminal addiction. To celebrate this fetish we’re heroing our favourites in single hopped limited releases. No also starring, no extras, no compromise. The Hop is the Hero. A biscuity malty backbone builds to intense tropical fruit, with bitter resin notes, culminating with an explosive papya hit and a long bitter finish. Our Ace in the hole, devastatingly singular, deliciously bitter. Serving up an Ace each and every time.",
+          "id": 232,
+          "ibu": 40
+        },
+        {
+          "name": "Ace Of Citra",
+          "desc": "We love hops. We adore and worship their profile ability to transform beer. You could say that we have a terminal addiction. To celebrate this fetish we’re heroing our favourites in single hopped limited releases. No also starring, no extras, no compromise. The Hop is the Hero. A biscuity malty backbone layered with berry and resin, culminating with a lime zest hit and an explosive bitter citrus finish. Our Ace in the hole, devastatingly singular, deliciously bitter. Serving up an Ace each and every time.",
+          "id": 233,
+          "ibu": 40
+        },
+        {
+          "name": "Kingpin",
+          "desc": "A 4.7% German Pils with light, biscuit and toasty malt character, upon which is built a hop bitterness that provides complexity and a long, dry finish.",
+          "id": 238,
+          "ibu": 40
+        },
+        {
+          "name": "Blitz Saison",
+          "desc": "Belgium meets Berlin – incredible saison character with a bright and vibrant sour edge.",
+          "id": 240,
+          "ibu": 8
+        },
+        {
+          "name": "Gin Blitz",
+          "desc": "Our Blitz series sees us brew up low abv, super tart Berliner Weisse, and generally infuse them with bags of sour fruit flavour – but this batch uses gin botanicals instead.",
+          "id": 243,
+          "ibu": 8
+        },
+        {
+          "name": "Casino Rye Ale",
+          "desc": "We’ve split our bets with Casino Rye Ale and doubled up on the malt front, with barley and rye on the grain bill.",
+          "id": 246,
+          "ibu": 40
+        },
+        {
+          "name": "Small Batch: Sorachi Ace Session",
+          "desc": "This brew is a pale ale fermented with Belgian yeast and spiced with coriander seed.",
+          "id": 251,
+          "ibu": 25
+        },
+        {
+          "name": "Small Batch: Dortmunder",
+          "desc": "A pale lager, with toasty biscuit malt balanced against a robust spicy bitterness.",
+          "id": 252,
+          "ibu": 32
+        },
+        {
+          "name": "Small Batch: 90 Shilling",
+          "desc": "A malt-forward Scotch ale with a complex but mellow mix of toast crust, caramel, hints of cocoa, and a light hop spiciness.",
+          "id": 253,
+          "ibu": 25
+        },
+        {
+          "name": "Small Batch: Kellerbier",
+          "desc": "A pale lager, with toasty biscuit malt balances against a robust spicy bitterness.",
+          "id": 254,
+          "ibu": 25
+        },
+        {
+          "name": "Small Batch: Vermont IPA",
+          "desc": "A vermont style IPA, with low background bitterness, loaded with intense juicy fruit character.",
+          "id": 256,
+          "ibu": 35
+        },
+        {
+          "name": "Tropic Thunder",
+          "desc": "Tropic Thunder is the winner of the first ever #HomeBrewDog competition; the brainchild of Tom Doyle, this beer was the highest rated of the 307 beers that were tasted. A full-bodied and complex stout loaded with chocolate, mocha and roasty flavours, finishing with a vibrant burst of orange.",
+          "id": 259,
+          "ibu": 25
+        },
+        {
+          "name": "Small Batch: Vermont IPA V2.0",
+          "desc": "A second trial of our previous Small Batch Vermont IPA using a different yeast strain. A vermont style IPA, with low background bitterness, loaded with intense juicy fruit characters.",
+          "id": 262,
+          "ibu": 35
+        },
+        {
+          "name": "Small Batch: Mandarina Lager",
+          "desc": "A bitter pils-style lager which is packed with aromas of citrus and a dry, refreshing biscuit malt backbone. Light floral notes add to the complexity.",
+          "id": 263,
+          "ibu": 40
+        },
+        {
+          "name": "Small Batch: East Coast Crush",
+          "desc": "East Coast Crush is a Vermont style pale ale, packaged and served using our custom LIVE beer dispense. A session Vermont IPA, with low background bitterness, loaded with intense juicy mango, pineapple, peach and pine.",
+          "id": 264,
+          "ibu": 25
+        },
+        {
+          "name": "Pump Action Poet",
+          "desc": "A one-off beer which combines the sweet and juicy flavour of stonefruit with tropical hop aromas. This can features exclusive artwork by Tracie Ching.",
+          "id": 265,
+          "ibu": 40
+        },
+        {
+          "name": "Small Batch: Lemon Meringue Pie",
+          "desc": "Brewed to a concept voted on at Craft Beer Rising, this one-off beer is an experimental brew which emulates the flavour of lemon meringue pie.",
+          "id": 266,
+          "ibu": 5
+        },
+        {
+          "name": "Hazy Jane",
+          "desc": "A Vermont style IPA, with low background bitterness, loaded with juicy fruit character. Pine, stonefruit, mango, light resin and hints of lime peel - this juicy IPA is low in bitterness, full-bodied and smooth, enhancing the soft ripe fruit flavours.",
+          "id": 268,
+          "ibu": 30
+        },
+        {
+          "name": "Small Batch: Imperial Pale Weizen",
+          "desc": "An amplified version of a style we first brewed with Weihenstephan. A full-on deluge of spice and citrus, the new world hops bring spiced orange, lemon peel and fresh grassy and floral notes while the weizen base adds pepper, clove and banana.",
+          "id": 269,
+          "ibu": 25
+        },
+        {
+          "name": "Small Batch: Cranachan Cream Ale",
+          "desc": "A cream ale, brewed with raspberry and milk sugars, balancing sweet and tart summer berry with soft bitterness and a full bodied smooth mouthfeel.",
+          "id": 271,
+          "ibu": 8
+        },
+        {
+          "name": "Small Batch: Spelt & Honey Saison",
+          "desc": "A pilot kit Small Batch, experimenting with weizen yeast, honey and spelt.",
+          "id": 272,
+          "ibu": 22
+        },
+        {
+          "name": "Sidewalk Shark",
+          "desc": "A citrus-infused gose - a traditional German sour wheat beer brewed with salt, in this case with the addition of kaffir lime leaf and lemon peel.",
+          "id": 275,
+          "ibu": 22
+        },
+        {
+          "name": "Nine To Five Wizard",
+          "desc": "A classic German weissbeir with aromas of banana and clove, layered with New World hop aromas of orange.",
+          "id": 276,
+          "ibu": 35
+        },
+        {
+          "name": "Prototype Blonde Ale",
+          "desc": "This Blonde Ale is a new recipe and uses a new yeast - so it is a true Prototype. Originally lined up as part of the 2017 Prototype Challenge it was released shortly afterwards. but hey, these things happen.",
+          "id": 277,
+          "ibu": 15
+        },
+        {
+          "name": "Make Earth Great Again",
+          "desc": "In protest against the potential withdrawal of the USA from the Paris agreement, we brewed a saison (which ferments at high temperatures) with melted ice caps (glacier water) and cloudberries (an Arctic berry).",
+          "id": 280,
+          "ibu": 35
+        },
+        {
+          "name": "Pina Colada Sidewalk",
+          "desc": "After the success of the first version of Sidewalk Shark (a BrewDog bar exclusive), we decided to brew a second version, this time infused with tropical flavours of pineapple, coconut and lime.",
+          "id": 282,
+          "ibu": 10
+        },
+        {
+          "name": "Opaque Jake",
+          "desc": "Our first single-hop Vermont IPA; all the flavour in this beer comes from a combination of Citra's naturally complex flavour profile, the yeast-produced esters, and the biotransformation of the hop oils by its contact with the yeast.",
+          "id": 294,
+          "ibu": 20
+        },
+        {
+          "name": "Choco Libre",
+          "desc": "This one-off brew showcases the flavours of a Mexican spiced hot chocolate, infused with an imperial stout.",
+          "id": 295,
+          "ibu": 25
+        },
+        {
+          "name": "East Of Vermont",
+          "desc": "A Vermont IPA with fruit and milk sugars added - recreating fruity milkshake character in an IPA.",
+          "id": 297,
+          "ibu": 15
+        },
+        {
+          "name": "Raspberry Popsicle Parade",
+          "desc": "A draft-only kettle-soured raspberry ale, brewed to just 0.5% ABV, using our knowledge from brewing both Blitz and Nanny State. Aromas of fresh raspberry juice, soft red berries, and a blast of lemon zest, with a juicy palate encompassing zingy acidity and the smooth velvety note of oats, rounding out this low-ABV juicebox.",
+          "id": 299,
+          "ibu": 8
+        },
+        {
+          "name": "Indie Pale Ale",
+          "desc": "A non-dry-hopped pale ale, using new hopping technqiues and in- depth fermentation know-how.",
+          "id": 300,
+          "ibu": 30
+        },
+        {
+          "name": "Small Batch: Dry-hopped Pilsner",
+          "desc": "A BrewDog bar exclusive draft lager, brewed with Weihenstephan's lager yeast, and dry-hopped with the contemporary German variety Saphir; this lager has been lightly centrifuged and packaged at just under 28 days in tank.",
+          "id": 301,
+          "ibu": 37
+        },
+        {
+          "name": "Hazy Jane Bourbon Barrel Aged",
+          "desc": "A draft-only BrewDog bar exclusive; we have experimented with ageing our Vermount IPA for a short time in bourbon and rye barrels, both known for imparting flavour quickly compared to other types of barrel.",
+          "id": 302,
+          "ibu": 30
+        },
+        {
+          "name": "Hazy Jane Rye Barrel Aged",
+          "desc": "A draft-only BrewDog bar exclusive; we have experimented with ageing our Vermount IPA for a short time in bourbon and rye barrels, both known for imparting flavour quickly compared to other types of barrel.",
+          "id": 303,
+          "ibu": 30
+        },
+        {
+          "name": "AB:25",
+          "desc": "A super-smooth, full-bodied chewy- as-hell barley wine. Our latest concept brew spent 6 months drawing flavour from bourbon barrels.",
+          "id": 306,
+          "ibu": 35
+        },
+        {
+          "name": "Kamikaze Knitting Club",
+          "desc": "Our first 2018 Wildcard brew, Kamikaze Knitting Club is a one-off brew. A maple stout, Kamikaze combines dark malts with a classic Canadian export, adding to the warming malty and smokey character.",
+          "id": 307,
+          "ibu": 30
+        },
+        {
+          "name": "Very Big Moose",
+          "desc": "BrewDog vs Fierce Beer. A rebrew of the Fierce Beer &amp; Flagship bar Collabfest 2017 winning beer, Very Big Moose is being scaled up to our Ellon brewhouse.",
+          "id": 308,
+          "ibu": 25
+        },
+        {
+          "name": "Clockwork Tangerine",
+          "desc": "Winner of the 2017 Prototype Challenge, ClockWork Tangerine is a session strength IPA, infused with tangerine, and appears as our new Q2 Seasonal, replacing Hop Fiction.",
+          "id": 310,
+          "ibu": 37
+        },
+        {
+          "name": "Manic Mango",
+          "desc": "BrewDog v Brewski. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. Our Swedish collaboration with Brewski is a mango IPA.",
+          "id": 314,
+          "ibu": 20
+        },
+        {
+          "name": "SOS! (May Day!)",
+          "desc": "BrewDog vs Brlo. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. Our German collaboration is with BRLO, and the beer is a dry- hopped Maibock; a new world take on a strong pale lager.",
+          "id": 316,
+          "ibu": 34
+        },
+        {
+          "name": "Neverland",
+          "desc": "BrewDog vs Oedipus. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. This India pale lager has been brewed with Dutch brewers Oedipus.",
+          "id": 318,
+          "ibu": 40
+        },
+        {
+          "name": "Grano Giusto",
+          "desc": "BrewDog vs Birrificiano Italiano. One of a series of collaborations with European craft breweries, aimed at promoting engagement\nand market growth. Our Italian collaboration is with Birrificiano Italiano, and the beer is a dark lager brewed with a unique dark malt from an Italian micro-maltster.",
+          "id": 319,
+          "ibu": 28
+        },
+        {
+          "name": "King of Eights",
+          "desc": "A new 7.4% ABV East Coast IPA, King of Eights is one of the core Fanzine beers, and will feature evolving editions as part of our new subscription model.",
+          "id": 320,
+          "ibu": 20
+        },
+        {
+          "name": "Jinx Pale Ale",
+          "desc": "A new 4.7% ABV American pale ale, Jinx Pale Ale is one of the core Fanzine beers, and will feature evolving editions as part of our new subscription model.",
+          "id": 321,
+          "ibu": 35
+        },
+        {
+          "name": "Interstate Vienna Lager.",
+          "desc": "A new 5% ABV Vienna Lager, that features in Fanzine, our new subscription model.",
+          "id": 323,
+          "ibu": 25
+        },
+        {
+          "name": "Fools Gold Dortmunder Lager",
+          "desc": "A new 5.6% Dortmunder Lager, that featues in Fanzine, our new subscription model.",
+          "id": 324,
+          "ibu": 32
+        },
+        {
+          "name": "Zipcode",
+          "desc": "A new 5% Pilsner, that feaures in Fanzine, our new subscription model.",
+          "id": 325,
+          "ibu": 37
+        }
+      ],
+      "count": 121
+    }
+  } }
