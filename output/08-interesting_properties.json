@@ -1,0 +1,41 @@
+{
+  "strongest_beer": [ {
+      "name": "The End Of History",
+      "abv": "55",
+      "id": "24"
+    } ],
+  "8_abv_ids": [ 23, 64, 101, 184, 200, 242, 245, 257, 261 ],
+  "avarage_darkness": { "avg_srm":32.96190769230771, "avg_ebc":65.00584615384615 },
+  "contributors": [
+    "Sam Mason <samjbmason>",
+    "Ali Skinner <AliSkinner>",
+    "Matt Ball <GeordieMatt>",
+    "Iain Mullan <iainmullan>",
+    "Sasha <SashaMasondeCaires>",
+    "Ali Skinner <Ali SKinner>",
+    "Mike Francis <mikeffrancis@gmail.com>",
+    "Joakim Skoog <joakimskoog>",
+    "Lars Gregori <choas>",
+    "Phil Nash <philnash>",
+    "John Jenkman <johnjenkman>"
+  ],
+  "last_beer": {
+    "name": "Zipcode",
+    "id": "325"
+  },
+  "contribution_numbers": [
+    { "samjbmason":197 },
+    { "AliSkinner":21 },
+    { "GeordieMatt":12 },
+    { "iainmullan":1 },
+    { "SashaMasondeCaires":1 },
+    { "Ali SKinner":1 },
+    { "mikeffrancis@gmail.com":1 },
+    { "joakimskoog":1 },
+    { "choas":1 },
+    { "philnash":1 },
+    { "johnjenkman":88 }
+  ],
+  "highest_fermentation_celsius": { "name":"Simcoe", "temp":99, "id":178 },
+  "unit_types": [ "celsius", "grams", "kilogram", "kilograms", "litres", "ml", "total" ]
+}
