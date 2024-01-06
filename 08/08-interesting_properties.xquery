@@ -1,4 +1,5 @@
-(: :)
+(: Az adatokban található érdekesebb információkat kigyűjti és JSON formátumba menti. XPath lehetőségek bemutatására szolgál. 
+   A többe lekérdezéstől eltérően a második feladatban létrehozott állományt használja fel! :)
 xquery version '3.1';
 
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
@@ -54,5 +55,5 @@ return
             "temp": max($fermentationCelsiusTemp),
             "id": $highestFermentationCelsiusTempBeer/data(@id) => xs:int()
         },
-        "8_abv_ids": array {$beers/beer/abv[. = 8]/../attribute::id ! data(.) ! xs:int(.) }
+        "8_abv_ids": array {$beers/beer/abv[. = 8]/../attribute::id ! data(.) ! xs:int(.)}
     }
