@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+.bg {
+  font-family: "Brewmaster", cursive;
+  background-color: yellow;
+  padding: 1rem;
+  width: 50%;
+  max-height: 30%;
+  margin: 0 auto;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table {
+  width: 100%;
+  height: 80%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+td {
+  text-align: center;
+  padding: 0.5rem;
+}
+.desc {
+  text-align: justify;
+  font-size: small;
+  padding: 0.5rem;
+}
+tr td:first-child {
+  text-align: right;
+}
+.image {
+  width: 15%;
+  max-width: 15%;
+}
+.image img {
+  max-height: 18rem;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+thead {
+  font-size: x-large;
+}
+.light {
+  background-color: #f7f867;
+}
+.medium {
+  background-color: #713d2b;
+}
+.dark {
+  background-color: #1a1211;
+  color: whitesmoke;
+}
+.dark .image {
+  background-color: whitesmoke;
+}
