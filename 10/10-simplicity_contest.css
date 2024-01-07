@@ -1,0 +1,31 @@
+body {
+  background-color: wheat;
+}
+.bg {
+  font-family: "Brewmaster", cursive;
+  padding: 1rem;
+  width: 50%;
+  max-height: 30%;
+  margin: 0 auto;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table {
+  width: 33%;
+  height: 80%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+td {
+  text-align: center;
+  padding: 0.5rem;
+  background-color: white;
+}
+.medal {
+  font-size: xx-large;
+}
+.empty {
+  background-color: wheat;
+}
