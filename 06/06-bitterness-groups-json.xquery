@@ -1,5 +1,5 @@
 (: A söröket keseűség (IBU szám) alapján 3+1 csoportba osztja, majd ezeket átalakított formában, 
-kategórián belül ID szerint növekvő sorrendbe egy JSON asszociatív tömbbe menti :)
+   kategórián belül ID szerint növekvő sorrendbe egy JSON asszociatív tömbbe menti :)
 xquery version '3.1';
 
 declare boundary-space preserve;

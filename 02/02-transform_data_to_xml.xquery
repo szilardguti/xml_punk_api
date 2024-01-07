@@ -1,4 +1,6 @@
-(: Az JSON-ból elérhető adatokat átalakítja XML formátumba :)
+(: Az JSON-ból elérhető adatokat átalakítja XML formátumba
+   Első futtatásnál hibát dobhat, az API-ból kinyert adatok néhol hibásak, itt egy sörnek van helytelenül megadva a PH értéke
+   :)
 xquery version '3.1';
 
 import schema default element namespace "" at "02-transform_data_to_xml.xsd";
